@@ -1,7 +1,9 @@
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
 # original: /:categories/:year/:month/:day/:title
-permalink: /:title
+permalink:           "/:title"
+excerpt_separator: "<!--more-->"
+timezone: America/Vancouver
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
