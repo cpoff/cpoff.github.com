@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-        <title>Curt Poff&#39;s blog</title>
+        <title>Curt Poff</title>
         <description>Curt Poff is a web developer, producer living in Portland Oregon. This is his personal blog.</description>
         <link>http://blog.curtpoff.com</link>
         <atom:link href="http://blog.curtpoff.com/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 03 Dec 2015 20:02:57 -0800</lastBuildDate>
-        <pubDate>Thu, 03 Dec 2015 20:02:57 -0800</pubDate>
+        <lastBuildDate>Thu, 03 Dec 2015 20:07:10 -0800</lastBuildDate>
+        <pubDate>Thu, 03 Dec 2015 20:07:10 -0800</pubDate>
         <ttl>60</ttl>
 
 
