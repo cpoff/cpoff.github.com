@@ -3,7 +3,8 @@ layout: post
 title:  Reset, all over again
 author: Curt Poff
 date:   2015-09-19 23:36:34
-categories : [jekyll, github]
+categories : jekyll
+tags: github
 comments: True
 ---
 
