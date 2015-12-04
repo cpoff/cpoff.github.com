@@ -1,1 +1,0 @@
-# mindfulyoga.github.com
