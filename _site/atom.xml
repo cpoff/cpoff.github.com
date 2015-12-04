@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Curt Poff</title>
+ <title>Curt Poff&#39;s blog</title>
  <link href="http://blog.curtpoff.com/atom.xml" rel="self"/>
  <link href="http://blog.curtpoff.com"/>
- <updated>2015-12-03T19:48:50-08:00</updated>
+ <updated>2015-12-03T20:02:57-08:00</updated>
  <id>http://blog.curtpoff.com</id>
  <author>
    <name>Curt Poff</name>

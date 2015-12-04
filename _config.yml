@@ -9,11 +9,11 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Curt Poff
-description: "Curt Poff is a long-time tech worker who lives in Portland Oregon. Proud graduate of Portland State."
-tagline: 'Web developer, producer, project manager'
+title : Curt Poff's blog
+tagline: Personal blog for Curt Poff
 author :
   name : Curt Poff
+  description : "Curt Poff is a long-time tech worker who lives in Portland Oregon. Proud graduate of Portland State."
   email : curt.poff@gmail.com
   github: cpoff
   twitter: cpoff
