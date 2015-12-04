@@ -3,7 +3,8 @@ layout: post
 title:  "My blog strategy"
 author: Curt Poff
 date:   2015-09-22
-categories: [jobs, jekyll]
+categories: jekyll
+tags: blog
 comments: True
 ---
 
