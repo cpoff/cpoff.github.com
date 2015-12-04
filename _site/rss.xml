@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+        <title>Curt Poff</title>
+        <description>Curt Poff - Curt Poff</description>
+        <link>http://blog.curtpoff.com</link>
+        <atom:link href="http://blog.curtpoff.com/rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Thu, 03 Dec 2015 18:12:40 -0800</lastBuildDate>
+        <pubDate>Thu, 03 Dec 2015 18:12:40 -0800</pubDate>
+        <ttl>60</ttl>
+
+
+        <item>
+                <title>New Linux installation on old iMac</title>
+                <description>&lt;p&gt;I installed Ubuntu Linux on an old iMac over the Thanksgiving holiday weekend. Actually, I did most of the work on Thanksgiving day and cleaned it all up today (Friday)&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;This iMac was built in 2007and has an Intel Core 2 Duo processor. It had been sitting in the closet since we moved back to Oregon because it’s waaaaaay too slow for modern use. Since it was just collecting dust I decided to try &lt;a href=&quot;http://www.howtogeek.com/187410/how-to-install-and-dual-boot-linux-on-a-mac/&quot;&gt;this little experiment&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So I created a Ubuntu live CD (a boot disk) and installed the Re-Fit utility that allows Mac users to choose which OS/disk to boot from. Once I fired it up and booted to the Linux install, I just ran the installer and viola. A fresh and much faster desktop machine I can now use without having to spend a bunch of time watching the spinning beachball.&lt;/p&gt;
+
+&lt;p&gt;I hope to use the iMac as a media center, duties previously allotted to my Mac mini. The DVD drive on that mini crapped out recently so I was looking for replacements. We’ll see how XBMC and Plex work out.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=/linux-imac&amp;amp;text=New Linux installation on old iMac&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+  share this page with your followers&lt;/a&gt; 
+and/or 
+&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
+  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+                <link>http://blog.curtpoff.com/linux-imac</link>
+                <guid>http://blog.curtpoff.com/linux-imac</guid>
+                <pubDate>Fri, 27 Nov 2015 00:00:00 -0800</pubDate>
+        </item>
+
+        <item>
+                <title>Bootstrap homepage now operational</title>
+                <description>&lt;p&gt;I now have a valid website hosted at &lt;a href=&quot;http://curtpoff.com&quot;&gt;curtpoff.com&lt;/a&gt;. You may also notice that I’ve successfully installed a CNAME record pointing this blog to a subdomain of curtpoff.com.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Not sure why that took so long but it’s finally finished. I also purchased the cpoff.com domain (thanks for the cheap sale, namecheap.com) and set a permanent redirect to the curtpoff.com site. That page is pretty much a fancy ‘business card’ site built using Bootstrap. There won’t be many updates to the page contents. All updates will continue appear on the blog.&lt;/p&gt;
+
+&lt;p&gt;I plan to keep using the (free!) GitHub Pages/Jekyll system to run the blog. It’s working well and I feel comfortable using it. It also provides all the functionality I need.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=/new-homepage&amp;amp;text=Bootstrap homepage now operational&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+  share this page with your followers&lt;/a&gt; 
+and/or 
+&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
+  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+                <link>http://blog.curtpoff.com/new-homepage</link>
+                <guid>http://blog.curtpoff.com/new-homepage</guid>
+                <pubDate>Sat, 21 Nov 2015 00:00:00 -0800</pubDate>
+        </item>
+
+        <item>
+                <title>Here comes the ham</title>
+                <description>&lt;p&gt;Just participated in another annual tradition, this time with a Thanksgiving twist. I ordered a ham and bacon shipment from &lt;a href=&quot;http://www.smokehouse.com/&quot;&gt;Burgers Smokehouse&lt;/a&gt; in Missouri.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Ann and I aren’t really turkey fans and we don’t like the fuss of fixing one for Thanksgiving. So we got in the habit of ordering one of the fantastic country hams from Burgers. It comes &lt;a href=&quot;http://www.smokehouse.com/burgers.nsf/item/spiral-sliced-city-ham&quot;&gt;cooked and sliced&lt;/a&gt;, sealed in a vacuum pack. You just have to heat it up for about an hour and it just falls right off the bone.&lt;/p&gt;
+
+&lt;p&gt;It keeps very well too. Good for leftovers for a couple weeks. Plus you get a big, meaty ham bone when it’s all done. So I may take a crack at a crock pot of ham &amp;amp; beans this year.&lt;/p&gt;
+
+&lt;p&gt;Ann also like the bacon sampler. They have a variety of bacon varieties so we just get a sampler pack. Here’s &lt;a href=&quot;http://www.smokehouse.com/burgers.nsf/item/sliced-bacon-sampler&quot;&gt;the one&lt;/a&gt; we got this year. Some of you might prefer the &lt;a href=&quot;http://www.smokehouse.com/burgers.nsf/item/bacon-steak-sampler&quot;&gt;bacon steaks&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Looking forward to the feast next week!&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=/ham-feast&amp;amp;text=Here comes the ham&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+  share this page with your followers&lt;/a&gt; 
+and/or 
+&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
+  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+                <link>http://blog.curtpoff.com/ham-feast</link>
+                <guid>http://blog.curtpoff.com/ham-feast</guid>
+                <pubDate>Fri, 20 Nov 2015 00:00:00 -0800</pubDate>
+        </item>
+
+        <item>
+                <title>Meat on the table</title>
+                <description>&lt;p&gt;As I &lt;a href=&quot;/deer-season/&quot;&gt;mentioned earlier&lt;/a&gt;, this weekend was the opening of firearm deer season in my hometown. It’s a special event for me. It’s a family affair that reinforces our hunting tradition.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;First, I’ve participated in opening day hunts in Missouri for the past 15 years (give or take). And before that I participated sporadically for 15-20 years. Now it’s a lead-pipe lock. In early summer we book our flights for the long weekend in early November. No discussion.&lt;/p&gt;
+
+&lt;p&gt;I can easily label the trip a family event because &lt;a href=&quot;http://gofitgirl.com&quot;&gt;my lovely wife&lt;/a&gt; always goes with me. She doesn’t hunt but she does enjoy lounging around my parents house in her pajamas, curling up with a book and a cup of tea. Just her thing, especially when it’s cold outside. This year was special because she also taught a yoga workshop. Nine attendees paid good money to learn from the master. Very proud of her.&lt;/p&gt;
+
+&lt;p&gt;For the past few years my brother, Craig, has joined the hunt along with his oldest son, James. His youngest, Jackson, comes along on the trip but doesn’t participate in the hunt.&lt;/p&gt;
+
+&lt;p&gt;Craig, James, and I went out both mornings very early. Left the house around 5:30 a.m. A short drive takes us to the farm where we park, load our guns, and walk to our respective deer stands. This year James used the platform stand, Craig squatted in a fence row up near a natural salt lick, and I parked my city-slicker butt in my elevated deer blind on the nose of an open field. My blind has a propane heater  and comfy chair so it’s perfect for me on cold, windy days.&lt;/p&gt;
+
+&lt;p&gt;If you’re wondering, it’s usually a passive hunt technique. We sit in a tree - or some other kind of elevated position, like a blind - and wait for a deer to walk past. If a buck has substantial antlers it must have at least four points on one side (meaning it must be a relatively mature male deer). But a doe or button/spike buck don’t have any restrictions. If you have the common ‘antler-less’ tag, you can shoot almost anything. Just not an immature buck.&lt;/p&gt;
+
+&lt;p&gt;We saw a few deer this year and finally got a pair in the final hours of day two. Usually we hunt only big bucks (more than 8 points) on Saturday and Sunday morning. Then we loosen that rule for Sunday afternoon with intent to put meat on the table for another year. I saw several does on Saturday and Sunday, but only one shootable buck. That one got into the woods before I could get him scoped. The second one I saw was a spike buck (less than three-inch antler, so legal) and he met a clean/quick demise. Same thing goes for the yearling buck James harvested. Venison supply has been replenished for another year.&lt;/p&gt;
+
+&lt;p&gt;Of course while all this hunting and lounging goes on my parents are hard at work. Mom cooked all our favorite dishes (we all have several), while dad served as errand runner, dishwasher, general dad duties. He also does all advance planning on hunt logistics. They do a perfect job every time and we head back to the West Coast stuffed to the gills with hospitality.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=/hunt-report&amp;amp;text=Meat on the table&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+  share this page with your followers&lt;/a&gt; 
+and/or 
+&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
+  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+                <link>http://blog.curtpoff.com/hunt-report</link>
+                <guid>http://blog.curtpoff.com/hunt-report</guid>
+                <pubDate>Mon, 16 Nov 2015 00:00:00 -0800</pubDate>
+        </item>
+
+        <item>
+                <title>Move to Portland</title>
+                <description>&lt;p&gt;Our good friend Eric Blumenau came to town for work this week with his girlfriend, Danielle Reichner. We had a great time showing them around town.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Maybe I’d had a few too many beers (very likely), maybe they brought it out in me, maybe I was just an idiot. But whatever the reason I found myself trying to convince them to move to Portland. Pretty good jobs, great quality of living, outdoor activities out the wazoo. The whole shebang.&lt;/p&gt;
+
+&lt;p&gt;This is probably going to be the case for anyone who happens to visit. I can’t help it. I just love this place.&lt;/p&gt;
+
+&lt;p&gt;The only drawbacks I consistently point out are:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;The weather. We get four seasons. Hot summer (especially this year), cold winter, and two very rainy and inconsistent transitions through fall and spring. It is what it is. Enjoy the good times and deal with the bad.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The lack of diversity. This one is a bit tougher. Portland is overwhelmingly white. I only notice because I used to live in Oakland, one of the most multi-cultural cities on the planet. Now we live alongside a giant loaf of Wonder bread.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;All that being what it is, Portland is still a great place to relocate. Jobs for tech folks are somewhat plentiful (I’m testing that theory now), the surrounding mountains and beaches are world class, and the booming beer and food scenes are just as good.&lt;/p&gt;
+
+&lt;p&gt;I hope I convinced my friends to give PDX a serious look. And if anyone else wants to be convince, just let me know. I’m willing and able.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=/portland-awaits&amp;amp;text=Move to Portland&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+  share this page with your followers&lt;/a&gt; 
+and/or 
+&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
+  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+                <link>http://blog.curtpoff.com/portland-awaits</link>
+                <guid>http://blog.curtpoff.com/portland-awaits</guid>
+                <pubDate>Fri, 13 Nov 2015 00:00:00 -0800</pubDate>
+        </item>
+
+        <item>
+                <title>Deer season</title>
+                <description>&lt;p&gt;This weekend is our annual pilgrimage to the family homestead in Missouri. The trip always coincides with the opening weekend of firearm deer season, in which I plan to participate.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Ann always joins too but her activity almost always involves lounging on the couch in a Snuggie the parents purchased special for her use. This year she’s also doing some work: A special yoga workshop. The hometown is usually devoid of yoga classes so this should be a spcial treat.&lt;/p&gt;
+
+&lt;p&gt;My brother is bringing both of his young sons for the hunt, too. So I imagine I’ll have company in my ground blind should the weather turn bad. No way they’re going to last on his elevated platform stand out in the elements. Looking forward to it.&lt;/p&gt;
+
+&lt;p&gt;I keep trying to get my friends &lt;a href=&quot;http://davidsasaki.name&quot;&gt;David&lt;/a&gt; and &lt;a href=&quot;http://cyrusfarivar.com&quot;&gt;Cyrus&lt;/a&gt; to spend some time with me in the deer stand. Hopefully one of those guys will take me up on it one of these days.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=/deer-season&amp;amp;text=Deer season&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+  share this page with your followers&lt;/a&gt; 
+and/or 
+&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
+  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+                <link>http://blog.curtpoff.com/deer-season</link>
+                <guid>http://blog.curtpoff.com/deer-season</guid>
+                <pubDate>Wed, 11 Nov 2015 00:00:00 -0800</pubDate>
+        </item>
+
+        <item>
+                <title>Royals are champions</title>
+                <description>&lt;p&gt;The Portland celebration went late into the night on Sunday as the &lt;a href=&quot;http://espn.go.com/mlb/recap?gameId=351101121&quot;&gt;KC Royals won the World Series&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;The Royals are my original team. I grew up rooting for them, my first big-league game was there, and my first title came in 1985. Then 30 years of small-market problems. Sitting there watching big-market teams (Yankees!!) spend ten times more in payroll and dominate the league.&lt;/p&gt;
+
+&lt;p&gt;Looking back on this year’s Series, it’s easy to say the Mets weren’t even the best team in the NL. They just got hot at the right time and wound up in the championship round (where they got dominated, four games to one). The Royals put on an impressive display of aggressive play and resilience.&lt;/p&gt;
+
+&lt;p&gt;KC was a fun team to watch and a great team to root for. Hats off to them. Several times this week I’ll be cracking open a fresh beer and re-watching the final game. Proud as hell.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=/royals-win&amp;amp;text=Royals are champions&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+  share this page with your followers&lt;/a&gt; 
+and/or 
+&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
+  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+                <link>http://blog.curtpoff.com/royals-win</link>
+                <guid>http://blog.curtpoff.com/royals-win</guid>
+                <pubDate>Tue, 03 Nov 2015 00:00:00 -0800</pubDate>
+        </item>
+
+        <item>
+                <title>Portland Code School goes under</title>
+                <description>&lt;p&gt;On Saturday night I got word via Slack channel that the locks at &lt;a href=&quot;http://www.portlandcodeschool.com&quot;&gt;Portland Code School&lt;/a&gt; have been changed and everyone’s on their own.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;I just completed the flagship course at PCS - the Full Stack Javascript Immersion - so I have skin in the game. The shit part is the fact that there are classes currently in session, and it appears unlikely that any refunds will be offered.&lt;/p&gt;
+
+&lt;p&gt;Once word got out some students and employees immediately formed a channel and &lt;a href=&quot;http://pdxcode.community/&quot;&gt;picked up the communication&lt;/a&gt; in an effort to get the current students set up to finish what they started. That includes generous offers of work space (from graduates and mentors) and teaching assistance from the fantastic staff. All of whom are now out of work.&lt;/p&gt;
+
+&lt;p&gt;It’s also a hit to folks like myself who have just recently entered the job market. We rely on (and were quite explicitly promised) support in our job search. I’m sure I’ll be fine, but it’s still bad news.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=/pcs-closes&amp;amp;text=Portland Code School goes under&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+  share this page with your followers&lt;/a&gt;
+and/or
+&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
+  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+                <link>http://blog.curtpoff.com/pcs-closes</link>
+                <guid>http://blog.curtpoff.com/pcs-closes</guid>
+                <pubDate>Wed, 21 Oct 2015 00:00:00 -0700</pubDate>
+        </item>
+
+        <item>
+                <title>Big October</title>
+                <description>&lt;p&gt;October is typically a busy month in our household. Ann’s birthday, our anniversary, plus almost every other anniversary on the planet. Another big birthday this year belongs to one of my best friends: Ken Conforti. Ken and I were roommates back in the late ’90s. He turns the big 5-0 next week.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;It’s already a big birthday but this year another great friend of ours - Martin Spanninger - is coming all the way from Germany to celebrate the big day. He’ll spend 10 days in Portland, probably drinking beer and watching American sports on TV the whole time. Fine by me.&lt;/p&gt;
+
+&lt;p&gt;Martin and I both went to Portland State and we both know this town pretty well. I’m sure there will also be a trip to the coast or Hood River for a hike.&lt;/p&gt;
+
+&lt;p&gt;At least we have tickets for one Timbers game and a pre-season Blazers game. That should be enough to keep us occupied.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Twitter peeps: Please
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=/big-october&amp;amp;text=Big October&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+  share this page with your followers&lt;/a&gt;
+and/or
+&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
+  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+                <link>http://blog.curtpoff.com/big-october</link>
+                <guid>http://blog.curtpoff.com/big-october</guid>
+                <pubDate>Mon, 12 Oct 2015 00:00:00 -0700</pubDate>
+        </item>
+
+        <item>
+                <title>Happy birthday to my lovely wife</title>
+                <description>&lt;p&gt;My wife - Ann Chihak Poff - turns 41 on Friday. Check out &lt;a href=&quot;http://gofitgirl.com/&quot;&gt;her blog&lt;/a&gt; and I’m sure you’ll agree that she may be the most lovely 41-year-old on the planet.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Later on this month she and I will celebrate our 12th anniversary. The best 12 years of my life. I can’t imagine life without her.&lt;/p&gt;
+
+&lt;p&gt;We’ll be celebrating with friends by having drinks/dinner at Montage, her favorite place of all time. Spicy Mac for m’lady.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Twitter peeps: Please
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=/anns-birthday&amp;amp;text=Happy birthday to my lovely wife&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+  share this page with your followers&lt;/a&gt; 
+and/or 
+&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
+  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+                <link>http://blog.curtpoff.com/anns-birthday</link>
+                <guid>http://blog.curtpoff.com/anns-birthday</guid>
+                <pubDate>Fri, 09 Oct 2015 00:00:00 -0700</pubDate>
+        </item>
+
+        <item>
+                <title>Time to play with some Jekyll themes</title>
+                <description>&lt;p&gt;Now that I have the Jekyll basics down, I’m going to start tweaking some theme/template options. I want more stuff in the header, and more obvious linking between this blog and my GitHub profile. I’m not convinced the simple footer does enough.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;So don’t worry if you see things changing day-to-day. It’s all part of the plan.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Twitter peeps: Please
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=/jekyll-options&amp;amp;text=Time to play with some Jekyll themes&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+  share this page with your followers&lt;/a&gt; 
+and/or 
+&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
+  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+                <link>http://blog.curtpoff.com/jekyll-options</link>
+                <guid>http://blog.curtpoff.com/jekyll-options</guid>
+                <pubDate>Mon, 05 Oct 2015 00:00:00 -0700</pubDate>
+        </item>
+
+        <item>
+                <title>Fall is in the air</title>
+                <description>&lt;p&gt;Baseball playoffs are about to begin, meaningful football games, and fall colors about hit peak season. I love this time of year.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Kansas City Royals are in good shape for a playoff run once again. But I don’t expect they’ll do quite as good as last year. It’s still great rooting for my original pro sport team.&lt;/p&gt;
+
+&lt;p&gt;Mizzou has been up/down and are about to be consumed by a QB controversy. The upcoming trip to Athens Georgia probably won’t help matters either.&lt;/p&gt;
+
+&lt;p&gt;Portland State Vikings are still making noise and are now ranked in FCS. I’ll withhold judgement until after both Montana schools visit Portland.&lt;/p&gt;
+
+&lt;p&gt;Chiefs are maddening, as always. Flashes of great, but always followed by something colossally unfortunate.&lt;/p&gt;
+
+&lt;p&gt;Great time to be a sports fan.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Twitter peeps: Please
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=/autumn-here&amp;amp;text=Fall is in the air&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+  share this page with your followers&lt;/a&gt; 
+and/or 
+&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
+  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+                <link>http://blog.curtpoff.com/autumn-here</link>
+                <guid>http://blog.curtpoff.com/autumn-here</guid>
+                <pubDate>Sat, 03 Oct 2015 00:00:00 -0700</pubDate>
+        </item>
+
+        <item>
+                <title>Ciao bella</title>
+                <description>&lt;p&gt;Our friend Monica visited us this weekend. She and her husband Giovanni (both Italians) are friends of ours from the Bay Area. They were in Ann’s cycle class at the gym and we got to know each other over the years.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Monica came to support Ann, and take all of her cycle and yoga classes over the weekend. She did just that. I think she also enjoyed a little break away from taking care of the family for a few days. Boozy girl brunches and such.&lt;/p&gt;
+
+&lt;p&gt;We had a lot of family visits over the summer which was very nice. But Monica is the first ‘friend’ to book a visit. We were very happy to host. Hopefully she can visit again soon and maybe get her workaholic husband to join. We promise to have limoncello on hand.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Twitter peeps: Please
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=/ciao-bella&amp;amp;text=Ciao bella&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+  share this page with your followers&lt;/a&gt; 
+and/or 
+&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
+  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+                <link>http://blog.curtpoff.com/ciao-bella</link>
+                <guid>http://blog.curtpoff.com/ciao-bella</guid>
+                <pubDate>Mon, 28 Sep 2015 00:00:00 -0700</pubDate>
+        </item>
+
+        <item>
+                <title>I served up a massive jinx</title>
+                <description>&lt;p&gt;Two weeks ago I shot my mouth off about how every single football team in my corner happened to win. Royals, Chiefs (went on the road to thump the Texans), Mizzou (looked horrible against an inferior opponent), Arizona, Portland State (knocked off Washington State for the school’s first ever win against a Pac-12 opponent).&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;No sooner had the words flowed from my keyboard that I realized the jinx. Sure enough, every single one of those teams took an ass-whuppin’ the following week except Arizona (they played N. Arizona) and PSU.&lt;/p&gt;
+
+&lt;p&gt;Plus BOTH of my fantasy football teams - in very competitive leagues - went down in flames. I had one team where both WRs and one RB scored 0 (zero!) points.&lt;/p&gt;
+
+&lt;p&gt;Oooof!!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Twitter peeps: Please
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=/fotball-jinx&amp;amp;text=I served up a massive jinx&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+  share this page with your followers&lt;/a&gt;
+and/or
+&lt;a href=&quot;https://twitter.com/cpoff&quot; target=&quot;_blank&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+                <link>http://blog.curtpoff.com/fotball-jinx</link>
+                <guid>http://blog.curtpoff.com/fotball-jinx</guid>
+                <pubDate>Thu, 24 Sep 2015 09:28:45 -0700</pubDate>
+        </item>
+
+        <item>
+                <title>My blog strategy</title>
+                <description>&lt;p&gt;Let me elaborate on something I mentioned earlier:&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;For now I’ve been fiddling with this blog and my GitHub Pages stuff in general.
+The &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; blog portion is fascinating because it involves a
+very basic platform for web publishing. The entire process has been well-documented
+and demonstrated in &lt;a href=&quot;http://joshualande.com/jekyll-github-pages-poole/&quot;&gt;Joshue Lande’s blog entry&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I’ve created many, many blogs. Some professional, some private, some well-planned, some on a whim, the whole shebang. And none of them did what I wanted. I’d create a new WordPress site and throw a couple posts up there to get it started. Then add a couple content modules and Twitter/FB streams to fill the space.&lt;/p&gt;
+
+&lt;p&gt;The problem is that I’m very good and creating content aggregators and very bad an creating the content itself. I’d rather write the code to serves the content rather than write the posts to support it.&lt;/p&gt;
+
+&lt;p&gt;I hope this &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; blog is different and that it sustains everyone’s attention, including my own. It won’t have comments or share buttons. My social scheme is to close-up with a line about Twitter that will be something like:&lt;/p&gt;
+
+&lt;p&gt;[&lt;em&gt;Please
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=/blog-strategy&amp;amp;text=My blog strategy&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page&lt;/a&gt; with your followers
+and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
+  follow me&lt;/a&gt;.&lt;/em&gt;]&lt;/p&gt;
+
+&lt;p&gt;Anyway … Jekyll should be easy to maintain and play around with. Expect a few tricks as we go, but nothing fancy.&lt;/p&gt;
+
+&lt;p&gt;Curt&lt;/p&gt;
+</description>
+                <link>http://blog.curtpoff.com/blog-strategy</link>
+                <guid>http://blog.curtpoff.com/blog-strategy</guid>
+                <pubDate>Tue, 22 Sep 2015 00:00:00 -0700</pubDate>
+        </item>
+
+        <item>
+                <title>Job search strategy</title>
+                <description>&lt;p&gt;Now that I’ve spoken to several companies about web developer jobs, it’s clear the market is more competitive than I originally estimated. I’ve been dead-set against pursuing internships or volunteer opportunities in favor of a full-time (&lt;em&gt;paid&lt;/em&gt;) role. I plan to maintain that strategy for as long as possible.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;For now I’ve been fiddling with this blog and my GitHub Pages stuff in general. The &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; blog portion is fascinating because it involves a very basic platform for web publishing. The entire process has been well-documented and demonstrated in &lt;a href=&quot;http://joshualande.com/jekyll-github-pages-poole/&quot;&gt;Joshue Lande’s blog entry&lt;/a&gt;. More on the Jekyll platform in the future.&lt;/p&gt;
+
+&lt;p&gt;[&lt;em&gt;Twitter peeps: Please
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=/job-search-strategy&amp;amp;text=Job search strategy&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page&lt;/a&gt; with your followers
+and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
+  follow me&lt;/a&gt;.&lt;/em&gt;]&lt;/p&gt;
+
+</description>
+                <link>http://blog.curtpoff.com/job-search-strategy</link>
+                <guid>http://blog.curtpoff.com/job-search-strategy</guid>
+                <pubDate>Mon, 21 Sep 2015 04:21:14 -0700</pubDate>
+        </item>
+
+        <item>
+                <title>Reset, all over again</title>
+                <description>&lt;p&gt;I feel like I finally have a grip on Jekyll as it runs in GitHub Pages. It took several attempts to install the Jekyll engine (parser) inside the existing directory and setup, but it seems to be working. I had to delete the Pages directory a couple times and it looks like I lost some update counts. But whatevs.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;The challenge will be updates as they use a fairly manual template process.&lt;/p&gt;
+
+</description>
+                <link>http://blog.curtpoff.com/jekyll-reset-again</link>
+                <guid>http://blog.curtpoff.com/jekyll-reset-again</guid>
+                <pubDate>Sat, 19 Sep 2015 16:36:34 -0700</pubDate>
+        </item>
+
+        <item>
+                <title>Still on the lookout</title>
+                <description>&lt;p&gt;Summer is drawing to a close here in Portland, and I’m still looking for work. I had a good month of job search once my code class was done. But no solid offers came from it. So I’ll continue the search.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Soon I’ll likely expand the job search from just developer positions to include web producer and project manager gigs. I’m still determined to be a developer but I’m also sensitive to the fact that I need steady work. The sooner the better. I hope it all works out.&lt;/p&gt;
+</description>
+                <link>http://blog.curtpoff.com/summer</link>
+                <guid>http://blog.curtpoff.com/summer</guid>
+                <pubDate>Thu, 17 Sep 2015 00:00:00 -0700</pubDate>
+        </item>
+
+        <item>
+                <title>Jekyll is now running</title>
+                <description>&lt;p&gt;I recently installed the Jekyll blog engine on my GitHub Pages site. All good so far but the configuration is going to take some time.&lt;/p&gt;
+</description>
+                <link>http://blog.curtpoff.com/hello-world</link>
+                <guid>http://blog.curtpoff.com/hello-world</guid>
+                <pubDate>Thu, 17 Sep 2015 00:00:00 -0700</pubDate>
+        </item>
+
+        <item>
+                <title>Panic!</title>
+                <description>&lt;p&gt;Today several of us from &lt;a href=&quot;http://www.portlandcodeschool.com&quot;&gt;Portland Code School&lt;/a&gt; took a tour of &lt;a href=&quot;http://panic.com/&quot;&gt;Panic Software&lt;/a&gt;. We do about one tour a week and this one was pretty unique.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;First, Panic is the first company we toured where I’m a customer. I’ve been a long-time Transmit FTP user. Plus I’ve become a bit of a Coda fan lately. First class software all around.&lt;/p&gt;
+
+&lt;p&gt;Secondly, this was the first pure software business we’ve seen. It’s not an agency or coders-for-hire outfit. They build their own stuff and sell it for a living.&lt;/p&gt;
+
+&lt;p&gt;The most-interesting thing about Panic is their absolute lack of employee turnover. They only have about 15 employees to begin with. And the fellow speaking today said they’ve only had two departures in his tenure (since 2011).&lt;/p&gt;
+
+&lt;p&gt;In today’s tech market, that’s absolutely tremendous. I guess it shows that if you take care of your employees, you don’t have to deal with turnover.&lt;/p&gt;
+
+</description>
+                <link>http://blog.curtpoff.com/panic</link>
+                <guid>http://blog.curtpoff.com/panic</guid>
+                <pubDate>Wed, 27 May 2015 14:17:09 -0700</pubDate>
+        </item>
+
+
+</channel>
+</rss>
