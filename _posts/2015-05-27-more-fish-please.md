@@ -7,9 +7,7 @@ categories: diet
 comments: True
 ---
 
-Over the years, my wife and I got into the habit of eating most meals separately. The idea evolved from Ann’s dietary needs.
-
-She eats pretty healthy. I usually piece together what I can.
+Over the years, my wife and I got into the habit of eating most meals separately. The idea evolved from Ann’s dietary needs. She eats pretty healthy. I usually piece together what I can. 
 
 <!--more-->
 
