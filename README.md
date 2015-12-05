@@ -1,3 +1,7 @@
+This is the repo for my GitHub Pages blog, found at [blog.curtpoff.com](http://blog.curtpoff.com).
+
+Here's the original README.md that came with the JB theme:
+
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
