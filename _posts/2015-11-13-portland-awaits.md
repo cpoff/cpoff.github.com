@@ -28,10 +28,4 @@ I hope I convinced my friends to give PDX a serious look. And if anyone else wan
 
 -cp
 
-*Please
-<a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via=cpoff" 
-   target="_blank">
-  share this page with your followers</a> 
-and/or 
-<a href="https://twitter.com/cpoff">
-  follow me</a>!*
+*Please <a href="https://twitter.com/intent/tweet?url={{ site.production_url }}{{ page.url }}&text={{ page.title }}&via=cpoff" target="_blank">share this page with your followers</a> and/or <a href="https://twitter.com/cpoff">follow me</a>!*
