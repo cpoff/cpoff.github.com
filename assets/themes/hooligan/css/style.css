@@ -124,7 +124,6 @@ hr {
 /* Content */
 /* line 110, ../_sass/_base.scss */
 .content {
-  margin-top: 20px;
   /* when there's no page-header */
   /* Wide column content */
 }
@@ -300,7 +299,7 @@ div.content div#page-index {
 .zocial.rss:focus,
 .zocial.rss:hover {
   color:#fb9d3a !important;
-}
+}  
 
 /* Layout */
 /* line 2, ../_sass/_responsive.scss */
