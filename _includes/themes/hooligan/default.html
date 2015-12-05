@@ -50,20 +50,6 @@
               </ul>
               <ul class="nav pull-right social visible-desktop">
                 <li class="divider-vertical"></li>
-                {% if site.author.github %}
-                <li>
-                  <a href="https://github.com/{{ site.author.github }}" class="zocial github icon" target="_blank">
-                    <span class="hidden-desktop">Github</span>
-                  </a>
-                </li>
-                {% endif %}
-                {% if site.author.googleplus %}
-                <li>
-                  <a href="https://plus.google.com/{{ site.author.googleplus }}" class="zocial googleplus icon" target="_blank">
-                    <span class="hidden-desktop">Google+</span>
-                  </a>
-                </li>
-                {% endif %}
                 {% if site.author.twitter %}
                 <li>
                   <a href="https://twitter.com/{{ site.author.twitter }}" class="zocial twitter icon" target="_blank">
@@ -85,10 +71,24 @@
                   </a>
                 </li>
                 {% endif %}
+                {% if site.author.github %}
+                <li>
+                  <a href="https://github.com/{{ site.author.github }}" class="zocial github icon" target="_blank">
+                    <span class="hidden-desktop">Github</span>
+                  </a>
+                </li>
+                {% endif %}
+                {% if site.author.googleplus %}
+                <li>
+                  <a href="https://plus.google.com/{{ site.author.googleplus }}" class="zocial googleplus icon" target="_blank">
+                    <span class="hidden-desktop">Google+</span>
+                  </a>
+                </li>
+                {% endif %}
                 {% if site.author.feedburner %}
                 <li>
-                  <a href="http://feeds.feedburner.com/{{ site.author.feedburner }}" class="zocial rss icon" target="_blank">
-                    <span class="hidden-desktop">FeedBurner</span>
+                  <a href="http://blog.curtpoff.com/rss.xml" class="zocial rss icon" target="_blank">
+                    <span class="hidden-desktop">RSS</span>
                   </a>
                 </li>
                 {% endif %}
