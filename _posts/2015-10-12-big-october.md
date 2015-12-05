@@ -20,10 +20,4 @@ At least we have tickets for one Timbers game and a pre-season Blazers game. Tha
 
 -cp
 
-*Twitter peeps: Please
-<a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via=cpoff"
-   target="_blank">
-  share this page with your followers</a>
-and/or
-<a href="https://twitter.com/cpoff">
-  follow me</a>!*
+*Please <a href="https://twitter.com/intent/tweet?url={{ site.production_url }}{{ page.url }}&text={{ page.title }}&via=cpoff" target="_blank">share this page with your followers</a> and/or <a href="https://twitter.com/cpoff">follow me</a>!*
