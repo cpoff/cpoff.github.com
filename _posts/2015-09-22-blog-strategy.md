@@ -24,7 +24,7 @@ The problem is that I'm very good and creating content aggregators and very bad 
 I hope this [Jekyll](https://jekyllrb.com/) blog is different and that it sustains everyone's attention, including my own. It won't have comments or share buttons. My social scheme is to close-up with a line about Twitter that will be something like:
 
 [*Please
-<a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via=cpoff"
+<a href="https://twitter.com/intent/tweet?url={{ site.production_url }}{{ page.url }}&text={{ page.title }}&via=cpoff"
    target="_blank">share this page</a> with your followers
 and/or <a href="https://twitter.com/cpoff">
   follow me</a>.*]
