@@ -92,6 +92,11 @@ hr {
 .navbar {
   margin-bottom: 0;
 }
+
+.footer {
+  padding-bottom: 20px;
+}
+
 /* line 83, ../_sass/_base.scss */
 .navbar div.navbar-inner {
   -webkit-border-radius: 0;
