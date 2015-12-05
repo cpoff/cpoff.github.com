@@ -38,8 +38,8 @@
 
             <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
 
-            <div class="nav-collapse nav-fixed-top">
-              <ul class="nav navbar-nav">
+            <div class="nav-collapse navba-fixed-top">
+              <ul class="nav">
                 {% assign pages_list = site.pages %}
                 {% assign group = 'navigation' %}
                 {% include JB/pages_list %}
@@ -105,7 +105,7 @@
     </div><!--/.page-wrap -->
 
     <footer>
-      <div class="container">
+      <div class="footer">
         <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
           with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
           and <a href="http://github.com/dhulihan/hooligan" target="_blank">The Hooligan Theme</a>

@@ -291,6 +291,16 @@ div.content div#page-index {
   color: #46c0fb !important;
 }
 
+.zocial.facebook:focus,
+.zocial.facebook:hover {
+  color: #46c0fb !important;
+}
+
+.zocial.github:focus,
+.zocial.github:hover {
+  color: #33333 !important;
+}
+
 /* line 264, ../_sass/_base.scss */
 .zocial.linkedin:focus,
 .zocial.linkedin:hover {
