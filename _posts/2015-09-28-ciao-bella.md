@@ -15,11 +15,6 @@ Monica came to support Ann, and take all of her cycle and yoga classes over the 
 
 We had a lot of family visits over the summer which was very nice. But Monica is the first 'friend' to book a visit. We were very happy to host. Hopefully she can visit again soon and maybe get her workaholic husband to join. We promise to have limoncello on hand.
 
+-cp
 
-*Twitter peeps: Please
-<a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via=cpoff" 
-   target="_blank">
-  share this page with your followers</a> 
-and/or 
-<a href="https://twitter.com/cpoff">
-  follow me</a>!*
+*Please <a href="https://twitter.com/intent/tweet?url={{ site.production_url }}{{ page.url }}&text={{ page.title }}&via=cpoff" target="_blank">share this page with your followers</a> and/or <a href="https://twitter.com/cpoff">follow me</a>!*
