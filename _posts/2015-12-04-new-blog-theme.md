@@ -18,10 +18,4 @@ Also let it be know that I'm extremely satisfied running my blog on [GitHub](htt
 
 More things to come, I'm sure. But I feel like [my homepage](http://curtpoff.com) and blog are starting to take shape.
 
-*Please
-<a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via=cpoff" 
-   target="_blank">
-  share this page with your followers</a> 
-and/or 
-<a href="https://twitter.com/cpoff">
-  follow me</a>!*
+*Please <a href="https://twitter.com/intent/tweet?url={{ site.production_url }}{{ page.url }}&text={{ page.title }}&via=cpoff" target="_blank">share this page with your followers</a> and/or <a href="https://twitter.com/cpoff">follow me</a>!*
