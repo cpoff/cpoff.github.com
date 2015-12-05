@@ -4,7 +4,7 @@
  <title>Curt Poff</title>
  <link href="http://blog.curtpoff.com/atom.xml" rel="self"/>
  <link href="http://blog.curtpoff.com"/>
- <updated>2015-12-05T15:50:08-08:00</updated>
+ <updated>2015-12-05T15:55:17-08:00</updated>
  <id>http://blog.curtpoff.com</id>
  <author>
    <name>Curt Poff</name>
@@ -372,7 +372,7 @@ and demonstrated in &lt;a href=&quot;http://joshualande.com/jekyll-github-pages-
 &lt;p&gt;I hope this &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; blog is different and that it sustains everyone’s attention, including my own. It won’t have comments or share buttons. My social scheme is to close-up with a line about Twitter that will be something like:&lt;/p&gt;
 
 &lt;p&gt;[&lt;em&gt;Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=/blog-strategy&amp;amp;text=My blog strategy&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page&lt;/a&gt; with your followers
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/blog-strategy&amp;amp;text=My blog strategy&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page&lt;/a&gt; with your followers
 and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;.&lt;/em&gt;]&lt;/p&gt;
 
@@ -393,10 +393,7 @@ and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
 
 &lt;p&gt;For now I’ve been fiddling with this blog and my GitHub Pages stuff in general. The &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; blog portion is fascinating because it involves a very basic platform for web publishing. The entire process has been well-documented and demonstrated in &lt;a href=&quot;http://joshualande.com/jekyll-github-pages-poole/&quot;&gt;Joshue Lande’s blog entry&lt;/a&gt;. More on the Jekyll platform in the future.&lt;/p&gt;
 
-&lt;p&gt;[&lt;em&gt;Twitter peeps: Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=/job-search-strategy&amp;amp;text=Job search strategy&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page&lt;/a&gt; with your followers
-and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
-  follow me&lt;/a&gt;.&lt;/em&gt;]&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/job-search-strategy&amp;amp;text=Job search strategy&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -425,6 +422,10 @@ and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
 &lt;!--more--&gt;
 
 &lt;p&gt;Soon I’ll likely expand the job search from just developer positions to include web producer and project manager gigs. I’m still determined to be a developer but I’m also sensitive to the fact that I need steady work. The sooner the better. I hope it all works out.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/summer&amp;amp;text=Still on the lookout&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
