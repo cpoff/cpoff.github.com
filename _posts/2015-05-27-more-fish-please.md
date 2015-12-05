@@ -16,3 +16,7 @@ Since we returned to the Pacific Northwest - with both of us being around the ho
 My favorite thing about salmon is that it requires very little help. You bake for 10-15 minutes and send it straight to the plate with no need for oil or sauce.
 
 Pair it with some green beans and garlic toast and you have my go-to meal for 2015.
+
+-cp
+
+*Please <a href="https://twitter.com/intent/tweet?url={{ site.production_url }}{{ page.url }}&text={{ page.title }}&via=cpoff" target="_blank">share this page with your followers</a> and/or <a href="https://twitter.com/cpoff">follow me</a>!*
