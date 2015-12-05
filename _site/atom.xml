@@ -4,7 +4,7 @@
  <title>Curt Poff</title>
  <link href="http://blog.curtpoff.com/atom.xml" rel="self"/>
  <link href="http://blog.curtpoff.com"/>
- <updated>2015-12-05T14:03:59-08:00</updated>
+ <updated>2015-12-05T15:50:08-08:00</updated>
  <id>http://blog.curtpoff.com</id>
  <author>
    <name>Curt Poff</name>
@@ -24,6 +24,8 @@
 &lt;p&gt;The &lt;a href=&quot;http://jekyllbootstrap.com/&quot;&gt;Jekyll Bootstrap&lt;/a&gt; construction seems well suited for my needs. It has all the social buttons and plug-ins I need. There are about half a dozen stock themes, so don’t be surprised if you see a few of them over the coming months.&lt;/p&gt;
 
 &lt;p&gt;Also let it be know that I’m extremely satisfied running my blog on &lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt;. They provide free hosting as long as you don’t require much advanced functionality. The Jekyll platform - which is a static site construction - is lightning fast and extremely secure. And you can’t beat the price.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; The top nav should now be both responsive and sticky. The only catch is that it isn’t sticky once it collapses. I’ll see if there’s anyway to fix that.&lt;/p&gt;
 
 &lt;p&gt;More things to come, I’m sure. But I feel like &lt;a href=&quot;http://curtpoff.com&quot;&gt;my homepage&lt;/a&gt; and blog are starting to take shape.&lt;/p&gt;
 
@@ -53,12 +55,7 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=/linux-imac&amp;amp;text=New Linux installation on old iMac&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
-  share this page with your followers&lt;/a&gt; 
-and/or 
-&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
-  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/linux-imac&amp;amp;text=New Linux installation on old iMac&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -77,12 +74,7 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=/new-homepage&amp;amp;text=Bootstrap homepage now operational&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
-  share this page with your followers&lt;/a&gt; 
-and/or 
-&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
-  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/new-homepage&amp;amp;text=Bootstrap homepage now operational&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -105,12 +97,7 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=/ham-feast&amp;amp;text=Here comes the ham&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
-  share this page with your followers&lt;/a&gt; 
-and/or 
-&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
-  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/ham-feast&amp;amp;text=Here comes the ham&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -141,12 +128,7 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=/hunt-report&amp;amp;text=Meat on the table&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
-  share this page with your followers&lt;/a&gt; 
-and/or 
-&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
-  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/hunt-report&amp;amp;text=Meat on the table&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -180,12 +162,7 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=/portland-awaits&amp;amp;text=Move to Portland&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
-  share this page with your followers&lt;/a&gt; 
-and/or 
-&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
-  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/portland-awaits&amp;amp;text=Move to Portland&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -206,12 +183,7 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=/deer-season&amp;amp;text=Deer season&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
-  share this page with your followers&lt;/a&gt; 
-and/or 
-&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
-  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/deer-season&amp;amp;text=Deer season&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -232,12 +204,7 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=/royals-win&amp;amp;text=Royals are champions&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
-  share this page with your followers&lt;/a&gt; 
-and/or 
-&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
-  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/royals-win&amp;amp;text=Royals are champions&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -258,12 +225,7 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=/pcs-closes&amp;amp;text=Portland Code School goes under&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
-  share this page with your followers&lt;/a&gt;
-and/or
-&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
-  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/pcs-closes&amp;amp;text=Portland Code School goes under&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -284,12 +246,7 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Twitter peeps: Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=/big-october&amp;amp;text=Big October&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
-  share this page with your followers&lt;/a&gt;
-and/or
-&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
-  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/big-october&amp;amp;text=Big October&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -308,12 +265,7 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Twitter peeps: Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=/anns-birthday&amp;amp;text=Happy birthday to my lovely wife&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
-  share this page with your followers&lt;/a&gt; 
-and/or 
-&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
-  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/anns-birthday&amp;amp;text=Happy birthday to my lovely wife&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -330,12 +282,7 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Twitter peeps: Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=/jekyll-options&amp;amp;text=Time to play with some Jekyll themes&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
-  share this page with your followers&lt;/a&gt; 
-and/or 
-&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
-  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/jekyll-options&amp;amp;text=Time to play with some Jekyll themes&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -360,12 +307,7 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Twitter peeps: Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=/autumn-here&amp;amp;text=Fall is in the air&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
-  share this page with your followers&lt;/a&gt; 
-and/or 
-&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
-  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/autumn-here&amp;amp;text=Fall is in the air&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -382,12 +324,9 @@ and/or
 
 &lt;p&gt;We had a lot of family visits over the summer which was very nice. But Monica is the first ‘friend’ to book a visit. We were very happy to host. Hopefully she can visit again soon and maybe get her workaholic husband to join. We promise to have limoncello on hand.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Twitter peeps: Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=/ciao-bella&amp;amp;text=Ciao bella&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
-  share this page with your followers&lt;/a&gt; 
-and/or 
-&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
-  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/ciao-bella&amp;amp;text=Ciao bella&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -406,11 +345,7 @@ and/or
 
 &lt;p&gt;Oooof!!&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Twitter peeps: Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=/fotball-jinx&amp;amp;text=I served up a massive jinx&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
-  share this page with your followers&lt;/a&gt;
-and/or
-&lt;a href=&quot;https://twitter.com/cpoff&quot; target=&quot;_blank&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/fotball-jinx&amp;amp;text=I served up a massive jinx&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  

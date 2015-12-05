@@ -40,7 +40,7 @@ a {
 }
 /* line 37, ../_sass/_base.scss */
 a:hover {
-  color: #d4edf9;
+  color: #e01d30;
   text-decoration: none;
 }
 
@@ -323,6 +323,7 @@ div.content div#page-index {
 .navbar {
   margin-bottom: 0;
 }
+
 /* line 4, ../_sass/_responsive.scss */
 .navbar div.navbar-inner {
   -webkit-border-radius: 0;
