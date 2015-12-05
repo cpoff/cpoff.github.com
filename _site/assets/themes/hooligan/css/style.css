@@ -150,6 +150,7 @@ hr {
 }
 /* line 134, ../_sass/_base.scss */
 .content p {
+  padding-top: 3px;
   padding-bottom: 15px;
   line-height: 25px;
   margin: 0;
@@ -299,7 +300,7 @@ div.content div#page-index {
 .zocial.rss:focus,
 .zocial.rss:hover {
   color:#fb9d3a !important;
-}  
+}
 
 /* Layout */
 /* line 2, ../_sass/_responsive.scss */
