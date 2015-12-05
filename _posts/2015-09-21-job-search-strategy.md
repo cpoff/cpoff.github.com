@@ -13,9 +13,5 @@ Now that I've spoken to several companies about web developer jobs, it's clear t
 
 For now I've been fiddling with this blog and my GitHub Pages stuff in general. The [Jekyll](https://jekyllrb.com/) blog portion is fascinating because it involves a very basic platform for web publishing. The entire process has been well-documented and demonstrated in [Joshue Lande's blog entry](http://joshualande.com/jekyll-github-pages-poole/). More on the Jekyll platform in the future.
 
-[*Twitter peeps: Please
-<a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via=cpoff"
-   target="_blank">share this page</a> with your followers
-and/or <a href="https://twitter.com/cpoff">
-  follow me</a>.*]
+*Please <a href="https://twitter.com/intent/tweet?url={{ site.production_url }}{{ page.url }}&text={{ page.title }}&via=cpoff" target="_blank">share this page with your followers</a> and/or <a href="https://twitter.com/cpoff">follow me</a>!*
 
