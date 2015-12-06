@@ -5,8 +5,8 @@
         <description>Curt Poff is a web developer, producer living in Portland Oregon. This is his personal blog.</description>
         <link>http://blog.curtpoff.com</link>
         <atom:link href="http://blog.curtpoff.com/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 05 Dec 2015 15:58:30 -0800</lastBuildDate>
-        <pubDate>Sat, 05 Dec 2015 15:58:30 -0800</pubDate>
+        <lastBuildDate>Sat, 05 Dec 2015 16:01:17 -0800</lastBuildDate>
+        <pubDate>Sat, 05 Dec 2015 16:01:17 -0800</pubDate>
         <ttl>60</ttl>
 
 
@@ -20,12 +20,14 @@
 
 &lt;p&gt;Also let it be know that I’m extremely satisfied running my blog on &lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt;. They provide free hosting as long as you don’t require much advanced functionality. The Jekyll platform - which is a static site construction - is lightning fast and extremely secure. And you can’t beat the price.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; The top nav should now be both responsive and sticky. The only catch is that it isn’t sticky once it collapses. I’ll see if there’s anyway to fix that.&lt;/p&gt;
-
 &lt;p&gt;More things to come, I’m sure. But I feel like &lt;a href=&quot;http://curtpoff.com&quot;&gt;my homepage&lt;/a&gt; and blog are starting to take shape.&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; The top nav should now be both responsive and sticky. The only catch is that it isn’t sticky once it collapses. I’ll see if there’s anyway to fix that.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
 &lt;p&gt;&lt;em&gt;Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=/new-blog-theme&amp;amp;text=New theme for the Jekyll blog&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/new-blog-theme&amp;amp;text=New theme for the Jekyll blog&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
   share this page with your followers&lt;/a&gt; 
 and/or 
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;

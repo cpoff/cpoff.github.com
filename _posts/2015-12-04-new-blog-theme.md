@@ -16,12 +16,14 @@ The [Jekyll Bootstrap](http://jekyllbootstrap.com/) construction seems well suit
 
 Also let it be know that I'm extremely satisfied running my blog on [GitHub](https://github.com). They provide free hosting as long as you don't require much advanced functionality. The Jekyll platform - which is a static site construction - is lightning fast and extremely secure. And you can't beat the price.
 
-**Update:** The top nav should now be both responsive and sticky. The only catch is that it isn't sticky once it collapses. I'll see if there's anyway to fix that.
-
 More things to come, I'm sure. But I feel like [my homepage](http://curtpoff.com) and blog are starting to take shape.
 
+**Update:** The top nav should now be both responsive and sticky. The only catch is that it isn't sticky once it collapses. I'll see if there's anyway to fix that.
+
+-cp
+
 *Please
-<a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via=cpoff" 
+<a href="https://twitter.com/intent/tweet?url={{ site.production_url }}{{ page.url }}&text={{ page.title }}&via=cpoff" 
    target="_blank">
   share this page with your followers</a> 
 and/or 
