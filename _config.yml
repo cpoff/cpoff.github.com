@@ -12,7 +12,7 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Curt Poff
-tagline: Personal blog for Curt Poff
+tagline: Web developer, producer, project manager
 author :
   name : Curt Poff
   description : "Curt Poff is a long-time tech worker who lives in Portland Oregon. Proud graduate of Portland State."
