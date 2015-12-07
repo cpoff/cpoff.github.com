@@ -1,6 +1,6 @@
 This is the repo for my GitHub Pages blog, found at [blog.curtpoff.com](http://blog.curtpoff.com).
 
-Here's the original README.md that came with the JB theme:
+Here's the original README.md that came with the JB theme. For the archives, I guess.
 
 # Jekyll-Bootstrap
 
