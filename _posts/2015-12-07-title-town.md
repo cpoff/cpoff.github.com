@@ -18,7 +18,7 @@ I'm very excited to have been along for TWO championships this year. Lucky me.
 
 The thrilling win over Dallas in the opening leg of the semifinals was really good. But the best part was the shootout against Sporting KC in the single-game playoff. One potential PK winner for KC went off *both* posts before bouncing out and giving new life to the Timbers.
 
-Then yesterday the Timbers were able to cling to an early lead and hang on to win the MLS Cup. First in franchise history.
+Then yesterday the Timbers were able to cling to an early lead and hang on to win the MLS Cup. First in franchise history and the first top-level championship for Portland since the '76 Blazers.
 
 So I'm thinking I should be getting a couple calls in the near future from teams (*cough* Trail Blazers, Oregon Ducks *cough*) with an offer of free season tickets. Come on, guys. I have the Golden Touch.
 
