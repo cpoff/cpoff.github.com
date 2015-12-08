@@ -5,10 +5,45 @@
         <description>Curt Poff is a web developer, producer living in Portland Oregon. This is his personal blog.</description>
         <link>http://blog.curtpoff.com</link>
         <atom:link href="http://blog.curtpoff.com/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 05 Dec 2015 16:01:17 -0800</lastBuildDate>
-        <pubDate>Sat, 05 Dec 2015 16:01:17 -0800</pubDate>
+        <lastBuildDate>Mon, 07 Dec 2015 21:28:03 -0800</lastBuildDate>
+        <pubDate>Mon, 07 Dec 2015 21:28:03 -0800</pubDate>
         <ttl>60</ttl>
 
+
+        <item>
+                <title>I&#39;m all about championships</title>
+                <description>&lt;p&gt;I’m very excited to have been along for TWO championships this year. Lucky me.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;The &lt;a href=&quot;http://www.kcroyals.com&quot;&gt;KC Royals&lt;/a&gt;. You all know my lifelong devotion to the boys in blue. So happy to have been around to see the beginnings of the first small-market baseball dynasty. I’ve been a sports fan my entire life. But I’ve only lived in cities for the World Series title: three in San Fran (2010, ‘12, ‘14) and one in Phoenix (D-Backs 2001). I watched the Royals all year long on MLB.TV.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Now the &lt;a href=&quot;http://www.timbers.com/&quot;&gt;Portland Timbers&lt;/a&gt;. Went to several regular-season games - including a Cascadia Cup battle against Seattle where I sat in the Timbers Army - along with two playoff games. Plus one pre-season game and an exhibition for the T2 reserves against Newcastle Utd. (T2 won easily).&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The thrilling win over Dallas in the opening leg of the semifinals was really good. But the best part was the shootout against Sporting KC in the single-game playoff. One potential PK winner for KC went off &lt;em&gt;both&lt;/em&gt; posts before bouncing out and giving new life to the Timbers.&lt;/p&gt;
+
+&lt;p&gt;Then yesterday the Timbers were able to cling to an early lead and hang on to win the MLS Cup. First in franchise history and the first top-level championship for Portland since the ‘76 Blazers.&lt;/p&gt;
+
+&lt;p&gt;So I’m thinking I should be getting a couple calls in the near future from teams (&lt;em&gt;cough&lt;/em&gt; Trail Blazers, Oregon Ducks &lt;em&gt;cough&lt;/em&gt;) with an offer of free season tickets. Come on, guys. I have the Golden Touch.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/title-town&amp;amp;text=I&#39;m all about championships&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+  share this page with your followers&lt;/a&gt; 
+and/or 
+&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
+  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+                <link>http://blog.curtpoff.com/title-town</link>
+                <guid>http://blog.curtpoff.com/title-town</guid>
+                <pubDate>Mon, 07 Dec 2015 00:00:00 -0800</pubDate>
+        </item>
 
         <item>
                 <title>New theme for the Jekyll blog</title>
@@ -426,15 +461,6 @@ and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
 </description>
                 <link>http://blog.curtpoff.com/summer</link>
                 <guid>http://blog.curtpoff.com/summer</guid>
-                <pubDate>Thu, 17 Sep 2015 00:00:00 -0700</pubDate>
-        </item>
-
-        <item>
-                <title>Jekyll is now running</title>
-                <description>&lt;p&gt;I recently installed the Jekyll blog engine on my GitHub Pages site. All good so far but the configuration is going to take some time.&lt;/p&gt;
-</description>
-                <link>http://blog.curtpoff.com/hello-world</link>
-                <guid>http://blog.curtpoff.com/hello-world</guid>
                 <pubDate>Thu, 17 Sep 2015 00:00:00 -0700</pubDate>
         </item>
 
