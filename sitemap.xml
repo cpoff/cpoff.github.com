@@ -4,31 +4,29 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 <url>
   <loc>http://blog.curtpoff.com/</loc>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>http://blog.curtpoff.com/archive.html</loc>
-  <priority>0.80</priority>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>http://blog.curtpoff.com/categories.html</loc>
-  <priority>0.80</priority>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>http://blog.curtpoff.com/pages.html</loc>
-  <priority>0.80</priority>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>http://blog.curtpoff.com/tags.html</loc>
-  <priority>0.80</priority>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>http://blog.curtpoff.com/about/</loc>
-  <priority>0.80</priority>
+  <priority>0.95</priority>
 </url>
 <url>
   <loc>http://blog.curtpoff.com/title-town/</loc>
@@ -128,6 +126,6 @@
 </url>
 <url>
   <loc>http://blog.curtpoff.com/sitemap.txt</loc>
-  <priority>0.64</priority>
+  <priority>0.60</priority>
 </url>
 </urlset>
