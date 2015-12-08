@@ -1,82 +1,161 @@
 This is the repo for my GitHub Pages blog, found at [blog.curtpoff.com](http://blog.curtpoff.com).
 
-Here's the original README.md that came with the JB theme. For the archives, I guess.
+Here's an extensive example of Markdown:
 
-# Jekyll-Bootstrap
+An h1 header
+============
 
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
+Paragraphs are separated by a blank line.
 
-## Usage
+2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
+look like:
 
-For all usage and documentation please see: <http://jekyllbootstrap.com>
+  * this one
+  * that one
+  * the other one
 
-## Version
+Note that --- not considering the asterisk --- the actual text
+content starts at 4-columns in.
 
-0.3.0 - stable and versioned using [semantic versioning](http://semver.org/).
+> Block quotes are
+> written like so.
+>
+> They can span multiple paragraphs,
+> if you like.
 
-**NOTE:** 0.3.0 introduces a new theme which is not backwards compatible in the sense it won't _look_ like the old version.
-However, the actual API has not changed at all.
-You might want to run 0.3.0 in a branch to make sure you are ok with the theme design changes.
-
-## Milestones
-
-[0.4.0](https://github.com/plusjade/jekyll-bootstrap/milestones/v%200.4.0) - next release [ETA 03/29/2015]
-
-### GOALS
-
-* No open PRs against master branch.
-* Squash some bugs.
-* Add some new features (low-hanging fruit).
-* Establish social media presence.
+Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
+in chapters 12--14"). Three dots ... will be converted to an ellipsis.
+Unicode is supported. ☺
 
 
-### Bugs
 
-|Bug |Description
-|------|---------------
-|[#86](https://github.com/plusjade/jekyll-bootstrap/issues/86)  |&#x2611; Facebook Comments
-|[#113](https://github.com/plusjade/jekyll-bootstrap/issues/113)|&#x2611; ASSET_PATH w/ page & post
-|[#144](https://github.com/plusjade/jekyll-bootstrap/issues/144)|&#x2610; BASE_PATH w/ FQDN
-|[#227](https://github.com/plusjade/jekyll-bootstrap/issues/227)|&#x2611; Redundant JB/setup
+An h2 header
+------------
 
-### Features
+Here's a numbered list:
 
-|Bug |Description
-|------|---------------
-|[#98](https://github.com/plusjade/jekyll-bootstrap/issues/98)  |&#x2611; GIST Integration
-|[#244](https://github.com/plusjade/jekyll-bootstrap/issues/244)|&#x2611; JB/file_exists Helper
-|[#42](https://github.com/plusjade/jekyll-bootstrap/issues/42)  |&#x2611; Sort collections of Pages / Posts
-|[#84](https://github.com/plusjade/jekyll-bootstrap/issues/84)  |&#x2610; Detecting production mode
+ 1. first item
+ 2. second item
+ 3. third item
 
-### TODOS
+Note again how the actual text starts at 4 columns in (4 characters
+from the left side). Here's a code sample:
 
-Review existing pull requests against plusjake/jekyll-bootstrap:master. Merge or close each.
+    # Let me re-iterate ...
+    for i in 1 .. 10 { do-something(i) }
 
-* Create twitter account. Add link / icon on jekyllbootstrap.com.
-* Create blog posts under plusjade/gh-pages, expose on jekyllbootstrap.com, feed to twitter account.
-* Announce state of project, announce roadmap(s), announce new versions as they’re released.
+As you probably guessed, indented 4 spaces. By the way, instead of
+indenting the block, you can use delimited blocks, if you like:
 
-## Contributing
+~~~
+define foobar() {
+    print "Welcome to flavor country!";
+}
+~~~
 
+(which makes copying & pasting easier). You can optionally mark the
+delimited block for Pandoc to syntax highlight it:
 
-To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
-This is very important as it allows me to accept your pull request without having to publish a public version release.
-
-Small, atomic Features, bugs, etc.
-Use the `jb-development` branch but note it will likely change fast as pull requests are accepted.
-Please rebase as often as possible when working.
-Work on small, atomic features/bugs to avoid upstream commits affecting/breaking your development work.
-
-For Big Features or major API extensions/edits:
-This is the one case where I'll accept pull-requests based off the master branch.
-This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
-Translation : it might take a bit longer so please be patient! (but sincerely thank you).
-
-**Jekyll-Bootstrap Documentation Website.**
-
-The documentation website at <http://jekyllbootstrap.com> is maintained at https://github.com/plusjade/jekyllbootstrap.com
+~~~python
+import time
+# Quick, count to ten!
+for i in range(10):
+    # (but not *too* quick)
+    time.sleep(0.5)
+    print i
+~~~
 
 
-## License
 
-[MIT](http://opensource.org/licenses/MIT)
+### An h3 header ###
+
+Now a nested list:
+
+ 1. First, get these ingredients:
+
+      * carrots
+      * celery
+      * lentils
+
+ 2. Boil some water.
+
+ 3. Dump everything in the pot and follow
+    this algorithm:
+
+        find wooden spoon
+        uncover pot
+        stir
+        cover pot
+        balance wooden spoon precariously on pot handle
+        wait 10 minutes
+        goto first step (or shut off burner when done)
+
+    Do not bump wooden spoon or it will fall.
+
+Notice again how text always lines up on 4-space indents (including
+that last line which continues item 3 above).
+
+Here's a link to [a website](http://foo.bar), to a [local
+doc](local-doc.html), and to a [section heading in the current
+doc](#an-h2-header). Here's a footnote [^1].
+
+[^1]: Footnote text goes here.
+
+Tables can look like this:
+
+size  material      color
+----  ------------  ------------
+9     leather       brown
+10    hemp canvas   natural
+11    glass         transparent
+
+Table: Shoes, their sizes, and what they're made of
+
+(The above is the caption for the table.) Pandoc also supports
+multi-line tables:
+
+--------  -----------------------
+keyword   text
+--------  -----------------------
+red       Sunsets, apples, and
+          other red or reddish
+          things.
+
+green     Leaves, grass, frogs
+          and other things it's
+          not easy being.
+--------  -----------------------
+
+A horizontal rule follows.
+
+***
+
+Here's a definition list:
+
+apples
+  : Good for making applesauce.
+oranges
+  : Citrus!
+tomatoes
+  : There's no "e" in tomatoe.
+
+Again, text is indented 4 spaces. (Put a blank line between each
+term/definition pair to spread things out more.)
+
+Here's a "line block":
+
+| Line one
+|   Line too
+| Line tree
+
+and images can be specified like so:
+
+![example image](example-image.jpg "An exemplary image")
+
+Inline math equations go in like so: $\omega = d\phi / dt$. Display
+math should get its own line and be put in in double-dollarsigns:
+
+$$I = \int \rho R^{2} dV$$
+
+And note that you can backslash-escape any punctuation characters
+which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
