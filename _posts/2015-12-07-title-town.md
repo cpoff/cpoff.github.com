@@ -16,11 +16,11 @@ I'm very excited to have been along for TWO championships this year. Lucky me.
 
 2. Now the [Portland Timbers](http://www.timbers.com/). Went to several regular-season games - including a Cascadia Cup battle against Seattle where I sat in the Timbers Army - along with two playoff games. Plus one pre-season game and an exhibition for the T2 reserves against Newcastle Utd. (T2 won easily).
 
-The thrilling win over Dallas in the opening leg of the semifinals was really good. But the best part was the shootout against Sporting KC in the single-game playoff. One potential PK winner for KC went off both posts before bouncing out and giving new life to the Timbers.
+The thrilling win over Dallas in the opening leg of the semifinals was really good. But the best part was the shootout against Sporting KC in the single-game playoff. One potential PK winner for KC went off *both* posts before bouncing out and giving new life to the Timbers.
 
 Then yesterday the Timbers were able to cling to an early lead and hang on to win the MLS Cup. First in franchise history.
 
-So I'm thinking I should be getting a couple calls in the near future from teams (*cough* Trail Blazers, Oregon Ducks *cough*) with an offer for free season tickets. Come on, guys. I have the Golden Touch.
+So I'm thinking I should be getting a couple calls in the near future from teams (*cough* Trail Blazers, Oregon Ducks *cough*) with an offer of free season tickets. Come on, guys. I have the Golden Touch.
 
 -cp
 
