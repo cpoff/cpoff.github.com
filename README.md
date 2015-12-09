@@ -1,6 +1,5 @@
 This is the repo for my GitHub Pages blog, found at [blog.curtpoff.com](http://blog.curtpoff.com).
 
-Here's an extensive example of Markdown:
 
 # An exhibit of Markdown
 
