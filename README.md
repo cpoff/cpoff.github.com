@@ -1,4 +1,4 @@
-This is the repo for my GitHub Pages blog, found at [blog.curtpoff.com](http://blog.curtpoff.com).-cp
+This is the repo for [my blog](http://blog.curtpoff.com) hosted on GitHub Pages.-cp
 
 
 # An exhibit of Markdown
