@@ -1,82 +1,88 @@
-This is the repo for my GitHub Pages blog, found at [blog.curtpoff.com](http://blog.curtpoff.com).
-
-Here's the original README.md that came with the JB theme. For the archives, I guess.
-
-# Jekyll-Bootstrap
-
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
-
-## Usage
-
-For all usage and documentation please see: <http://jekyllbootstrap.com>
-
-## Version
-
-0.3.0 - stable and versioned using [semantic versioning](http://semver.org/).
-
-**NOTE:** 0.3.0 introduces a new theme which is not backwards compatible in the sense it won't _look_ like the old version.
-However, the actual API has not changed at all.
-You might want to run 0.3.0 in a branch to make sure you are ok with the theme design changes.
-
-## Milestones
-
-[0.4.0](https://github.com/plusjade/jekyll-bootstrap/milestones/v%200.4.0) - next release [ETA 03/29/2015]
-
-### GOALS
-
-* No open PRs against master branch.
-* Squash some bugs.
-* Add some new features (low-hanging fruit).
-* Establish social media presence.
+This is the repo for [my blog](http://blog.curtpoff.com) hosted on GitHub Pages.-cp
 
 
-### Bugs
+# An exhibit of Markdown
 
-|Bug |Description
-|------|---------------
-|[#86](https://github.com/plusjade/jekyll-bootstrap/issues/86)  |&#x2611; Facebook Comments
-|[#113](https://github.com/plusjade/jekyll-bootstrap/issues/113)|&#x2611; ASSET_PATH w/ page & post
-|[#144](https://github.com/plusjade/jekyll-bootstrap/issues/144)|&#x2610; BASE_PATH w/ FQDN
-|[#227](https://github.com/plusjade/jekyll-bootstrap/issues/227)|&#x2611; Redundant JB/setup
+This note demonstrates some of what [Markdown][1] is capable of doing.
 
-### Features
+*Note: Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*
 
-|Bug |Description
-|------|---------------
-|[#98](https://github.com/plusjade/jekyll-bootstrap/issues/98)  |&#x2611; GIST Integration
-|[#244](https://github.com/plusjade/jekyll-bootstrap/issues/244)|&#x2611; JB/file_exists Helper
-|[#42](https://github.com/plusjade/jekyll-bootstrap/issues/42)  |&#x2611; Sort collections of Pages / Posts
-|[#84](https://github.com/plusjade/jekyll-bootstrap/issues/84)  |&#x2610; Detecting production mode
+## Basic formatting
 
-### TODOS
+Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.
 
-Review existing pull requests against plusjake/jekyll-bootstrap:master. Merge or close each.
+Paragraphs must be separated by a blank line. Basic formatting of *italics* and **bold** is supported. This *can be **nested** like* so.
 
-* Create twitter account. Add link / icon on jekyllbootstrap.com.
-* Create blog posts under plusjade/gh-pages, expose on jekyllbootstrap.com, feed to twitter account.
-* Announce state of project, announce roadmap(s), announce new versions as they’re released.
+## Lists
 
-## Contributing
+### Ordered list
+
+1. Item 1
+2. A second item
+3. Number 3
+4. Ⅳ
+
+*Note: the fourth item uses the Unicode character for [Roman numeral four][2].*
+
+### Unordered list
+
+* An item
+* Another item
+* Yet another item
+* And there's more...
+
+## Paragraph modifiers
+
+### Code block
+
+    Code blocks are very useful for developers and other people who look at code or other things that are written in plain text. As you can see, it uses a fixed-width font.
+
+You can also make `inline code` to add code into other things.
+
+### Quote
+
+> Here is a quote. What this is should be self explanatory. Quotes are automatically indented when they are used.
+
+## Headings
+
+There are six levels of headings. They correspond with the six levels of HTML headings. You've probably noticed them already in the page. Each level down uses one more hash character.
+
+### Headings *can* also contain **formatting**
+
+### They can even contain `inline code`
+
+Of course, demonstrating what headings look like messes up the structure of the page.
+
+I don't recommend using more than three or four levels of headings here, because, when you're smallest heading isn't too small, and you're largest heading isn't too big, and you want each size up to look noticeably larger and more important, there there are only so many sizes that you can use.
+
+## URLs
+
+URLs can be made in a handful of ways:
+
+* A named link to [MarkItDown][3]. The easiest way to do these is to select what you want to make a link and hit `Ctrl+L`.
+* Another named link to [MarkItDown](http://www.markitdown.net/)
+* Sometimes you just want a URL like <http://www.markitdown.net/>.
+
+## Horizontal rule
+
+A horizontal rule is a line that goes across the middle of the page.
+
+---
+
+It's sometimes handy for breaking things up.
+
+## Images
+
+Markdown can also contain images. I'll need to add something here sometime.
+
+## Finally
+
+There's actually a lot more to Markdown than this. See the official [introduction][4] and [syntax][5] for more information. However, be aware that this is not using the official implementation, and this might work subtly differently in some of the little things.
 
 
-To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
-This is very important as it allows me to accept your pull request without having to publish a public version release.
+  [1]: http://daringfireball.net/projects/markdown/
+  [2]: http://www.fileformat.info/info/unicode/char/2163/index.htm
+  [3]: http://www.markitdown.net/
+  [4]: http://daringfireball.net/projects/markdown/basics
+  [5]: http://daringfireball.net/projects/markdown/syntax
 
-Small, atomic Features, bugs, etc.
-Use the `jb-development` branch but note it will likely change fast as pull requests are accepted.
-Please rebase as often as possible when working.
-Work on small, atomic features/bugs to avoid upstream commits affecting/breaking your development work.
-
-For Big Features or major API extensions/edits:
-This is the one case where I'll accept pull-requests based off the master branch.
-This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
-Translation : it might take a bit longer so please be patient! (but sincerely thank you).
-
-**Jekyll-Bootstrap Documentation Website.**
-
-The documentation website at <http://jekyllbootstrap.com> is maintained at https://github.com/plusjade/jekyllbootstrap.com
-
-
-## License
-
-[MIT](http://opensource.org/licenses/MIT)
