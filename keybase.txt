@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/cpoff
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://blog.curtpoff.com
+  * I am cpoff (https://keybase.io/cpoff) on keybase.
+  * I have a public key with fingerprint 7D23 4D8A 284A 3C10 EB24  911E FBBE CD64 EE0C F37A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101c268950d96d8481857409efc34064248f5585585feeda732d319563a840d76760a",
+            "fingerprint": "7d234d8a284a3c10eb24911efbbecd64ee0cf37a",
+            "host": "keybase.io",
+            "key_id": "fbbecd64ee0cf37a",
+            "kid": "0101c268950d96d8481857409efc34064248f5585585feeda732d319563a840d76760a",
+            "uid": "a2344637b4ee7f3228cee0dd6f596719",
+            "username": "cpoff"
+        },
+        "service": {
+            "hostname": "blog.curtpoff.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1450077903,
+    "expire_in": 157680000,
+    "prev": "da39f7f53d5b0e64917f17534660934853ecf68e72a60796776b415e6987f823",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMNEAnicrVJtUBVVGL5IZHwYTEKTOjC0NYkj4O7d3bO7N8qExBDNshGohNt+nL2s
+wt3b3uXCFZERqS46A6jkIERAEp+NDMYlLGGQj9QxhJlqgElJR9IIKkImQQTaZexf
+PztzZs6c932e533ed97eVZ4GH4/5zn7hD797BzyuXizNMCRYrQPZCCcLTsSUjeyH
+yw9ME6BdNe+XBMSEoBiK8UZAMyQqMECgCRqjSYpAGSjyOIECwkjQIknS+hUhFFgK
+Nwo4xpAAZ2kCFShAAZRFwhFRslqgYlMkq6rJUoIRJwSaNdIEi/MYCjkjwWAYFDkO
+8gIgIER5Ead0Yqps1xmaOY61w0hJ1mLax7xs7z/w/7PvjGU5VrNLAJzitEqUiBuN
+NK+VFAQgkgygMEYH2qFiZdOhhuZtsigiOeGIFnJIPNSnqrfxKM2lyZZIPkNRdVgk
+L6drbJsiqzIvp2npVFW1mXS26rTp8EzImR8JmTnJKmiD1AgOqNgl2YqYMA3Jq5Ku
+jBEkilIUg+LhCMyySQo0SzqCpACNakcvAx2apMDijEiJJC6QHAqBNnpKxCgSJwBA
+GZygSRzyIqAhZWQBSmkdUoAjMBIChqZE2ogjemvvW2XERGo2WYsmaZcsVlbNUCCS
+031x72MGDx/D414r9AUz+HgH/Lt2eIv/nMcIaBn7ojo6bGCr30PfHcrO+ojdu37I
+e7ItuGH8ygcRZzuk+3sGMoueAB0xVbEVXdaKlZ/+1lYVcPzYyPaohbSo7w40NniR
+AckR3VuJkPaTO1c3Lzlqfu1LdDV7+7dvrjQH07PJI3djxqYOvaCc3Hem8nhPz+eL
+XTNJcmvg4fy/tvEJ2yfVU/FO0ycDhvKwS4PtgW/Fl++r+t35Klxd89KWkshFJvn7
++p8PdhWnrrl9v7bII7C37LWgEouhsPH563fOJw3nlxHBCQXML76tG3tfTGnpHM7w
+z/J6Rfz7/GDLufWne09R/ZZcZ1+wmpJb3jQPhCiLP6Dy1+W8ju+9/MBw4eHQtUvp
+EJutfyOou9sryl16Y7dvtP9C7dUvJ+qm6CNtoQWRSJs7650dX6U6yA1Z15duyHPu
+5gt5MamJ6wrm525/WzcUPZ34Zr+nO7Tj3sGwo8/6SED2nKHV8XeVE7dcQd5TH9ub
+q3/K64pzdUxv2tKTcBMNy3zOb6X765nagM+ItbOxoxsqJ0/Tlli0rsTWN5w1vmf6
+8NODbWfKAGr6MLd4fuwy3Vl4t2nID5ZGRfzoty3omSPnFjbWPFi89dTmsBXha4pv
+HnK5suM6Xw6dDKFc8XLIUtG10erKxNa1q86uryhMdnteaXC8l1R8bGLTn8ho09id
+iSJ2V8o3EXEpR098lPt2jtT4D3vow94=
+=GbXG
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cpoff
+
+==================================================================
