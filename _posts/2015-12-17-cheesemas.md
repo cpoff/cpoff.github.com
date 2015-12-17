@@ -3,7 +3,7 @@ layout: post
 title:  "Cheesemas is here!"
 author: Curt Poff
 date:   2015-12-17
-categories: [holidays]
+categories: [cheesemas]
 tags: [Christmas, cheese, booze, snark]
 comments: True
 ---
