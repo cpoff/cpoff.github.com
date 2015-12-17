@@ -18,7 +18,7 @@ We would go to their Alameda house for three types of events: sports, election c
 
 But Cheesemas was our crown jewel. Our holiday franchise.
 
-Lisa sent us a holiday invite in 2005/6 for 'cheesemas.' We came over, ate cheese, and guzzled adult beverages. Phil and Lisa - both being professional media consumers and reviewers - said they had a horribly fantastic holiday movie that we should watch. Rob Lowe's 'The Christmas Shoes' was queued up and followed by surly, obscene poetry. 
+Lisa sent us a holiday invite in 2005/6 for 'cheesemas.' We came over, ate cheese, and guzzled adult beverages. Phil and Lisa - both being professional media consumers and reviewers - said they had a horribly fantastic holiday movie that we should watch. Rob Lowe's 'The Christmas Shoes' was queued up and followed by surly, obscene poetry. (Phil wrote a [seminal review](http://www.televisionwithoutpity.com/show/mondo-extra/the-christmas-shoes/) of the film. Well worth reading.)
 
 Cheesemas has been our primary holiday event ever since. It follows a very rigid agenda: Invite adults to join for cocktails. Everyone brings a cheese-y dish to share. Get everyone primed with a few drinks before we fire up the holiday special for the British clay-mation classic [Creature Comforts](https://www.youtube.com/watch?v=_DUf27qvRo0). All good holiday stuff.
 
