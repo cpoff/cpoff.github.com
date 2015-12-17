@@ -22,7 +22,7 @@ Lisa sent us a holiday invite in 2005/6 for 'cheesemas.' We came over, ate chees
 
 Cheesemas has been our primary holiday event ever since. It follows a very rigid agenda: Invite adults to join for cocktails. Everyone brings a cheese-y dish to share. Get everyone primed with a few drinks before we fire up the holiday special for the British clay-mation classic [Creature Comforts](https://www.youtube.com/watch?v=_DUf27qvRo0). All good holiday stuff.
 
-Refreshments refilled we move on to the feature presentation. The Christmas Shoes is a horribly predictable and cliché holiday stinker. It's a movie based on a cheesy holiday song by a Christian rock band. [No joke](https://www.youtube.com/watch?v=iq10bz3PxyY). But it's Rob Lowe' first project after he left 'West Wing' so you know he's at the height of his carrer, right? No chance. It's a terrible movie and we spend 90 minutes heckling the entire script all associated with it.
+Refreshments refilled we move on to the feature presentation. The Christmas Shoes is a horribly predictable and cliché holiday stinker. It's a movie based on a cheesy holiday song by a Christian rock band. [No joke](https://www.youtube.com/watch?v=iq10bz3PxyY). But it's Rob Lowe' first project after he left 'West Wing' so you know he's at the height of his carrer, right? No chance. It's a terrible movie and we spend 90 minutes heckling the entire script and all associated with it.
 
 Phil wrote a [seminal review](http://www.televisionwithoutpity.com/show/mondo-extra/the-christmas-shoes/) of the film. Well worth reading.
 
