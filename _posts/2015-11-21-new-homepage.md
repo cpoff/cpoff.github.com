@@ -8,7 +8,7 @@ tags: [bootstrap, curtpoff.com, blog]
 comments: True
 ---
 
-I now have a valid website hosted at [curtpoff.com](http://curtpoff.com). You may also notice that I've successfully installed a CNAME record pointing this blog to a subdomain of curtpoff.com.
+I now have a valid (and secure) website hosted at [curtpoff.com](https://curtpoff.com). You may also notice that I've successfully installed a CNAME record pointing this blog to a subdomain of curtpoff.com.
 
 <!--more-->
 
