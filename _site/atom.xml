@@ -4,7 +4,7 @@
  <title>Curt Poff</title>
  <link href="http://blog.curtpoff.com/atom.xml" rel="self"/>
  <link href="http://blog.curtpoff.com"/>
- <updated>2015-12-17T19:19:44-08:00</updated>
+ <updated>2015-12-19T10:31:23-08:00</updated>
  <id>http://blog.curtpoff.com</id>
  <author>
    <name>Curt Poff</name>
@@ -137,7 +137,7 @@ and/or
    <link href="http://blog.curtpoff.com/new-homepage"/>
    <updated>2015-11-21T00:00:00-08:00</updated>
    <id>http://blog.curtpoff.com/new-homepage</id>
-   <content type="html">&lt;p&gt;I now have a valid website hosted at &lt;a href=&quot;http://curtpoff.com&quot;&gt;curtpoff.com&lt;/a&gt;. You may also notice that I’ve successfully installed a CNAME record pointing this blog to a subdomain of curtpoff.com.&lt;/p&gt;
+   <content type="html">&lt;p&gt;I now have a valid (and secure) website hosted at &lt;a href=&quot;https://curtpoff.com&quot;&gt;curtpoff.com&lt;/a&gt;. You may also notice that I’ve successfully installed a CNAME record pointing this blog to a subdomain of curtpoff.com.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
