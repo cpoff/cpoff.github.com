@@ -1,4 +1,4 @@
-This is the repo for [my blog](http://blog.curtpoff.com) hosted on GitHub Pages.
+This is the repo for [my blog](https://blog.curtpoff.com) hosted on GitHub Pages.
 
 
 # Markdown Examples
