@@ -1,7 +1,7 @@
 This is the repo for [my blog](http://blog.curtpoff.com) hosted on GitHub Pages.
 
 
-# An exhibit of Markdown
+# Markdown Examples
 
 This note demonstrates some of what [Markdown][1] is capable of doing.
 
