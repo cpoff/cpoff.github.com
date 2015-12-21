@@ -1,1 +1,1 @@
-Sitemap: https://blog.curtpoff.com/robots.txt
+Sitemap: https://blog.curtpoff.com/rss.xml
