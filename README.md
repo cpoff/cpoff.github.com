@@ -1,4 +1,4 @@
-This is the repo for [my GH Pages blog](https://blog.curtpoff.com).
+This is the repo for [my blog](https://blog.curtpoff.com) on GH Pages.
 
 
 # Markdown Examples
