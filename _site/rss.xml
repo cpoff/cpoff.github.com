@@ -3,10 +3,10 @@
 <channel>
         <title>Curt Poff</title>
         <description>Curt Poff is a web developer, producer living in Portland Oregon. This is his personal blog.</description>
-        <link>http://blog.curtpoff.com</link>
-        <atom:link href="http://blog.curtpoff.com/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 26 Dec 2015 14:10:27 -0800</lastBuildDate>
-        <pubDate>Sat, 26 Dec 2015 14:10:27 -0800</pubDate>
+        <link>https://blog.curtpoff.com</link>
+        <atom:link href="https://blog.curtpoff.com/rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sat, 26 Dec 2015 14:12:41 -0800</lastBuildDate>
+        <pubDate>Sat, 26 Dec 2015 14:12:41 -0800</pubDate>
         <ttl>60</ttl>
 
 
@@ -35,14 +35,14 @@
 &lt;p&gt;-cp&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/cheesemas&amp;amp;text=Cheesemas is here!&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/cheesemas&amp;amp;text=Cheesemas is here!&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
   share this page with your followers&lt;/a&gt; 
 and/or 
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-                <link>http://blog.curtpoff.com/cheesemas</link>
-                <guid>http://blog.curtpoff.com/cheesemas</guid>
+                <link>https://blog.curtpoff.com/cheesemas</link>
+                <guid>https://blog.curtpoff.com/cheesemas</guid>
                 <pubDate>Thu, 17 Dec 2015 00:00:00 -0800</pubDate>
         </item>
 
@@ -70,14 +70,14 @@ and/or
 &lt;p&gt;-cp&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/title-town&amp;amp;text=I&#39;m all about championships&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/title-town&amp;amp;text=I&#39;m all about championships&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
   share this page with your followers&lt;/a&gt; 
 and/or 
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-                <link>http://blog.curtpoff.com/title-town</link>
-                <guid>http://blog.curtpoff.com/title-town</guid>
+                <link>https://blog.curtpoff.com/title-town</link>
+                <guid>https://blog.curtpoff.com/title-town</guid>
                 <pubDate>Mon, 07 Dec 2015 00:00:00 -0800</pubDate>
         </item>
 
@@ -98,14 +98,14 @@ and/or
 &lt;p&gt;-cp&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/new-blog-theme&amp;amp;text=New theme for the Jekyll blog&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/new-blog-theme&amp;amp;text=New theme for the Jekyll blog&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
   share this page with your followers&lt;/a&gt; 
 and/or 
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-                <link>http://blog.curtpoff.com/new-blog-theme</link>
-                <guid>http://blog.curtpoff.com/new-blog-theme</guid>
+                <link>https://blog.curtpoff.com/new-blog-theme</link>
+                <guid>https://blog.curtpoff.com/new-blog-theme</guid>
                 <pubDate>Fri, 04 Dec 2015 00:00:00 -0800</pubDate>
         </item>
 
@@ -123,10 +123,10 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/linux-imac&amp;amp;text=New Linux installation on old iMac&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/linux-imac&amp;amp;text=New Linux installation on old iMac&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-                <link>http://blog.curtpoff.com/linux-imac</link>
-                <guid>http://blog.curtpoff.com/linux-imac</guid>
+                <link>https://blog.curtpoff.com/linux-imac</link>
+                <guid>https://blog.curtpoff.com/linux-imac</guid>
                 <pubDate>Fri, 27 Nov 2015 00:00:00 -0800</pubDate>
         </item>
 
@@ -142,10 +142,10 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/new-homepage&amp;amp;text=Bootstrap homepage now operational&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/new-homepage&amp;amp;text=Bootstrap homepage now operational&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-                <link>http://blog.curtpoff.com/new-homepage</link>
-                <guid>http://blog.curtpoff.com/new-homepage</guid>
+                <link>https://blog.curtpoff.com/new-homepage</link>
+                <guid>https://blog.curtpoff.com/new-homepage</guid>
                 <pubDate>Sat, 21 Nov 2015 00:00:00 -0800</pubDate>
         </item>
 
@@ -165,10 +165,10 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/ham-feast&amp;amp;text=Here comes the ham&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/ham-feast&amp;amp;text=Here comes the ham&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-                <link>http://blog.curtpoff.com/ham-feast</link>
-                <guid>http://blog.curtpoff.com/ham-feast</guid>
+                <link>https://blog.curtpoff.com/ham-feast</link>
+                <guid>https://blog.curtpoff.com/ham-feast</guid>
                 <pubDate>Fri, 20 Nov 2015 00:00:00 -0800</pubDate>
         </item>
 
@@ -196,10 +196,10 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/hunt-report&amp;amp;text=Meat on the table&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/hunt-report&amp;amp;text=Meat on the table&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-                <link>http://blog.curtpoff.com/hunt-report</link>
-                <guid>http://blog.curtpoff.com/hunt-report</guid>
+                <link>https://blog.curtpoff.com/hunt-report</link>
+                <guid>https://blog.curtpoff.com/hunt-report</guid>
                 <pubDate>Mon, 16 Nov 2015 00:00:00 -0800</pubDate>
         </item>
 
@@ -230,10 +230,10 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/portland-awaits&amp;amp;text=Move to Portland&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/portland-awaits&amp;amp;text=Move to Portland&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-                <link>http://blog.curtpoff.com/portland-awaits</link>
-                <guid>http://blog.curtpoff.com/portland-awaits</guid>
+                <link>https://blog.curtpoff.com/portland-awaits</link>
+                <guid>https://blog.curtpoff.com/portland-awaits</guid>
                 <pubDate>Fri, 13 Nov 2015 00:00:00 -0800</pubDate>
         </item>
 
@@ -251,10 +251,10 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/deer-season&amp;amp;text=Deer season&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/deer-season&amp;amp;text=Deer season&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-                <link>http://blog.curtpoff.com/deer-season</link>
-                <guid>http://blog.curtpoff.com/deer-season</guid>
+                <link>https://blog.curtpoff.com/deer-season</link>
+                <guid>https://blog.curtpoff.com/deer-season</guid>
                 <pubDate>Wed, 11 Nov 2015 00:00:00 -0800</pubDate>
         </item>
 
@@ -272,10 +272,10 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/royals-win&amp;amp;text=Royals are champions&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/royals-win&amp;amp;text=Royals are champions&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-                <link>http://blog.curtpoff.com/royals-win</link>
-                <guid>http://blog.curtpoff.com/royals-win</guid>
+                <link>https://blog.curtpoff.com/royals-win</link>
+                <guid>https://blog.curtpoff.com/royals-win</guid>
                 <pubDate>Tue, 03 Nov 2015 00:00:00 -0800</pubDate>
         </item>
 
@@ -293,10 +293,10 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/pcs-closes&amp;amp;text=Portland Code School goes under&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/pcs-closes&amp;amp;text=Portland Code School goes under&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-                <link>http://blog.curtpoff.com/pcs-closes</link>
-                <guid>http://blog.curtpoff.com/pcs-closes</guid>
+                <link>https://blog.curtpoff.com/pcs-closes</link>
+                <guid>https://blog.curtpoff.com/pcs-closes</guid>
                 <pubDate>Wed, 21 Oct 2015 00:00:00 -0700</pubDate>
         </item>
 
@@ -314,10 +314,10 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/big-october&amp;amp;text=Big October&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/big-october&amp;amp;text=Big October&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-                <link>http://blog.curtpoff.com/big-october</link>
-                <guid>http://blog.curtpoff.com/big-october</guid>
+                <link>https://blog.curtpoff.com/big-october</link>
+                <guid>https://blog.curtpoff.com/big-october</guid>
                 <pubDate>Mon, 12 Oct 2015 00:00:00 -0700</pubDate>
         </item>
 
@@ -333,10 +333,10 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/anns-birthday&amp;amp;text=Happy birthday to my lovely wife&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/anns-birthday&amp;amp;text=Happy birthday to my lovely wife&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-                <link>http://blog.curtpoff.com/anns-birthday</link>
-                <guid>http://blog.curtpoff.com/anns-birthday</guid>
+                <link>https://blog.curtpoff.com/anns-birthday</link>
+                <guid>https://blog.curtpoff.com/anns-birthday</guid>
                 <pubDate>Fri, 09 Oct 2015 00:00:00 -0700</pubDate>
         </item>
 
@@ -350,10 +350,10 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/jekyll-options&amp;amp;text=Time to play with some Jekyll themes&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/jekyll-options&amp;amp;text=Time to play with some Jekyll themes&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-                <link>http://blog.curtpoff.com/jekyll-options</link>
-                <guid>http://blog.curtpoff.com/jekyll-options</guid>
+                <link>https://blog.curtpoff.com/jekyll-options</link>
+                <guid>https://blog.curtpoff.com/jekyll-options</guid>
                 <pubDate>Mon, 05 Oct 2015 00:00:00 -0700</pubDate>
         </item>
 
@@ -375,10 +375,10 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/autumn-here&amp;amp;text=Fall is in the air&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/autumn-here&amp;amp;text=Fall is in the air&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-                <link>http://blog.curtpoff.com/autumn-here</link>
-                <guid>http://blog.curtpoff.com/autumn-here</guid>
+                <link>https://blog.curtpoff.com/autumn-here</link>
+                <guid>https://blog.curtpoff.com/autumn-here</guid>
                 <pubDate>Sat, 03 Oct 2015 00:00:00 -0700</pubDate>
         </item>
 
@@ -394,10 +394,10 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/ciao-bella&amp;amp;text=Ciao bella&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/ciao-bella&amp;amp;text=Ciao bella&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-                <link>http://blog.curtpoff.com/ciao-bella</link>
-                <guid>http://blog.curtpoff.com/ciao-bella</guid>
+                <link>https://blog.curtpoff.com/ciao-bella</link>
+                <guid>https://blog.curtpoff.com/ciao-bella</guid>
                 <pubDate>Mon, 28 Sep 2015 00:00:00 -0700</pubDate>
         </item>
 
@@ -413,10 +413,10 @@ and/or
 
 &lt;p&gt;Oooof!!&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/fotball-jinx&amp;amp;text=I served up a massive jinx&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/fotball-jinx&amp;amp;text=I served up a massive jinx&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
-                <link>http://blog.curtpoff.com/fotball-jinx</link>
-                <guid>http://blog.curtpoff.com/fotball-jinx</guid>
+                <link>https://blog.curtpoff.com/fotball-jinx</link>
+                <guid>https://blog.curtpoff.com/fotball-jinx</guid>
                 <pubDate>Thu, 24 Sep 2015 09:28:45 -0700</pubDate>
         </item>
 
@@ -440,7 +440,7 @@ and demonstrated in &lt;a href=&quot;http://joshualande.com/jekyll-github-pages-
 &lt;p&gt;I hope this &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; blog is different and that it sustains everyone’s attention, including my own. It won’t have comments or share buttons. My social scheme is to close-up with a line about Twitter that will be something like:&lt;/p&gt;
 
 &lt;p&gt;[&lt;em&gt;Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/blog-strategy&amp;amp;text=My blog strategy&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page&lt;/a&gt; with your followers
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/blog-strategy&amp;amp;text=My blog strategy&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page&lt;/a&gt; with your followers
 and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;.&lt;/em&gt;]&lt;/p&gt;
 
@@ -448,8 +448,8 @@ and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
 
 &lt;p&gt;Curt&lt;/p&gt;
 </description>
-                <link>http://blog.curtpoff.com/blog-strategy</link>
-                <guid>http://blog.curtpoff.com/blog-strategy</guid>
+                <link>https://blog.curtpoff.com/blog-strategy</link>
+                <guid>https://blog.curtpoff.com/blog-strategy</guid>
                 <pubDate>Tue, 22 Sep 2015 00:00:00 -0700</pubDate>
         </item>
 
@@ -461,11 +461,11 @@ and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
 
 &lt;p&gt;For now I’ve been fiddling with this blog and my GitHub Pages stuff in general. The &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; blog portion is fascinating because it involves a very basic platform for web publishing. The entire process has been well-documented and demonstrated in &lt;a href=&quot;http://joshualande.com/jekyll-github-pages-poole/&quot;&gt;Joshue Lande’s blog entry&lt;/a&gt;. More on the Jekyll platform in the future.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/job-search-strategy&amp;amp;text=Job search strategy&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/job-search-strategy&amp;amp;text=Job search strategy&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 
 </description>
-                <link>http://blog.curtpoff.com/job-search-strategy</link>
-                <guid>http://blog.curtpoff.com/job-search-strategy</guid>
+                <link>https://blog.curtpoff.com/job-search-strategy</link>
+                <guid>https://blog.curtpoff.com/job-search-strategy</guid>
                 <pubDate>Mon, 21 Sep 2015 04:21:14 -0700</pubDate>
         </item>
 
@@ -478,8 +478,8 @@ and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
 &lt;p&gt;The challenge will be updates as they use a fairly manual template process.&lt;/p&gt;
 
 </description>
-                <link>http://blog.curtpoff.com/jekyll-reset-again</link>
-                <guid>http://blog.curtpoff.com/jekyll-reset-again</guid>
+                <link>https://blog.curtpoff.com/jekyll-reset-again</link>
+                <guid>https://blog.curtpoff.com/jekyll-reset-again</guid>
                 <pubDate>Sat, 19 Sep 2015 16:36:34 -0700</pubDate>
         </item>
 

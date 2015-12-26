@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Curt Poff</title>
- <link href="http://blog.curtpoff.com/atom.xml" rel="self"/>
- <link href="http://blog.curtpoff.com"/>
- <updated>2015-12-26T14:10:27-08:00</updated>
- <id>http://blog.curtpoff.com</id>
+ <link href="https://blog.curtpoff.com/atom.xml" rel="self"/>
+ <link href="https://blog.curtpoff.com"/>
+ <updated>2015-12-26T14:12:41-08:00</updated>
+ <id>https://blog.curtpoff.com</id>
  <author>
    <name>Curt Poff</name>
    <email>curt.poff@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Cheesemas is here!</title>
-   <link href="http://blog.curtpoff.com/cheesemas"/>
+   <link href="https://blog.curtpoff.com/cheesemas"/>
    <updated>2015-12-17T00:00:00-08:00</updated>
-   <id>http://blog.curtpoff.com/cheesemas</id>
+   <id>https://blog.curtpoff.com/cheesemas</id>
    <content type="html">&lt;p&gt;This Saturday we’ll host our annual holiday party, also known as Cheesemas. How that party got to this point is a long story.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -40,7 +40,7 @@
 &lt;p&gt;-cp&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/cheesemas&amp;amp;text=Cheesemas is here!&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/cheesemas&amp;amp;text=Cheesemas is here!&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
   share this page with your followers&lt;/a&gt; 
 and/or 
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
@@ -50,9 +50,9 @@ and/or
  
  <entry>
    <title>I&#39;m all about championships</title>
-   <link href="http://blog.curtpoff.com/title-town"/>
+   <link href="https://blog.curtpoff.com/title-town"/>
    <updated>2015-12-07T00:00:00-08:00</updated>
-   <id>http://blog.curtpoff.com/title-town</id>
+   <id>https://blog.curtpoff.com/title-town</id>
    <content type="html">&lt;p&gt;I’m very excited to have been along for TWO championships this year. Lucky me.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -75,7 +75,7 @@ and/or
 &lt;p&gt;-cp&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/title-town&amp;amp;text=I&#39;m all about championships&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/title-town&amp;amp;text=I&#39;m all about championships&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
   share this page with your followers&lt;/a&gt; 
 and/or 
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
@@ -85,9 +85,9 @@ and/or
  
  <entry>
    <title>New theme for the Jekyll blog</title>
-   <link href="http://blog.curtpoff.com/new-blog-theme"/>
+   <link href="https://blog.curtpoff.com/new-blog-theme"/>
    <updated>2015-12-04T00:00:00-08:00</updated>
-   <id>http://blog.curtpoff.com/new-blog-theme</id>
+   <id>https://blog.curtpoff.com/new-blog-theme</id>
    <content type="html">&lt;p&gt;Yesterday I re-installed an advanced version of my Jekyll blog that included a new theme. Hope you find it suitable.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -103,7 +103,7 @@ and/or
 &lt;p&gt;-cp&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/new-blog-theme&amp;amp;text=New theme for the Jekyll blog&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/new-blog-theme&amp;amp;text=New theme for the Jekyll blog&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
   share this page with your followers&lt;/a&gt; 
 and/or 
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
@@ -113,9 +113,9 @@ and/or
  
  <entry>
    <title>New Linux installation on old iMac</title>
-   <link href="http://blog.curtpoff.com/linux-imac"/>
+   <link href="https://blog.curtpoff.com/linux-imac"/>
    <updated>2015-11-27T00:00:00-08:00</updated>
-   <id>http://blog.curtpoff.com/linux-imac</id>
+   <id>https://blog.curtpoff.com/linux-imac</id>
    <content type="html">&lt;p&gt;I installed Ubuntu Linux on an old iMac over the Thanksgiving holiday weekend. Actually, I did most of the work on Thanksgiving day and cleaned it all up today (Friday)&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -128,15 +128,15 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/linux-imac&amp;amp;text=New Linux installation on old iMac&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/linux-imac&amp;amp;text=New Linux installation on old iMac&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Bootstrap homepage now operational</title>
-   <link href="http://blog.curtpoff.com/new-homepage"/>
+   <link href="https://blog.curtpoff.com/new-homepage"/>
    <updated>2015-11-21T00:00:00-08:00</updated>
-   <id>http://blog.curtpoff.com/new-homepage</id>
+   <id>https://blog.curtpoff.com/new-homepage</id>
    <content type="html">&lt;p&gt;I now have a valid (and secure) website hosted at &lt;a href=&quot;https://curtpoff.com&quot;&gt;curtpoff.com&lt;/a&gt;. You may also notice that I’ve successfully installed a CNAME record pointing this blog to a subdomain of curtpoff.com.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -147,15 +147,15 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/new-homepage&amp;amp;text=Bootstrap homepage now operational&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/new-homepage&amp;amp;text=Bootstrap homepage now operational&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Here comes the ham</title>
-   <link href="http://blog.curtpoff.com/ham-feast"/>
+   <link href="https://blog.curtpoff.com/ham-feast"/>
    <updated>2015-11-20T00:00:00-08:00</updated>
-   <id>http://blog.curtpoff.com/ham-feast</id>
+   <id>https://blog.curtpoff.com/ham-feast</id>
    <content type="html">&lt;p&gt;Just participated in another annual tradition, this time with a Thanksgiving twist. I ordered a ham and bacon shipment from &lt;a href=&quot;http://www.smokehouse.com/&quot;&gt;Burgers Smokehouse&lt;/a&gt; in Missouri.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -170,15 +170,15 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/ham-feast&amp;amp;text=Here comes the ham&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/ham-feast&amp;amp;text=Here comes the ham&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Meat on the table</title>
-   <link href="http://blog.curtpoff.com/hunt-report"/>
+   <link href="https://blog.curtpoff.com/hunt-report"/>
    <updated>2015-11-16T00:00:00-08:00</updated>
-   <id>http://blog.curtpoff.com/hunt-report</id>
+   <id>https://blog.curtpoff.com/hunt-report</id>
    <content type="html">&lt;p&gt;As I &lt;a href=&quot;/deer-season/&quot;&gt;mentioned earlier&lt;/a&gt;, this weekend was the opening of firearm deer season in my hometown. It’s a special event for me. It’s a family affair that reinforces our hunting tradition.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -201,15 +201,15 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/hunt-report&amp;amp;text=Meat on the table&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/hunt-report&amp;amp;text=Meat on the table&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Move to Portland</title>
-   <link href="http://blog.curtpoff.com/portland-awaits"/>
+   <link href="https://blog.curtpoff.com/portland-awaits"/>
    <updated>2015-11-13T00:00:00-08:00</updated>
-   <id>http://blog.curtpoff.com/portland-awaits</id>
+   <id>https://blog.curtpoff.com/portland-awaits</id>
    <content type="html">&lt;p&gt;Our good friend Eric Blumenau came to town for work this week with his girlfriend, Danielle Reichner. We had a great time showing them around town.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -235,15 +235,15 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/portland-awaits&amp;amp;text=Move to Portland&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/portland-awaits&amp;amp;text=Move to Portland&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Deer season</title>
-   <link href="http://blog.curtpoff.com/deer-season"/>
+   <link href="https://blog.curtpoff.com/deer-season"/>
    <updated>2015-11-11T00:00:00-08:00</updated>
-   <id>http://blog.curtpoff.com/deer-season</id>
+   <id>https://blog.curtpoff.com/deer-season</id>
    <content type="html">&lt;p&gt;This weekend is our annual pilgrimage to the family homestead in Missouri. The trip always coincides with the opening weekend of firearm deer season, in which I plan to participate.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -256,15 +256,15 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/deer-season&amp;amp;text=Deer season&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/deer-season&amp;amp;text=Deer season&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Royals are champions</title>
-   <link href="http://blog.curtpoff.com/royals-win"/>
+   <link href="https://blog.curtpoff.com/royals-win"/>
    <updated>2015-11-03T00:00:00-08:00</updated>
-   <id>http://blog.curtpoff.com/royals-win</id>
+   <id>https://blog.curtpoff.com/royals-win</id>
    <content type="html">&lt;p&gt;The Portland celebration went late into the night on Sunday as the &lt;a href=&quot;http://espn.go.com/mlb/recap?gameId=351101121&quot;&gt;KC Royals won the World Series&lt;/a&gt;.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -277,15 +277,15 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/royals-win&amp;amp;text=Royals are champions&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/royals-win&amp;amp;text=Royals are champions&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Portland Code School goes under</title>
-   <link href="http://blog.curtpoff.com/pcs-closes"/>
+   <link href="https://blog.curtpoff.com/pcs-closes"/>
    <updated>2015-10-21T00:00:00-07:00</updated>
-   <id>http://blog.curtpoff.com/pcs-closes</id>
+   <id>https://blog.curtpoff.com/pcs-closes</id>
    <content type="html">&lt;p&gt;On Saturday night I got word via Slack channel that the locks at &lt;a href=&quot;http://www.portlandcodeschool.com&quot;&gt;Portland Code School&lt;/a&gt; have been changed and everyone’s on their own.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -298,15 +298,15 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/pcs-closes&amp;amp;text=Portland Code School goes under&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/pcs-closes&amp;amp;text=Portland Code School goes under&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Big October</title>
-   <link href="http://blog.curtpoff.com/big-october"/>
+   <link href="https://blog.curtpoff.com/big-october"/>
    <updated>2015-10-12T00:00:00-07:00</updated>
-   <id>http://blog.curtpoff.com/big-october</id>
+   <id>https://blog.curtpoff.com/big-october</id>
    <content type="html">&lt;p&gt;October is typically a busy month in our household. Ann’s birthday, our anniversary, plus almost every other anniversary on the planet. Another big birthday this year belongs to one of my best friends: Ken Conforti. Ken and I were roommates back in the late ’90s. He turns the big 5-0 next week.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -319,15 +319,15 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/big-october&amp;amp;text=Big October&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/big-october&amp;amp;text=Big October&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Happy birthday to my lovely wife</title>
-   <link href="http://blog.curtpoff.com/anns-birthday"/>
+   <link href="https://blog.curtpoff.com/anns-birthday"/>
    <updated>2015-10-09T00:00:00-07:00</updated>
-   <id>http://blog.curtpoff.com/anns-birthday</id>
+   <id>https://blog.curtpoff.com/anns-birthday</id>
    <content type="html">&lt;p&gt;My wife - Ann Chihak Poff - turns 41 on Friday. Check out &lt;a href=&quot;http://gofitgirl.com/&quot;&gt;her blog&lt;/a&gt; and I’m sure you’ll agree that she may be the most lovely 41-year-old on the planet.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -338,15 +338,15 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/anns-birthday&amp;amp;text=Happy birthday to my lovely wife&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/anns-birthday&amp;amp;text=Happy birthday to my lovely wife&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Time to play with some Jekyll themes</title>
-   <link href="http://blog.curtpoff.com/jekyll-options"/>
+   <link href="https://blog.curtpoff.com/jekyll-options"/>
    <updated>2015-10-05T00:00:00-07:00</updated>
-   <id>http://blog.curtpoff.com/jekyll-options</id>
+   <id>https://blog.curtpoff.com/jekyll-options</id>
    <content type="html">&lt;p&gt;Now that I have the Jekyll basics down, I’m going to start tweaking some theme/template options. I want more stuff in the header, and more obvious linking between this blog and my GitHub profile. I’m not convinced the simple footer does enough.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -355,15 +355,15 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/jekyll-options&amp;amp;text=Time to play with some Jekyll themes&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/jekyll-options&amp;amp;text=Time to play with some Jekyll themes&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Fall is in the air</title>
-   <link href="http://blog.curtpoff.com/autumn-here"/>
+   <link href="https://blog.curtpoff.com/autumn-here"/>
    <updated>2015-10-03T00:00:00-07:00</updated>
-   <id>http://blog.curtpoff.com/autumn-here</id>
+   <id>https://blog.curtpoff.com/autumn-here</id>
    <content type="html">&lt;p&gt;Baseball playoffs are about to begin, meaningful football games, and fall colors about hit peak season. I love this time of year.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -380,15 +380,15 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/autumn-here&amp;amp;text=Fall is in the air&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/autumn-here&amp;amp;text=Fall is in the air&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Ciao bella</title>
-   <link href="http://blog.curtpoff.com/ciao-bella"/>
+   <link href="https://blog.curtpoff.com/ciao-bella"/>
    <updated>2015-09-28T00:00:00-07:00</updated>
-   <id>http://blog.curtpoff.com/ciao-bella</id>
+   <id>https://blog.curtpoff.com/ciao-bella</id>
    <content type="html">&lt;p&gt;Our friend Monica visited us this weekend. She and her husband Giovanni (both Italians) are friends of ours from the Bay Area. They were in Ann’s cycle class at the gym and we got to know each other over the years.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -399,15 +399,15 @@ and/or
 
 &lt;p&gt;-cp&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/ciao-bella&amp;amp;text=Ciao bella&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/ciao-bella&amp;amp;text=Ciao bella&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>I served up a massive jinx</title>
-   <link href="http://blog.curtpoff.com/fotball-jinx"/>
+   <link href="https://blog.curtpoff.com/fotball-jinx"/>
    <updated>2015-09-24T09:28:45-07:00</updated>
-   <id>http://blog.curtpoff.com/fotball-jinx</id>
+   <id>https://blog.curtpoff.com/fotball-jinx</id>
    <content type="html">&lt;p&gt;Two weeks ago I shot my mouth off about how every single football team in my corner happened to win. Royals, Chiefs (went on the road to thump the Texans), Mizzou (looked horrible against an inferior opponent), Arizona, Portland State (knocked off Washington State for the school’s first ever win against a Pac-12 opponent).&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -418,15 +418,15 @@ and/or
 
 &lt;p&gt;Oooof!!&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/fotball-jinx&amp;amp;text=I served up a massive jinx&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/fotball-jinx&amp;amp;text=I served up a massive jinx&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>My blog strategy</title>
-   <link href="http://blog.curtpoff.com/blog-strategy"/>
+   <link href="https://blog.curtpoff.com/blog-strategy"/>
    <updated>2015-09-22T00:00:00-07:00</updated>
-   <id>http://blog.curtpoff.com/blog-strategy</id>
+   <id>https://blog.curtpoff.com/blog-strategy</id>
    <content type="html">&lt;p&gt;Let me elaborate on something I mentioned earlier:&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -445,7 +445,7 @@ and demonstrated in &lt;a href=&quot;http://joshualande.com/jekyll-github-pages-
 &lt;p&gt;I hope this &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; blog is different and that it sustains everyone’s attention, including my own. It won’t have comments or share buttons. My social scheme is to close-up with a line about Twitter that will be something like:&lt;/p&gt;
 
 &lt;p&gt;[&lt;em&gt;Please
-&lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/blog-strategy&amp;amp;text=My blog strategy&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page&lt;/a&gt; with your followers
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/blog-strategy&amp;amp;text=My blog strategy&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page&lt;/a&gt; with your followers
 and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;.&lt;/em&gt;]&lt;/p&gt;
 
@@ -457,25 +457,25 @@ and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
  
  <entry>
    <title>Job search strategy</title>
-   <link href="http://blog.curtpoff.com/job-search-strategy"/>
+   <link href="https://blog.curtpoff.com/job-search-strategy"/>
    <updated>2015-09-21T04:21:14-07:00</updated>
-   <id>http://blog.curtpoff.com/job-search-strategy</id>
+   <id>https://blog.curtpoff.com/job-search-strategy</id>
    <content type="html">&lt;p&gt;Now that I’ve spoken to several companies about web developer jobs, it’s clear the market is more competitive than I originally estimated. I’ve been dead-set against pursuing internships or volunteer opportunities in favor of a full-time (&lt;em&gt;paid&lt;/em&gt;) role. I plan to maintain that strategy for as long as possible.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
 &lt;p&gt;For now I’ve been fiddling with this blog and my GitHub Pages stuff in general. The &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; blog portion is fascinating because it involves a very basic platform for web publishing. The entire process has been well-documented and demonstrated in &lt;a href=&quot;http://joshualande.com/jekyll-github-pages-poole/&quot;&gt;Joshue Lande’s blog entry&lt;/a&gt;. More on the Jekyll platform in the future.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://blog.curtpoff.com/job-search-strategy&amp;amp;text=Job search strategy&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/job-search-strategy&amp;amp;text=Job search strategy&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 
 </content>
  </entry>
  
  <entry>
    <title>Reset, all over again</title>
-   <link href="http://blog.curtpoff.com/jekyll-reset-again"/>
+   <link href="https://blog.curtpoff.com/jekyll-reset-again"/>
    <updated>2015-09-19T16:36:34-07:00</updated>
-   <id>http://blog.curtpoff.com/jekyll-reset-again</id>
+   <id>https://blog.curtpoff.com/jekyll-reset-again</id>
    <content type="html">&lt;p&gt;I feel like I finally have a grip on Jekyll as it runs in GitHub Pages. It took several attempts to install the Jekyll engine (parser) inside the existing directory and setup, but it seems to be working. I had to delete the Pages directory a couple times and it looks like I lost some update counts. But whatevs.&lt;/p&gt;
 
 &lt;!--more--&gt;
