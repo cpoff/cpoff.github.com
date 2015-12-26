@@ -1,5 +1,4 @@
 
-https://blog.curtpoff.com/2015-12-26-lazy-christmas
 https://blog.curtpoff.com/about/
 https://blog.curtpoff.com/archive
 https://blog.curtpoff.com/atom.xml
@@ -10,6 +9,7 @@ https://blog.curtpoff.com/rss.xml
 https://blog.curtpoff.com/sitemap.txt
 https://blog.curtpoff.com/tags
 
+https://blog.curtpoff.com/lazy-christmas
 https://blog.curtpoff.com/cheesemas
 https://blog.curtpoff.com/title-town
 https://blog.curtpoff.com/new-blog-theme

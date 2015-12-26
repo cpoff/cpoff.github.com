@@ -4,13 +4,39 @@
  <title>Curt Poff</title>
  <link href="https://blog.curtpoff.com/atom.xml" rel="self"/>
  <link href="https://blog.curtpoff.com"/>
- <updated>2015-12-26T14:17:22-08:00</updated>
+ <updated>2015-12-26T14:19:16-08:00</updated>
  <id>https://blog.curtpoff.com</id>
  <author>
    <name>Curt Poff</name>
    <email>curt.poff@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Christmas season in full swing</title>
+   <link href="https://blog.curtpoff.com/lazy-christmas"/>
+   <updated>2015-12-26T00:00:00-08:00</updated>
+   <id>https://blog.curtpoff.com/lazy-christmas</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://blog.curtpoff.com/cheesemas/&quot;&gt;Cheesemas&lt;/a&gt; went off without a hitch and everyone had a wonderful time. Now it’s time to sit back and enjoy some holiday laziness. Football, binge-watching TV shows, homemade posole. It’s all in the cards.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Yesterday was Christmas and we just lounged around the house. Ann and I had our feast the previous night - as is our tradition. Ann taught a yoga workshop in the afternoon, then we went for an evening showing of the new Star Wars movie at the &lt;a href=&quot;http://www.mcmenamins.com/219-bagdad-theater-pub-home&quot;&gt;Baghdad Theatre&lt;/a&gt;. Good times.&lt;/p&gt;
+
+&lt;p&gt;The weather has been terrible here. Cold and rainy, but not enough for snow. For now I just take my daily walk when the weather looks suitable.&lt;/p&gt;
+
+&lt;p&gt;Tonight we’re joining another couple for pizza and beers at a new place in Multnomah Village. But for now it’s all football and Game of Thrones (which happens to be airing all previous seasons over the coming days on HBO).&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/lazy-christmas&amp;amp;text=Christmas season in full swing&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+  share this page with your followers&lt;/a&gt; 
+and/or 
+&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
+  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Cheesemas is here!</title>
@@ -467,20 +493,6 @@ and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
 &lt;p&gt;For now I’ve been fiddling with this blog and my GitHub Pages stuff in general. The &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; blog portion is fascinating because it involves a very basic platform for web publishing. The entire process has been well-documented and demonstrated in &lt;a href=&quot;http://joshualande.com/jekyll-github-pages-poole/&quot;&gt;Joshue Lande’s blog entry&lt;/a&gt;. More on the Jekyll platform in the future.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/job-search-strategy&amp;amp;text=Job search strategy&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Reset, all over again</title>
-   <link href="https://blog.curtpoff.com/jekyll-reset-again"/>
-   <updated>2015-09-19T16:36:34-07:00</updated>
-   <id>https://blog.curtpoff.com/jekyll-reset-again</id>
-   <content type="html">&lt;p&gt;I feel like I finally have a grip on Jekyll as it runs in GitHub Pages. It took several attempts to install the Jekyll engine (parser) inside the existing directory and setup, but it seems to be working. I had to delete the Pages directory a couple times and it looks like I lost some update counts. But whatevs.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;The challenge will be updates as they use a fairly manual template process.&lt;/p&gt;
 
 </content>
  </entry>
