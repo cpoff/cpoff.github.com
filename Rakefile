@@ -1,3 +1,4 @@
+# No clue what this file does, but I'll try to learn
 require "rubygems"
 require 'rake'
 require 'yaml'
