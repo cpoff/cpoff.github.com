@@ -4,6 +4,8 @@
 permalink:           "/:title"
 excerpt_separator: "<!--more-->"
 timezone: America/Vancouver
+paginate: 5
+gems: [jekyll-paginate]
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
@@ -63,7 +65,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : "https://blog.curtpoff.com"
+  BASE_PATH : "https://blog.curtpoff.com/"
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
