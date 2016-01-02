@@ -5,10 +5,40 @@
         <description>Curt Poff is a web developer, producer living in Portland Oregon. This is his personal blog.</description>
         <link>https://blog.curtpoff.com</link>
         <atom:link href="https://blog.curtpoff.com/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 01 Jan 2016 09:50:05 -0800</lastBuildDate>
-        <pubDate>Fri, 01 Jan 2016 09:50:05 -0800</pubDate>
+        <lastBuildDate>Fri, 01 Jan 2016 17:55:56 -0800</lastBuildDate>
+        <pubDate>Fri, 01 Jan 2016 17:55:56 -0800</pubDate>
         <ttl>60</ttl>
 
+
+        <item>
+                <title>Here&#39;s to a new year</title>
+                <description>&lt;p&gt;2015 was a transitional year for me. The lovely wife and I relocated, changed careers, and left a great group of friends and colleagues in the Bay Area. It’s been a challenge, but I’m very excitied about the future.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Go somewhere new and start something new. We both did.&lt;/p&gt;
+
+&lt;p&gt;Ann went to work as soon as we arrived in PDX. She started teaching regular indoor cycling and yoga classes at various gyms/studios. It’s been great. She keeps a regular professional schedule and alots time to speak to students. She takes it seriously.&lt;/p&gt;
+
+&lt;p&gt;I went to school. Portland Codes School’s javascript immersion program went three months over the summer. I took the primer class in the spring so I was prepared. I spent the entire autumn and a portion of winter searching for work. I had several good talks but no job offers materialized. I have a couple conversations going now and am very optimistic. Looking forward to getting back to work. Into a regular schedule again.&lt;/p&gt;
+
+&lt;p&gt;We also look forward to traveling again, something we can only do as a dual-income family. Looking forward to picking through the greatest hits when we formulate our Xmas cards.&lt;/p&gt;
+
+&lt;p&gt;I hope 2016 treats everyone well.&lt;/p&gt;
+
+&lt;p&gt;Curt&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/new-year&amp;amp;text=Here&#39;s to a new year&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+  share this page with your followers&lt;/a&gt; 
+and/or 
+&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
+  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+                <link>https://blog.curtpoff.com/new-year</link>
+                <guid>https://blog.curtpoff.com/new-year</guid>
+                <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
+        </item>
 
         <item>
                 <title>Christmas season in full swing</title>
@@ -477,22 +507,6 @@ and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
                 <link>https://blog.curtpoff.com/blog-strategy</link>
                 <guid>https://blog.curtpoff.com/blog-strategy</guid>
                 <pubDate>Tue, 22 Sep 2015 00:00:00 -0700</pubDate>
-        </item>
-
-        <item>
-                <title>Job search strategy</title>
-                <description>&lt;p&gt;Now that I’ve spoken to several companies about web developer jobs, it’s clear the market is more competitive than I originally estimated. I’ve been dead-set against pursuing internships or volunteer opportunities in favor of a full-time (&lt;em&gt;paid&lt;/em&gt;) role. I plan to maintain that strategy for as long as possible.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;For now I’ve been fiddling with this blog and my GitHub Pages stuff in general. The &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; blog portion is fascinating because it involves a very basic platform for web publishing. The entire process has been well-documented and demonstrated in &lt;a href=&quot;http://joshualande.com/jekyll-github-pages-poole/&quot;&gt;Joshue Lande’s blog entry&lt;/a&gt;. More on the Jekyll platform in the future.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/job-search-strategy&amp;amp;text=Job search strategy&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-
-</description>
-                <link>https://blog.curtpoff.com/job-search-strategy</link>
-                <guid>https://blog.curtpoff.com/job-search-strategy</guid>
-                <pubDate>Mon, 21 Sep 2015 04:21:14 -0700</pubDate>
         </item>
 
 
