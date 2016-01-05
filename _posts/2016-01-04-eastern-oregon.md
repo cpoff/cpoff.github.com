@@ -28,7 +28,7 @@ Then this evening I had a lively (but civil) exchange on FB with a good friend a
 
 The terrorism claim is cloudy to me but appears to be part of the original charge. It's not entirely clear the way that article is written. Poor news writing, I'll admit it could be clearer. But still. The [Wikipedia article on this topic](https://en.wikipedia.org/wiki/Militia_occupation_of_the_Malheur_National_Wildlife_Refuge) has a better breakdown of the terrorist aspect. It has alot to do with federal property.
 
-So with that I'd like to point out that a whole bunch of armed folks have seized a federal facility in the United States in support of an arsonist duo who have alrealdy reported to prison. 
+So with that I'd like to point out that a whole bunch of armed (entirely white) folks have seized a federal facility in the United States in support of an arsonist duo who have alrealdy reported to prison. 
 
 Two questions come from all this. **(Todd, this bit is specifically for you)**. 
 
