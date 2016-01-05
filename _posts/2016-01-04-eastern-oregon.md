@@ -32,7 +32,7 @@ Two questions come from all this. And Todd, this is specifically for you. First:
 
 -cp
 
-Here's The Oregonian's [collection of articles](http://topics.oregonlive.com/tag/showdown%20in%20burns/). Feel free to read for yourself, but please put some critical analysis into your thinking.
+Here's The Oregonian's [collection of articles](http://topics.oregonlive.com/tag/showdown%20in%20burns/). Feel free to read for yourself.
 
 *Please
 <a href="https://twitter.com/intent/tweet?url={{ site.production_url }}{{ page.url }}&text={{ page.title }}&via=cpoff" 
