@@ -28,7 +28,10 @@ Then this evening I had a lively (but civil) exchange on FB with a good friend a
 
 So with that I'd like to point out that a whole bunch of armed folks have seized a federal facility in the United States in support of an arsonist duo who have alrealdy reported to prison. 
 
-Two questions come from all this. **(Todd, this bit is specifically for you)**. First: Do you really want to throw your support behind two convicted arsonists? And second: How would you react if the federal property they occupied happened in suburban Kansas City ... and the armed folks were black? Would you be so willing to post petitions in support?
+Two questions come from all this. **(Todd, this bit is specifically for you)**. 
+
+* First: Do you really want to throw your support behind two convicted arsonists? 
+* And second: How would you react if the federal property they occupied happened in suburban Kansas City ... and the armed folks were black? Would you be so willing to post petitions in support?
 
 -cp
 
