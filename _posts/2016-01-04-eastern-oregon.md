@@ -30,10 +30,10 @@ The terrorism claim is cloudy to me but appears to be part of the original charg
 
 So with that I'd like to point out that a whole bunch of armed (entirely white) folks have seized a federal facility in the United States in support of an arsonist duo who have alrealdy reported to prison. 
 
-Two questions come from all this. **(Todd, this bit is specifically for you)**. 
+Two questions come from all this. **(Todd, this bit is specifically for you)**:
 
-* Do you really want to throw your support behind two convicted arsonists? 
-* And how would you react if the federal property they occupied happened in suburban Kansas City ... and the armed folks were black? Would you be so eager to post petitions in support?
+* Do you really want to throw your support behind two convicted arsonists? If you want justice, I'd first ask you to explain how it has not already been administered.
+* And how would you react if this occupation of federal property was going on in suburban Kansas City ... and the armed folks were black? Would you be so eager to post petitions in support?
 
 -cp
 
