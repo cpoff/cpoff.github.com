@@ -20,8 +20,6 @@ Important to note: The Hammonds were tried by a jury in Pendleton, OR. Not exact
 
 Then recently the 'militia' showed up in Burns and led by the Bundys. This is the family [you may remember from a flare-up](https://en.wikipedia.org/wiki/Bundy_standoff) not long ago in Nevada. The family rails against the government and all. It's fine. But they came to Oregon to support the Hammonds even though no such request was ever made. 
 
-> Here's The Oregonian's [collection of articles](http://topics.oregonlive.com/tag/showdown%20in%20burns/). Feel free to read for yourself, but please put some critical analysis into your thinking.
-
 Now they've holed up in a federal faciilty outside Burns. They say they'll stay as long as it takes, alhough no one's clear what their demands are other than returning all federal land to ranchers. Not sure how that will happen. They're basically a bunch of anti-government crackpots looking for a spotlight. Hopefully the FBI will quietly cut off their Internet access, deny food, then offer to fill up their gas tanks if they agree to head home. Problem solved.
 
 I know land disputes between ranchers and the government date all the way back to the beginning of the BLM. I don't have a dog in that fight. But federal land is maintained for the common good and managed accordingly. Ranchers can graze but can't exercise absolute control in certain matters (water management, controlled burns, etc.). I've yet to see a better proposal. Let the government manage range land as best they can. Understand that what's best for you personally may not necessarily be best for all.
@@ -34,6 +32,7 @@ Two questions come from all this. And Todd, this is specifically for you. First:
 
 -cp
 
+Here's The Oregonian's [collection of articles](http://topics.oregonlive.com/tag/showdown%20in%20burns/). Feel free to read for yourself, but please put some critical analysis into your thinking.
 
 *Please
 <a href="https://twitter.com/intent/tweet?url={{ site.production_url }}{{ page.url }}&text={{ page.title }}&via=cpoff" 
