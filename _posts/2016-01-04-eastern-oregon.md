@@ -31,7 +31,7 @@ So with that I'd like to point out that a whole bunch of armed folks have seized
 Two questions come from all this. **(Todd, this bit is specifically for you)**. 
 
 * Do you really want to throw your support behind two convicted arsonists? 
-* And how would you react if the federal property they occupied happened in suburban Kansas City ... and the armed folks were black? Would you be so willing to post petitions in support?
+* And how would you react if the federal property they occupied happened in suburban Kansas City ... and the armed folks were black? Would you be so eager to post petitions in support?
 
 -cp
 
