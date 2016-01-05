@@ -16,7 +16,7 @@ The central figures are a father/son team named Hammond. Dwight Hammond Jr., 73,
 
 Arson is a **felony** and carries a five-year minimum sentence. On Monday the Hammonds reported to a federal prison in California. They committed arson and are doing mandatory five years. End of story. 
 
-Important to note: The Hammonds were tried by a jury in Pendleton, Oregon. That's a good ol' boy Mecca. Not exactly a tree-hugging liberal bastion. I've been to the fantastic rodeo up there with my parents - [the Pendleton Roundup](http://www.pendletonroundup.com/) - and I'd recommend to everyone. But make no mistake: There's no way a government railroad job could pass through a jury of rancher peers. No f*&#!@# way.
+Important to note: The Hammonds were tried by a jury in Pendleton, Oregon. That's a good ol' boy Mecca. Not exactly a tree-hugging liberal bastion. I've been to the fantastic rodeo up there - [the Pendleton Roundup](http://www.pendletonroundup.com/) - with my parents and I'd recommend to everyone. But make no mistake: There's no way a government railroad job could pass through a jury of rancher peers. No f*&#!@# way.
 
 Then recently the 'militia' showed up in Burns, led by the Bundys. This is the family [you may remember from a flare-up](https://en.wikipedia.org/wiki/Bundy_standoff) not long ago in Nevada. The family rails against the government and all. It's fine. But they came to Oregon to support the Hammonds even though no such request was ever made. They just want the attention.
 
