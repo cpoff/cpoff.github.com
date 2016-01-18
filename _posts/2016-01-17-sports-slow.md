@@ -16,7 +16,7 @@ Normally this time of year I'd turn my attention to Mizzou and Arizona MBB. All 
 
 By the time college hoops runs its course we'll have both MLS and MLB back in season. 
 
-
+-cp
 
 *Please
 <a href="https://twitter.com/intent/tweet?url={{ site.production_url }}{{ page.url }}&text={{ page.title }}&via=cpoff" 
