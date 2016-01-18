@@ -6,6 +6,7 @@ author: Curt Poff
 date:   2016-01-17
 categories: [sports]
 tags: [chiefs, football]
+keywords: "chiefs, football"
 comments: True
 ---
 
