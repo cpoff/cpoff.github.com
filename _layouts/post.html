@@ -5,3 +5,4 @@ layout: default
 ---
 {% include JB/setup %}
 {% include themes/hooligan/post.html %}
+{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
