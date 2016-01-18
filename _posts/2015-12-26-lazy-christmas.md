@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Christmas season in full swing"
+description: "Cheesemas went off without a hitch and everyone had a wonderful time. Now it’s time to sit back and enjoy some holiday laziness. Football, binge-watching TV shows, homemade posole. It’s all in the cards."
 author: Curt Poff
 date:   2015-12-26
 categories: [christmas]
