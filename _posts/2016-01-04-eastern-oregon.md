@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Big trouble in eastern Oregon"
+description: "I’d like to offer a summary on the standoff going on out in the eastern part of Oregon. It’s complicated but I’ll try to use adequate sourcing."
 author: Curt Poff
 date:   2016-01-04
 categories: [oregon]

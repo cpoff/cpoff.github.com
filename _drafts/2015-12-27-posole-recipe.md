@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Our evolving posole recipe"
+description: "Ann's mother - Sylvia - recently shared her recipe for the classic Mexican soup. We've made it twice now and we're getting really good. Here's what we know."
 author: Curt Poff
 date:   2015-12-27
 categories: [recipe]
