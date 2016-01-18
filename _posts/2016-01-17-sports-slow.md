@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Slow time of year for sports"
+description:  "The NFL playoffs are down to the final four and my Chiefs are now eliminated. Rough finish to a rough season. Thus begins the slow season for sports."
 author: Curt Poff
 date:   2016-01-17
 categories: [sports]
