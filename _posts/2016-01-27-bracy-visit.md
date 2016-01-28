@@ -15,7 +15,9 @@ comments: True
 
 Food and beverages were high on the priority list across her three-day visit, with some books added for good measure. Started with lunch and beers at Blue Moon in NW Portland. Then next day a fantastic lunch at Little Bird and some wine tasting in Pioneer Square. Wrapped up with a fantastic dinner/drinks at Montage.
 
-In between meals we pretty much spent our time in pajamas, playing board games and watching Australian Open tennis. And the Apple TV filled in the remaining hours. Today she fled the confining spaces of metropolitan life and headed for the Oregon Coast. Smart woman.
+In between meals we pretty much spent our time in pajamas, playing board games and watching Australian Open tennis. And the Apple TV filled in the remaining hours. It also helped that she brought a growler full of Krux kolsch and we had a fully stocked wine selection. Local and otherwise.
+
+Today she fled the confining spaces of metropolitan life and headed for the Oregon Coast. Smart woman.
 
 Anyway, Catherine joins an elite club. That being people who are always welcome around our place.
 
