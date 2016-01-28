@@ -3,7 +3,7 @@ layout: post
 title:  "Another quality visit"
 description:  "Cathering Bracy paid her first visit to Oregon, and we happily hosted the Portland segment of her expedition."
 author: Curt Poff
-date:   2015-01-27
+date:   2016-01-27
 categories: [social]
 tags: [Portland, bracy, montage]
 comments: True

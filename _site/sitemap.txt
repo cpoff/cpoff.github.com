@@ -14,6 +14,7 @@ https://blog.curtpoff.com/page4/
 https://blog.curtpoff.com/page5/
 https://blog.curtpoff.com/page6/
 
+https://blog.curtpoff.com/bracy-visit
 https://blog.curtpoff.com/sports-slow
 https://blog.curtpoff.com/eastern-oregon
 https://blog.curtpoff.com/new-year
@@ -43,4 +44,3 @@ https://blog.curtpoff.com/hello-world
 https://blog.curtpoff.com/panic
 https://blog.curtpoff.com/more-fish-please
 https://blog.curtpoff.com/introduction
-https://blog.curtpoff.com/bracy-visit
