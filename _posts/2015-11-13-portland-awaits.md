@@ -4,7 +4,7 @@ title:  "Move to Portland"
 author: Curt Poff
 date:   2015-11-13
 categories: [portland]
-tags: [portland, oregon, portlandia, relocate]
+tags: [Portland, oregon, portlandia, relocate]
 comments: True
 ---
 
