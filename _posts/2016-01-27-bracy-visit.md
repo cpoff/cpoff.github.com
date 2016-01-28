@@ -13,7 +13,7 @@ comments: True
 
 <!--more-->
 
-Food and beverages were high on the priority list across her three-day visit, with some books added for good measure. Started with lunch and beers at Blue Moon in NW Portland. Then next day a fantastic lunch at Little Bird and some wine tasting in Pioneer Square. Wrapped up with a fantastic dinner/drinks at Montage.
+Ann and I always like to show people around town, usually with food and beverages high on the priority list across the three-day visit. Plus some books added for good measure. The agenda included: one lunch and beers at Blue Moon in NW Portland, a fantastic lunch (the next day) at Little Bird followed by some wine tasting in Pioneer Square. Wrapped up with a fantastic dinner/drinks at Montage.
 
 In between meals we pretty much spent our time in pajamas, playing board games and watching Australian Open tennis. And the Apple TV filled in the remaining hours. It also helped that she brought a growler full of Krux kölsch and we had a fully stocked wine selection. Local and otherwise.
 
