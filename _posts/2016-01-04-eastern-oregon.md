@@ -13,9 +13,9 @@ I'd like to offer a summary on [the standoff going on out in the eastern part of
 
 <!--more-->
 
-<script charset="utf-8" src="//www.travelpayouts.com/widgets/83225038b14cf0411fed25978f9d2da7.js?v=671" async></script>
-
 The central figures are a father/son team named Hammond. Dwight Hammond Jr., 73, and Steven Hammond, 46. They were [convicted of arson](http://www.justice.gov/usao-or/pr/eastern-oregon-ranchers-convicted-arson-resentenced-five-years-prison) by a jury, sentenced to time, then re-sentenced because the original judge was deemed to be too lenient. Additional claims that they set the blazes in order to conceal vast poaching were also mentioned.
+
+<iframe scrolling="no" width="" height="245" frameborder="0" src="//www.travelpayouts.com/widgets/83225038b14cf0411fed25978f9d2da7.html?v=671"></iframe>
 
 Arson is a **felony** and carries a five-year minimum sentence. On Monday the Hammonds reported to a federal prison in California. They committed arson and are doing mandatory five years. End of story. 
 
