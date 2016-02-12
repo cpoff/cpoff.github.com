@@ -15,15 +15,11 @@ One of the things you have to deal with when you relocate is changes to your reg
 
 Here are the teams we get as our homers:
 
-NBA: Trail Blazers
-
-MLS: Timbers
-
-NFL: Seahawks
-
-MLB: Mariners
-
-NHL: Canucks, Sharks
+*   NBA: Trail Blazers
+*   MLS: Timbers
+*   NFL: Seahawks
+*   MLB: Mariners
+*   NHL: Canucks, Sharks
 
 College football is the typical local shakedown. Ducks first, Beavers a distant second, followed by whoever is on the Pac 12 Channel. That's usually a Washington school in the fall, then Arizona basketball in the winter.
 
