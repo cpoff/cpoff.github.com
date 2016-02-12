@@ -5,8 +5,8 @@
         <description>Curt Poff is a web developer, producer living in Portland Oregon. This is his personal blog.</description>
         <link>https://blog.curtpoff.com</link>
         <atom:link href="https://blog.curtpoff.com/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 11 Feb 2016 20:43:13 -0800</lastBuildDate>
-        <pubDate>Thu, 11 Feb 2016 20:43:13 -0800</pubDate>
+        <lastBuildDate>Thu, 11 Feb 2016 21:20:18 -0800</lastBuildDate>
+        <pubDate>Thu, 11 Feb 2016 21:20:18 -0800</pubDate>
         <ttl>60</ttl>
 
 
@@ -18,15 +18,13 @@
 
 &lt;p&gt;Here are the teams we get as our homers:&lt;/p&gt;
 
-&lt;p&gt;NBA: Trail Blazers&lt;/p&gt;
-
-&lt;p&gt;MLS: Timbers&lt;/p&gt;
-
-&lt;p&gt;NFL: Seahawks&lt;/p&gt;
-
-&lt;p&gt;MLB: Mariners&lt;/p&gt;
-
-&lt;p&gt;NHL: Canucks, Sharks&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;NBA: Trail Blazers&lt;/li&gt;
+  &lt;li&gt;MLS: Timbers&lt;/li&gt;
+  &lt;li&gt;NFL: Seahawks&lt;/li&gt;
+  &lt;li&gt;MLB: Mariners&lt;/li&gt;
+  &lt;li&gt;NHL: Canucks, Sharks&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;College football is the typical local shakedown. Ducks first, Beavers a distant second, followed by whoever is on the Pac 12 Channel. That’s usually a Washington school in the fall, then Arizona basketball in the winter.&lt;/p&gt;
 
