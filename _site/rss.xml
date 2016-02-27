@@ -5,10 +5,32 @@
         <description>Curt Poff is a web developer, producer living in Portland Oregon. This is his personal blog.</description>
         <link>https://blog.curtpoff.com</link>
         <atom:link href="https://blog.curtpoff.com/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 11 Feb 2016 21:20:47 -0800</lastBuildDate>
-        <pubDate>Thu, 11 Feb 2016 21:20:47 -0800</pubDate>
+        <lastBuildDate>Fri, 26 Feb 2016 18:31:17 -0800</lastBuildDate>
+        <pubDate>Fri, 26 Feb 2016 18:31:17 -0800</pubDate>
         <ttl>60</ttl>
 
+
+        <item>
+                <title>Four seasons in PDX</title>
+                <description>&lt;p&gt;People typically have a predictable opinion of Portland weather. Gray and rainy, with flashes of warm and sunny. This winter has lived up to all stereotypes.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Winter started back in late October. My buddy &lt;a href=&quot;https://blog.curtpoff.com/big-october&quot;&gt;Martin visited&lt;/a&gt; from Germany and was greeted with cold rain. Then late in December we had a legitimate winter storm. Snow and ice stayed on the ground for several days.&lt;/p&gt;
+
+&lt;p&gt;Then in January and February it just got dreary. Cold and dark for days/weeks on end. That’s still going on now as March approaches. You can already see buds coming out on the trees. And some of the cherry trees are already blooming. I imagine the whole lot will explode once we get a string of consecutive warm, sunny days.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/four-seasons&amp;amp;text=Four seasons in PDX&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+  share this page with your followers&lt;/a&gt;
+and/or
+&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
+  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+                <link>https://blog.curtpoff.com/four-seasons</link>
+                <guid>https://blog.curtpoff.com/four-seasons</guid>
+                <pubDate>Fri, 26 Feb 2016 00:00:00 -0800</pubDate>
+        </item>
 
         <item>
                 <title>Portland&#39;s home sports teams</title>
@@ -531,23 +553,6 @@ and/or
                 <link>https://blog.curtpoff.com/anns-birthday</link>
                 <guid>https://blog.curtpoff.com/anns-birthday</guid>
                 <pubDate>Fri, 09 Oct 2015 00:00:00 -0700</pubDate>
-        </item>
-
-        <item>
-                <title>Time to play with some Jekyll themes</title>
-                <description>&lt;p&gt;Now that I have the Jekyll basics down, I’m going to start tweaking some theme/template options. I want more stuff in the header, and more obvious linking between this blog and my GitHub profile. I’m not convinced the simple footer does enough.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;So don’t worry if you see things changing day-to-day. It’s all part of the plan.&lt;/p&gt;
-
-&lt;p&gt;-cp&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/jekyll-options&amp;amp;text=Time to play with some Jekyll themes&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-</description>
-                <link>https://blog.curtpoff.com/jekyll-options</link>
-                <guid>https://blog.curtpoff.com/jekyll-options</guid>
-                <pubDate>Mon, 05 Oct 2015 00:00:00 -0700</pubDate>
         </item>
 
 
