@@ -5,10 +5,32 @@
         <description>Curt Poff is a web developer, producer living in Portland Oregon. This is his personal blog.</description>
         <link>https://blog.curtpoff.com</link>
         <atom:link href="https://blog.curtpoff.com/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 28 Feb 2016 23:52:44 -0800</lastBuildDate>
-        <pubDate>Sun, 28 Feb 2016 23:52:44 -0800</pubDate>
+        <lastBuildDate>Mon, 29 Feb 2016 00:00:12 -0800</lastBuildDate>
+        <pubDate>Mon, 29 Feb 2016 00:00:12 -0800</pubDate>
         <ttl>60</ttl>
 
+
+        <item>
+                <title>Celebrate Leap Year</title>
+                <description>&lt;p&gt;Doesn’t happen every year.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;And with that we happily look forward to March. Big things planned this month. Stay tuned.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please
+&lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/leap-year&amp;amp;text=Celebrate Leap Year&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;
+  share this page with your followers&lt;/a&gt;
+and/or
+&lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
+  follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+                <link>https://blog.curtpoff.com/leap-year</link>
+                <guid>https://blog.curtpoff.com/leap-year</guid>
+                <pubDate>Mon, 29 Feb 2016 00:00:00 -0800</pubDate>
+        </item>
 
         <item>
                 <title>Four seasons in PDX</title>
@@ -538,25 +560,6 @@ and/or
                 <link>https://blog.curtpoff.com/big-october</link>
                 <guid>https://blog.curtpoff.com/big-october</guid>
                 <pubDate>Mon, 12 Oct 2015 00:00:00 -0700</pubDate>
-        </item>
-
-        <item>
-                <title>Happy birthday to my lovely wife</title>
-                <description>&lt;p&gt;My wife - Ann Chihak Poff - turns 41 on Friday. Check out &lt;a href=&quot;http://gofitgirl.com/&quot;&gt;her blog&lt;/a&gt; and I’m sure you’ll agree that she may be the most lovely 41-year-old on the planet.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Later on this month she and I will celebrate our 12th anniversary. The best 12 years of my life. I can’t imagine life without her.&lt;/p&gt;
-
-&lt;p&gt;We’ll be celebrating with friends by having drinks/dinner at Montage, her favorite place of all time. Spicy Mac for m’lady.&lt;/p&gt;
-
-&lt;p&gt;-cp&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/anns-birthday&amp;amp;text=Happy birthday to my lovely wife&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-</description>
-                <link>https://blog.curtpoff.com/anns-birthday</link>
-                <guid>https://blog.curtpoff.com/anns-birthday</guid>
-                <pubDate>Fri, 09 Oct 2015 00:00:00 -0700</pubDate>
         </item>
 
 
