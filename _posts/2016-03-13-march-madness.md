@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "March Madness"
-description:  "Ann and I are about to depart on our annual pilgrimage to Las Vegas for the opening of the NCAA Tournament."
+description:  "Ann and I are about to depart on our annual pilgrimage to Las Vegas for the opening of the NCAA Tournament. Looking forward to it."
 author: Curt Poff
 date:   2016-03-13
 categories: [vacation]
