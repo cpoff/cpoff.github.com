@@ -339,7 +339,7 @@ div.content div#page-index {
 @media (min-width: 240px) and (max-width: 979px) {
   /* line 7, ../_sass/_responsive.scss */
   .navbar ul.social {
-    display: none !important;
+	display: none !important;
   }
 }
 
@@ -347,21 +347,21 @@ div.content div#page-index {
 @media (max-width: 767px) {
   /* line 18, ../_sass/_responsive.scss */
   body {
-    padding-right: 0px;
-    padding-left: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
   }
 
   /* line 23, ../_sass/_responsive.scss */
   div.container {
-    padding: 0px 20px;
+	padding: 0px 20px;
   }
   /* line 25, ../_sass/_responsive.scss */
   div.container div.page-header {
-    -webkit-border-radius: 0;
-    -moz-border-radius: 0;
-    -ms-border-radius: 0;
-    -o-border-radius: 0;
-    border-radius: 0;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	-ms-border-radius: 0;
+	-o-border-radius: 0;
+	border-radius: 0;
   }
 }
 /* Posts */
