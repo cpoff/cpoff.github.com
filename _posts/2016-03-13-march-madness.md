@@ -9,11 +9,11 @@ tags: [basketball, las vegas, sports, wildcats]
 comments: True
 ---
 
-Ann and I are about to depart on our annual pilgrimage to Las Vegas for the opening of the NCAA Tournament.
+Ann and I are about to depart on our annual pilgrimage to Las Vegas for the opening of the NCAA Tournament. It's a big deal for us.
 
 <!--more-->
 
-We've been going on this trip for about 5-6 years. Our friends Jen and Dave Cieslak always join us. Plus a few additional guests here and there.
+We've been going on this trip for about five to six years. Our friends Jen and Dave Cieslak always join us. Plus a few additional guests here and there.
 
 The trip agenda is almost always the same: Arrive just as the first games tip of Thursday morning, head to our home away from home [Ellis Island Casino](http://ellisislandcasino.com/), order a truckload of dollar beers and dollar hotdogs, place a few parlays, then sit back and collect winnings. 
 
