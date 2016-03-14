@@ -5,7 +5,7 @@ description:  "Ann and I are about to depart on our annual pilgrimage to Las Veg
 author: Curt Poff
 date:   2016-03-13
 categories: [vacation]
-tags: [basketball, las vegas, ]
+tags: [basketball, las vegas, sports, wildcats]
 comments: True
 ---
 
