@@ -5,7 +5,7 @@ description:  "This week finally saw the arrival of spring. It's been a hard win
 author: Curt Poff
 date:   2016-03-31
 categories: [spring]
-tags: [winter]
+tags: [winter, Portland, oregon]
 comments: True
 ---
 This week finally saw the arrival of spring. It's been a hard winter and I'm so glad spring is here.
