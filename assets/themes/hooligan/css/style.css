@@ -40,7 +40,7 @@ a {
 }
 /* line 37, ../_sass/_base.scss */
 a:hover {
-  color: #e01d30;
+  color: #d4edf9;
   text-decoration: none;
 }
 
@@ -92,11 +92,6 @@ hr {
 .navbar {
   margin-bottom: 0;
 }
-
-.footer {
-  padding-bottom: 20px;
-}
-
 /* line 83, ../_sass/_base.scss */
 .navbar div.navbar-inner {
   -webkit-border-radius: 0;
@@ -117,7 +112,6 @@ hr {
 /* line 99, ../_sass/_base.scss */
 .container > footer {
   margin-top: 20px;
-  margin-bottom: 10px;
   clear: both;
 }
 
@@ -130,7 +124,6 @@ hr {
 /* Content */
 /* line 110, ../_sass/_base.scss */
 .content {
-  margin-top: 25px;
   /* when there's no page-header */
   /* Wide column content */
 }
@@ -296,16 +289,6 @@ div.content div#page-index {
   color: #46c0fb !important;
 }
 
-.zocial.facebook:focus,
-.zocial.facebook:hover {
-  color: #46c0fb !important;
-}
-
-.zocial.github:focus,
-.zocial.github:hover {
-  color: #33333 !important;
-}
-
 /* line 264, ../_sass/_base.scss */
 .zocial.linkedin:focus,
 .zocial.linkedin:hover {
@@ -316,14 +299,13 @@ div.content div#page-index {
 .zocial.rss:focus,
 .zocial.rss:hover {
   color:#fb9d3a !important;
-}
+}  
 
 /* Layout */
 /* line 2, ../_sass/_responsive.scss */
 .navbar {
   margin-bottom: 0;
 }
-
 /* line 4, ../_sass/_responsive.scss */
 .navbar div.navbar-inner {
   -webkit-border-radius: 0;
@@ -339,7 +321,7 @@ div.content div#page-index {
 @media (min-width: 240px) and (max-width: 979px) {
   /* line 7, ../_sass/_responsive.scss */
   .navbar ul.social {
-	display: none !important;
+    display: none !important;
   }
 }
 
@@ -347,21 +329,21 @@ div.content div#page-index {
 @media (max-width: 767px) {
   /* line 18, ../_sass/_responsive.scss */
   body {
-	padding-right: 0px;
-	padding-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
   }
 
   /* line 23, ../_sass/_responsive.scss */
   div.container {
-	padding: 0px 20px;
+    padding: 0px 20px;
   }
   /* line 25, ../_sass/_responsive.scss */
   div.container div.page-header {
-	-webkit-border-radius: 0;
-	-moz-border-radius: 0;
-	-ms-border-radius: 0;
-	-o-border-radius: 0;
-	border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    border-radius: 0;
   }
 }
 /* Posts */
@@ -426,8 +408,4 @@ div.sidebar section img.icon {
   -ms-border-radius: 5px;
   -o-border-radius: 5px;
   border-radius: 5px;
-}
-
-.home {
-  padding-top: 30px;
 }
