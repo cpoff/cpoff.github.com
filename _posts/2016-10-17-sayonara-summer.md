@@ -11,8 +11,6 @@ comments: True
 
 Man, did we ever have a gorgeous summer. Last year was waaaay too hot. But this year was fantastic. Warm, sunny, lovely sunsets, the works.
 
-Portland may have the single best alternative news weekly on the planet. The [Willamette Week](http://www.wweek.com) is no joke.
-
 <!--more-->
 
 But it's all over with. Pouring buckets last week, same for this week, more to come next week. Ann and I have a one-night getaway coming up on the Oregon Coast but I doubt we'll get to see much. Plan on cloudy and dark.
