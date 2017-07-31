@@ -1,6 +1,6 @@
 This is the repo for [my blog](https://blog.curtpoff.com) on GH Pages. Fast and free.
 
-Yes indeed it is.
+You bet it is.
 
 # Markdown Examples
 
