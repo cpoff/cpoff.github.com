@@ -1,6 +1,4 @@
-This is the repo for [my blog](https://blog.curtpoff.com) on GH Pages. Fast and free.
-
-Yes
+This is the repo for [my blog](https://blog.curtpoff.com) on GH Pages. Fast and free. You betcha.
 
 # Markdown Examples
 
