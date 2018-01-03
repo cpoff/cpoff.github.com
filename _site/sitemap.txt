@@ -8,6 +8,9 @@ https://blog.curtpoff.com/pages
 https://blog.curtpoff.com/rss.xml
 https://blog.curtpoff.com/sitemap.txt
 https://blog.curtpoff.com/tags
+https://blog.curtpoff.com/assets/css/style.css
+https://blog.curtpoff.com/assets/themes/hooligan/css-social-buttons/
+https://blog.curtpoff.com/assets/themes/the-minimum/
 https://blog.curtpoff.com/page2/
 https://blog.curtpoff.com/page3/
 https://blog.curtpoff.com/page4/
