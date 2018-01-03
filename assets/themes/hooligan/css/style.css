@@ -52,7 +52,7 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 
 /* line 49, ../_sass/_base.scss */
 h1, h2 {
-  margin: 0 0 25px;
+  margin: 0 0 15px;
 }
 
 /* line 53, ../_sass/_base.scss */
@@ -133,7 +133,7 @@ hr {
 }
 /* line 115, ../_sass/_base.scss */
 .content.no-header {
-  padding-top: 40px;
+  padding-top: 50px;
 }
 /* line 122, ../_sass/_base.scss */
 .content div.row div.span8 > img {
