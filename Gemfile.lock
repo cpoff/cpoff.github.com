@@ -234,6 +234,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll
+  jekyll-watch
 
 BUNDLED WITH
    1.16.1
