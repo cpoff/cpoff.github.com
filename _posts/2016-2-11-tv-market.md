@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Portland's home sports teams"
-description:  "One of the things you have to deal with when you relocate is changes to your regional sports affiliation. Yeah, Portland has the Timbers and Blazers. But what else is in our TV market?"
+description:  "One of the things you have to deal with when you relocate is changes to your regional sports affiliation. Yeah, Portland has the Timbers and Blazers. But what else is in our TV market? Here's a rundown."
 author: Curt Poff
 date:   2016-2-11
 categories: [sports]
