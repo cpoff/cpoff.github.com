@@ -409,3 +409,8 @@ div.sidebar section img.icon {
   -o-border-radius: 5px;
   border-radius: 5px;
 }
+
+div.ad {
+    float: right;
+    margin: 10px;
+}
