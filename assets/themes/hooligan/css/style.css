@@ -111,7 +111,7 @@ hr {
 
 /* line 99, ../_sass/_base.scss */
 .container > footer {
-  margin-top: 20px;
+  margin-top: 10px;
   clear: both;
 }
 
@@ -164,7 +164,7 @@ hr {
   background: #202020;
   background-color: rgba(0, 0, 0, 0.3);
   border: none;
-  padding: 20px 20px 10px;
+  padding: 50px 50px 10px;
   margin: 0px -20px 20px;
   z-index: 0;
   -moz-border-radius-bottomleft: 5px;
@@ -299,7 +299,7 @@ div.content div#page-index {
 .zocial.rss:focus,
 .zocial.rss:hover {
   color:#fb9d3a !important;
-}  
+}
 
 /* Layout */
 /* line 2, ../_sass/_responsive.scss */
