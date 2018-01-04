@@ -111,7 +111,8 @@ hr {
 
 /* line 99, ../_sass/_base.scss */
 .container > footer {
-  margin-top: 20px;
+  margin-top: 40px;
+  margin-top: 10px;
   clear: both;
 }
 
