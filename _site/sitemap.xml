@@ -1,131 +1,223 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>http://blog.curtpoff.com/</loc>
-  <priority>1.00</priority>
+<loc>/introduction</loc>
+<lastmod>2015-05-27T04:25:09-07:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/archive.html</loc>
-  <priority>0.90</priority>
+<loc>/more-fish-please</loc>
+<lastmod>2015-05-27T09:47:17-07:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/categories.html</loc>
-  <priority>0.90</priority>
+<loc>/panic</loc>
+<lastmod>2015-05-27T14:17:09-07:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/pages.html</loc>
-  <priority>0.90</priority>
+<loc>/hello-world</loc>
+<lastmod>2015-09-17T00:00:00-07:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/tags.html</loc>
-  <priority>0.90</priority>
+<loc>/summer</loc>
+<lastmod>2015-09-17T00:00:00-07:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/about/</loc>
-  <priority>0.95</priority>
+<loc>/jekyll-reset-again</loc>
+<lastmod>2015-09-19T16:36:34-07:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/title-town/</loc>
-  <priority>0.80</priority>
+<loc>/job-search-strategy</loc>
+<lastmod>2015-09-21T04:21:14-07:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/new-blog-theme/</loc>
-  <priority>0.80</priority>
+<loc>/blog-strategy</loc>
+<lastmod>2015-09-22T00:00:00-07:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/linux-imac/</loc>
-  <priority>0.80</priority>
+<loc>/fotball-jinx</loc>
+<lastmod>2015-09-24T09:28:45-07:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/new-homepage/</loc>
-  <priority>0.80</priority>
+<loc>/ciao-bella</loc>
+<lastmod>2015-09-28T00:00:00-07:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/ham-feast/</loc>
-  <priority>0.80</priority>
+<loc>/autumn-here</loc>
+<lastmod>2015-10-03T00:00:00-07:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/hunt-report/</loc>
-  <priority>0.80</priority>
+<loc>/jekyll-options</loc>
+<lastmod>2015-10-05T00:00:00-07:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/deer-season/</loc>
-  <priority>0.80</priority>
+<loc>/anns-birthday</loc>
+<lastmod>2015-10-09T00:00:00-07:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/portland-awaits/</loc>
-  <priority>0.80</priority>
+<loc>/big-october</loc>
+<lastmod>2015-10-12T00:00:00-07:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/royals-win/</loc>
-  <priority>0.80</priority>
+<loc>/pcs-closes</loc>
+<lastmod>2015-10-21T00:00:00-07:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/pcs-closes/</loc>
-  <priority>0.80</priority>
+<loc>/royals-win</loc>
+<lastmod>2015-11-03T00:00:00-08:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/big-october/</loc>
-  <priority>0.80</priority>
+<loc>/deer-season</loc>
+<lastmod>2015-11-11T00:00:00-08:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/anns-birthday/</loc>
-  <priority>0.80</priority>
+<loc>/portland-awaits</loc>
+<lastmod>2015-11-13T00:00:00-08:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/jekyll-options/</loc>
-  <priority>0.80</priority>
+<loc>/hunt-report</loc>
+<lastmod>2015-11-16T00:00:00-08:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/autumn-here/</loc>
-  <priority>0.80</priority>
+<loc>/ham-feast</loc>
+<lastmod>2015-11-20T00:00:00-08:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/ciao-bella/</loc>
-  <priority>0.80</priority>
+<loc>/new-homepage</loc>
+<lastmod>2015-11-21T00:00:00-08:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/fotball-jinx/</loc>
-  <priority>0.80</priority>
+<loc>/linux-imac</loc>
+<lastmod>2015-11-27T00:00:00-08:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/blog-strategy/</loc>
-  <priority>0.80</priority>
+<loc>/new-blog-theme</loc>
+<lastmod>2015-12-04T00:00:00-08:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/job-search-strategy/</loc>
-  <priority>0.80</priority>
+<loc>/title-town</loc>
+<lastmod>2015-12-07T00:00:00-08:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/jekyll-reset-again/</loc>
-  <priority>0.80</priority>
+<loc>/cheesemas</loc>
+<lastmod>2015-12-17T00:00:00-08:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/summer/</loc>
-  <priority>0.80</priority>
+<loc>/lazy-christmas</loc>
+<lastmod>2015-12-26T00:00:00-08:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/hello-world/</loc>
-  <priority>0.80</priority>
+<loc>/new-year</loc>
+<lastmod>2016-01-01T00:00:00-08:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/panic/</loc>
-  <priority>0.80</priority>
+<loc>/eastern-oregon</loc>
+<lastmod>2016-01-04T00:00:00-08:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/more-fish-please/</loc>
-  <priority>0.80</priority>
+<loc>/sports-slow</loc>
+<lastmod>2016-01-17T00:00:00-08:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/introduction/</loc>
-  <priority>0.80</priority>
+<loc>/bracy-visit</loc>
+<lastmod>2016-01-27T00:00:00-08:00</lastmod>
 </url>
 <url>
-  <loc>http://blog.curtpoff.com/sitemap.txt</loc>
-  <priority>0.60</priority>
+<loc>/tv-market</loc>
+<lastmod>2016-02-11T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>/four-seasons</loc>
+<lastmod>2016-02-26T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>/leap-year</loc>
+<lastmod>2016-02-29T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>/march-madness</loc>
+<lastmod>2016-03-13T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>/spring-sprung</loc>
+<lastmod>2016-03-31T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>/nike-job</loc>
+<lastmod>2016-05-23T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>/sayonara-summer</loc>
+<lastmod>2016-10-17T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>/UN-jobs</loc>
+<lastmod>2016-11-10T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>/seasons-are-rolling-again</loc>
+<lastmod>2017-11-02T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>/looking-ahead</loc>
+<lastmod>2018-01-04T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>/about/</loc>
+</url>
+<url>
+<loc>/archive</loc>
+</url>
+<url>
+<loc>/categories</loc>
+</url>
+<url>
+<loc>/</loc>
+</url>
+<url>
+<loc>/pages</loc>
+</url>
+<url>
+<loc>/tags</loc>
+</url>
+<url>
+<loc>/assets/themes/hooligan/css-social-buttons/</loc>
+</url>
+<url>
+<loc>/assets/themes/the-minimum/</loc>
+</url>
+<url>
+<loc>/jekyll-sitemap/</loc>
+</url>
+<url>
+<loc>/page2/</loc>
+</url>
+<url>
+<loc>/page3/</loc>
+</url>
+<url>
+<loc>/page4/</loc>
+</url>
+<url>
+<loc>/page5/</loc>
+</url>
+<url>
+<loc>/page6/</loc>
+</url>
+<url>
+<loc>/page7/</loc>
+</url>
+<url>
+<loc>/page8/</loc>
+</url>
+<url>
+<loc>/assets/themes/hooligan/css-social-buttons/sample.html</loc>
+<lastmod>2016-05-23T20:36:51-07:00</lastmod>
+</url>
+<url>
+<loc>/google53d2773919fcd053.html</loc>
+<lastmod>2015-12-04T22:07:17-08:00</lastmod>
+</url>
+<url>
+<loc>/img/resume-cpoff.pdf</loc>
+<lastmod>2016-02-02T12:26:23-08:00</lastmod>
 </url>
 </urlset>
