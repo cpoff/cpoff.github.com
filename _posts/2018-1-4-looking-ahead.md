@@ -15,7 +15,7 @@ The Nike contract ran out just before the holidays. I had three contract extensi
 
 Of course we don't want to move. We've been in PDX for three years and love the placeand the lovely friends we've made here. But the weather is rough on Ann (the Arizona native) and we're in the middle of a relatively cold winter. Can't say she'd hate moving back to a warmer climate.
 
-
+So stay tuned for news on that front.
 
 
 *Please
