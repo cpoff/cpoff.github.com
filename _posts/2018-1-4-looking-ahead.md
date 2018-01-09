@@ -4,7 +4,7 @@ title:  "Kicking off the new year with style"
 description:  "Ann and I have had better years. 2017 wasn't the best year on record, and we're weighing our options."
 author: Curt Poff
 date:   2018-01-04
-categories: [general, job]
+categories: [job]
 tags: [portland, options]
 comments: True
 ---

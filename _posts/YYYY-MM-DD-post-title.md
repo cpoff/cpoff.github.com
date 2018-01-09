@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "The only print product I consume regularly"
-description:  "Portland may have the single best alternative news weekly on the planet. The Willamette Week is no joke."
+title:  "Hed goes here"
+description:  "Meta description goes here"
 author: Curt Poff
 date:   YYYY-MM-DD
 categories: [general]
-tags: [autumn, football]
+tags: []
 comments: True
 ---
 
