@@ -8,7 +8,7 @@ tags: [albany, missouri, family, venison]
 comments: True
 ---
 
-As I [mentioned earlier](/deer-season/), this weekend was the opening of firearm deer season in my hometown. It's a special event for me. It's a family affair that reinforces our hunting tradition.
+As I [mentioned earlier](/deer-season), this weekend was the opening of firearm deer season in my hometown. It's a special event for me. It's a family affair that reinforces our hunting tradition.
 
 <!--more-->
 
