@@ -3,8 +3,8 @@
   <channel>
     <title></title>
     <description>Curt Poff is a long-time tech worker who lives in Portland Oregon. Proud graduate of Portland State.</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Kicking off the new year with style</title>
@@ -20,8 +20,8 @@
 &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/looking-ahead&amp;amp;text=Kicking off the new year with style&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt; follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 04 Jan 2018 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//looking-ahead</link>
-        <guid isPermaLink="true">http://localhost:4000//looking-ahead</guid>
+        <link>//looking-ahead</link>
+        <guid isPermaLink="true">//looking-ahead</guid>
       </item>
     
       <item>
@@ -42,8 +42,8 @@ and/or
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 02 Nov 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000//seasons-are-rolling-again</link>
-        <guid isPermaLink="true">http://localhost:4000//seasons-are-rolling-again</guid>
+        <link>//seasons-are-rolling-again</link>
+        <guid isPermaLink="true">//seasons-are-rolling-again</guid>
       </item>
     
       <item>
@@ -138,8 +138,8 @@ and/or
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Nov 2016 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//UN-jobs</link>
-        <guid isPermaLink="true">http://localhost:4000//UN-jobs</guid>
+        <link>//UN-jobs</link>
+        <guid isPermaLink="true">//UN-jobs</guid>
       </item>
     
       <item>
@@ -162,8 +162,8 @@ and/or
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 Oct 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000//sayonara-summer</link>
-        <guid isPermaLink="true">http://localhost:4000//sayonara-summer</guid>
+        <link>//sayonara-summer</link>
+        <guid isPermaLink="true">//sayonara-summer</guid>
       </item>
     
       <item>
@@ -186,8 +186,8 @@ and/or
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 23 May 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000//nike-job</link>
-        <guid isPermaLink="true">http://localhost:4000//nike-job</guid>
+        <link>//nike-job</link>
+        <guid isPermaLink="true">//nike-job</guid>
       </item>
     
       <item>
@@ -210,8 +210,8 @@ and/or
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 31 Mar 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000//spring-sprung</link>
-        <guid isPermaLink="true">http://localhost:4000//spring-sprung</guid>
+        <link>//spring-sprung</link>
+        <guid isPermaLink="true">//spring-sprung</guid>
       </item>
     
       <item>
@@ -240,8 +240,8 @@ and/or
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 13 Mar 2016 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//march-madness</link>
-        <guid isPermaLink="true">http://localhost:4000//march-madness</guid>
+        <link>//march-madness</link>
+        <guid isPermaLink="true">//march-madness</guid>
       </item>
     
       <item>
@@ -262,8 +262,8 @@ and/or
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Feb 2016 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//leap-year</link>
-        <guid isPermaLink="true">http://localhost:4000//leap-year</guid>
+        <link>//leap-year</link>
+        <guid isPermaLink="true">//leap-year</guid>
       </item>
     
       <item>
@@ -288,8 +288,8 @@ and/or
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 26 Feb 2016 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//four-seasons</link>
-        <guid isPermaLink="true">http://localhost:4000//four-seasons</guid>
+        <link>//four-seasons</link>
+        <guid isPermaLink="true">//four-seasons</guid>
       </item>
     
       <item>
@@ -326,8 +326,8 @@ and/or
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 Feb 2016 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//tv-market</link>
-        <guid isPermaLink="true">http://localhost:4000//tv-market</guid>
+        <link>//tv-market</link>
+        <guid isPermaLink="true">//tv-market</guid>
       </item>
     
       <item>
@@ -354,8 +354,8 @@ and/or
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Jan 2016 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//bracy-visit</link>
-        <guid isPermaLink="true">http://localhost:4000//bracy-visit</guid>
+        <link>//bracy-visit</link>
+        <guid isPermaLink="true">//bracy-visit</guid>
       </item>
     
       <item>
@@ -378,8 +378,8 @@ and/or
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 17 Jan 2016 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//sports-slow</link>
-        <guid isPermaLink="true">http://localhost:4000//sports-slow</guid>
+        <link>//sports-slow</link>
+        <guid isPermaLink="true">//sports-slow</guid>
       </item>
     
       <item>
@@ -425,8 +425,8 @@ and/or
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Jan 2016 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//eastern-oregon</link>
-        <guid isPermaLink="true">http://localhost:4000//eastern-oregon</guid>
+        <link>//eastern-oregon</link>
+        <guid isPermaLink="true">//eastern-oregon</guid>
       </item>
     
       <item>
@@ -455,8 +455,8 @@ and/or
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//new-year</link>
-        <guid isPermaLink="true">http://localhost:4000//new-year</guid>
+        <link>//new-year</link>
+        <guid isPermaLink="true">//new-year</guid>
       </item>
     
       <item>
@@ -481,8 +481,8 @@ and/or
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Dec 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//lazy-christmas</link>
-        <guid isPermaLink="true">http://localhost:4000//lazy-christmas</guid>
+        <link>//lazy-christmas</link>
+        <guid isPermaLink="true">//lazy-christmas</guid>
       </item>
     
       <item>
@@ -517,8 +517,8 @@ and/or
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 17 Dec 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//cheesemas</link>
-        <guid isPermaLink="true">http://localhost:4000//cheesemas</guid>
+        <link>//cheesemas</link>
+        <guid isPermaLink="true">//cheesemas</guid>
       </item>
     
       <item>
@@ -552,8 +552,8 @@ and/or
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Dec 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//title-town</link>
-        <guid isPermaLink="true">http://localhost:4000//title-town</guid>
+        <link>//title-town</link>
+        <guid isPermaLink="true">//title-town</guid>
       </item>
     
       <item>
@@ -580,8 +580,8 @@ and/or
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 04 Dec 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//new-blog-theme</link>
-        <guid isPermaLink="true">http://localhost:4000//new-blog-theme</guid>
+        <link>//new-blog-theme</link>
+        <guid isPermaLink="true">//new-blog-theme</guid>
       </item>
     
       <item>
@@ -601,8 +601,8 @@ and/or
 &lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/linux-imac&amp;amp;text=New Linux installation on old iMac&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 27 Nov 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//linux-imac</link>
-        <guid isPermaLink="true">http://localhost:4000//linux-imac</guid>
+        <link>//linux-imac</link>
+        <guid isPermaLink="true">//linux-imac</guid>
       </item>
     
       <item>
@@ -620,8 +620,8 @@ and/or
 &lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/new-homepage&amp;amp;text=Bootstrap homepage now operational&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 21 Nov 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//new-homepage</link>
-        <guid isPermaLink="true">http://localhost:4000//new-homepage</guid>
+        <link>//new-homepage</link>
+        <guid isPermaLink="true">//new-homepage</guid>
       </item>
     
       <item>
@@ -643,8 +643,8 @@ and/or
 &lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/ham-feast&amp;amp;text=Here comes the ham&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 20 Nov 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//ham-feast</link>
-        <guid isPermaLink="true">http://localhost:4000//ham-feast</guid>
+        <link>//ham-feast</link>
+        <guid isPermaLink="true">//ham-feast</guid>
       </item>
     
       <item>
@@ -674,8 +674,8 @@ and/or
 &lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/hunt-report&amp;amp;text=Meat on the table&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 16 Nov 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//hunt-report</link>
-        <guid isPermaLink="true">http://localhost:4000//hunt-report</guid>
+        <link>//hunt-report</link>
+        <guid isPermaLink="true">//hunt-report</guid>
       </item>
     
       <item>
@@ -708,8 +708,8 @@ and/or
 &lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/portland-awaits&amp;amp;text=Move to Portland&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 13 Nov 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//portland-awaits</link>
-        <guid isPermaLink="true">http://localhost:4000//portland-awaits</guid>
+        <link>//portland-awaits</link>
+        <guid isPermaLink="true">//portland-awaits</guid>
       </item>
     
       <item>
@@ -729,8 +729,8 @@ and/or
 &lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/deer-season&amp;amp;text=Deer season&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 11 Nov 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//deer-season</link>
-        <guid isPermaLink="true">http://localhost:4000//deer-season</guid>
+        <link>//deer-season</link>
+        <guid isPermaLink="true">//deer-season</guid>
       </item>
     
       <item>
@@ -750,8 +750,8 @@ and/or
 &lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/royals-win&amp;amp;text=Royals are champions&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Nov 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//royals-win</link>
-        <guid isPermaLink="true">http://localhost:4000//royals-win</guid>
+        <link>//royals-win</link>
+        <guid isPermaLink="true">//royals-win</guid>
       </item>
     
       <item>
@@ -771,8 +771,8 @@ and/or
 &lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/pcs-closes&amp;amp;text=Portland Code School goes under&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Oct 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000//pcs-closes</link>
-        <guid isPermaLink="true">http://localhost:4000//pcs-closes</guid>
+        <link>//pcs-closes</link>
+        <guid isPermaLink="true">//pcs-closes</guid>
       </item>
     
       <item>
@@ -792,8 +792,8 @@ and/or
 &lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/big-october&amp;amp;text=Big October&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 12 Oct 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000//big-october</link>
-        <guid isPermaLink="true">http://localhost:4000//big-october</guid>
+        <link>//big-october</link>
+        <guid isPermaLink="true">//big-october</guid>
       </item>
     
       <item>
@@ -811,8 +811,8 @@ and/or
 &lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/anns-birthday&amp;amp;text=Happy birthday to my lovely wife&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 09 Oct 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000//anns-birthday</link>
-        <guid isPermaLink="true">http://localhost:4000//anns-birthday</guid>
+        <link>//anns-birthday</link>
+        <guid isPermaLink="true">//anns-birthday</guid>
       </item>
     
       <item>
@@ -828,8 +828,8 @@ and/or
 &lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/jekyll-options&amp;amp;text=Time to play with some Jekyll themes&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 05 Oct 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000//jekyll-options</link>
-        <guid isPermaLink="true">http://localhost:4000//jekyll-options</guid>
+        <link>//jekyll-options</link>
+        <guid isPermaLink="true">//jekyll-options</guid>
       </item>
     
       <item>
@@ -853,8 +853,8 @@ and/or
 &lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/autumn-here&amp;amp;text=Fall is in the air&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 03 Oct 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000//autumn-here</link>
-        <guid isPermaLink="true">http://localhost:4000//autumn-here</guid>
+        <link>//autumn-here</link>
+        <guid isPermaLink="true">//autumn-here</guid>
       </item>
     
   </channel>
