@@ -15,7 +15,7 @@ Let me elaborate on something I mentioned earlier:
 > For now I've been fiddling with this blog and my GitHub Pages stuff in general.
 > The [Jekyll](https://jekyllrb.com/) blog portion is fascinating because it involves a
 > very basic platform for web publishing. The entire process has been well-documented
-> and demonstrated in [Joshue Lande's blog entry](http://joshualande.com/jekyll-github-pages-poole/).
+> and demonstrated in [Joshue Lande's blog entry](http://joshualande.com/jekyll-github-pages-poole).
 
 I've created many, many blogs. Some professional, some private, some well-planned, some on a whim, the whole shebang. And none of them did what I wanted. I'd create a new WordPress site and throw a couple posts up there to get it started. Then add a couple content modules and Twitter/FB streams to fill the space.
 
