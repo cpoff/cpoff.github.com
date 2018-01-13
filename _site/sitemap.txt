@@ -3,6 +3,7 @@ https://blog.curtpoff.com/about/
 https://blog.curtpoff.com/archive
 https://blog.curtpoff.com/atom.xml
 https://blog.curtpoff.com/categories
+https://blog.curtpoff.com/feed.xml
 https://blog.curtpoff.com/
 https://blog.curtpoff.com/pages
 https://blog.curtpoff.com/rss.xml

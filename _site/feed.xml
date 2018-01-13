@@ -1,23 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
- 
- <title>Curt Poff</title>
- <link href="https://blog.curtpoff.com/atom.xml" rel="self"/>
- <link href="https://blog.curtpoff.com"/>
- <updated>2018-01-13T13:08:07-08:00</updated>
- <id>https://blog.curtpoff.com</id>
- <author>
-   <name>Curt Poff</name>
-   <email>curt.poff@gmail.com</email>
- </author>
-
- 
- <entry>
-   <title>Kicking off the new year with style</title>
-   <link href="https://blog.curtpoff.com/looking-ahead"/>
-   <updated>2018-01-04T00:00:00-08:00</updated>
-   <id>https://blog.curtpoff.com/looking-ahead</id>
-   <content type="html">&lt;p&gt;The Nike contract ran out just before the holidays. I had three contract extensions, running for 18 months total. I interviewed for a few gigs but it looks like my days with &lt;em&gt;The Swoosh&lt;/em&gt; are over. So Ann and I are both wondering what’s next.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Curt Poff is a long-time tech worker who lives in Portland Oregon. Proud graduate of Portland State.</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Kicking off the new year with style</title>
+        <description>&lt;p&gt;The Nike contract ran out just before the holidays. I had three contract extensions, running for 18 months total. I interviewed for a few gigs but it looks like my days with &lt;em&gt;The Swoosh&lt;/em&gt; are over. So Ann and I are both wondering what’s next.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -27,15 +18,15 @@
 
 &lt;p&gt;&lt;em&gt;Please
 &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/looking-ahead&amp;amp;text=Kicking off the new year with style&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt; follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Seasons are rolling again</title>
-   <link href="https://blog.curtpoff.com/seasons-are-rolling-again"/>
-   <updated>2017-11-02T00:00:00-07:00</updated>
-   <id>https://blog.curtpoff.com/seasons-are-rolling-again</id>
-   <content type="html">&lt;p&gt;Last winter was brutal, but the seasonal changes since then have been pretty nice. Long spring (blah), warm summer, lovely colors this fall, now returning to winter.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 Jan 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//looking-ahead</link>
+        <guid isPermaLink="true">http://localhost:4000//looking-ahead</guid>
+      </item>
+    
+      <item>
+        <title>Seasons are rolling again</title>
+        <description>&lt;p&gt;Last winter was brutal, but the seasonal changes since then have been pretty nice. Long spring (blah), warm summer, lovely colors this fall, now returning to winter.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -49,15 +40,15 @@
 and/or 
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>United Nations jobs</title>
-   <link href="https://blog.curtpoff.com/UN-jobs"/>
-   <updated>2016-11-10T00:00:00-08:00</updated>
-   <id>https://blog.curtpoff.com/UN-jobs</id>
-   <content type="html">&lt;p&gt;With the Trump election in recent memory, I was entertained by the stories about Canada’s immigration site crashing. To support my expatriate dreamers, here’s a list of UN gigs I have from an old bookmark file.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Nov 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000//seasons-are-rolling-again</link>
+        <guid isPermaLink="true">http://localhost:4000//seasons-are-rolling-again</guid>
+      </item>
+    
+      <item>
+        <title>United Nations jobs</title>
+        <description>&lt;p&gt;With the Trump election in recent memory, I was entertained by the stories about Canada’s immigration site crashing. To support my expatriate dreamers, here’s a list of UN gigs I have from an old bookmark file.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -145,15 +136,15 @@ and/or
 and/or 
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Sayonara summer</title>
-   <link href="https://blog.curtpoff.com/sayonara-summer"/>
-   <updated>2016-10-17T00:00:00-07:00</updated>
-   <id>https://blog.curtpoff.com/sayonara-summer</id>
-   <content type="html">&lt;p&gt;Man, did we ever have a gorgeous summer. Last year was waaaay too hot. But this year was fantastic. Warm, sunny, lovely sunsets, the works.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 10 Nov 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//UN-jobs</link>
+        <guid isPermaLink="true">http://localhost:4000//UN-jobs</guid>
+      </item>
+    
+      <item>
+        <title>Sayonara summer</title>
+        <description>&lt;p&gt;Man, did we ever have a gorgeous summer. Last year was waaaay too hot. But this year was fantastic. Warm, sunny, lovely sunsets, the works.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -169,15 +160,15 @@ and/or
 and/or 
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Career move, new shoes</title>
-   <link href="https://blog.curtpoff.com/nike-job"/>
-   <updated>2016-05-23T00:00:00-07:00</updated>
-   <id>https://blog.curtpoff.com/nike-job</id>
-   <content type="html">&lt;p&gt;Last week I started work at Nike. It’s a contract gig for upwards of a year, but on-site at the company HQ in Beaverton. I’m very excited.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Oct 2016 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000//sayonara-summer</link>
+        <guid isPermaLink="true">http://localhost:4000//sayonara-summer</guid>
+      </item>
+    
+      <item>
+        <title>Career move, new shoes</title>
+        <description>&lt;p&gt;Last week I started work at Nike. It’s a contract gig for upwards of a year, but on-site at the company HQ in Beaverton. I’m very excited.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -193,15 +184,15 @@ and/or
 and/or 
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Spring is in the air</title>
-   <link href="https://blog.curtpoff.com/spring-sprung"/>
-   <updated>2016-03-31T00:00:00-07:00</updated>
-   <id>https://blog.curtpoff.com/spring-sprung</id>
-   <content type="html">&lt;p&gt;This week finally saw the arrival of spring. It’s been a hard winter and I’m so glad spring is here.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 May 2016 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000//nike-job</link>
+        <guid isPermaLink="true">http://localhost:4000//nike-job</guid>
+      </item>
+    
+      <item>
+        <title>Spring is in the air</title>
+        <description>&lt;p&gt;This week finally saw the arrival of spring. It’s been a hard winter and I’m so glad spring is here.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -217,15 +208,15 @@ and/or
 and/or 
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>March Madness</title>
-   <link href="https://blog.curtpoff.com/march-madness"/>
-   <updated>2016-03-13T00:00:00-08:00</updated>
-   <id>https://blog.curtpoff.com/march-madness</id>
-   <content type="html">&lt;p&gt;Ann and I are about to depart on our annual pilgrimage to Las Vegas for the opening of the NCAA Tournament. It’s a big deal for us.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 31 Mar 2016 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000//spring-sprung</link>
+        <guid isPermaLink="true">http://localhost:4000//spring-sprung</guid>
+      </item>
+    
+      <item>
+        <title>March Madness</title>
+        <description>&lt;p&gt;Ann and I are about to depart on our annual pilgrimage to Las Vegas for the opening of the NCAA Tournament. It’s a big deal for us.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -247,15 +238,15 @@ and/or
 and/or 
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Celebrate Leap Year</title>
-   <link href="https://blog.curtpoff.com/leap-year"/>
-   <updated>2016-02-29T00:00:00-08:00</updated>
-   <id>https://blog.curtpoff.com/leap-year</id>
-   <content type="html">&lt;p&gt;Happy Feb. 29th!! Doesn’t happen every year.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 13 Mar 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//march-madness</link>
+        <guid isPermaLink="true">http://localhost:4000//march-madness</guid>
+      </item>
+    
+      <item>
+        <title>Celebrate Leap Year</title>
+        <description>&lt;p&gt;Happy Feb. 29th!! Doesn’t happen every year.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -269,15 +260,15 @@ and/or
 and/or
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Four seasons in PDX</title>
-   <link href="https://blog.curtpoff.com/four-seasons"/>
-   <updated>2016-02-26T00:00:00-08:00</updated>
-   <id>https://blog.curtpoff.com/four-seasons</id>
-   <content type="html">&lt;p&gt;People typically have a predictable opinion of Portland weather. Gray and rainy, with flashes of warm and sunny. This winter has lived up to all stereotypes.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//leap-year</link>
+        <guid isPermaLink="true">http://localhost:4000//leap-year</guid>
+      </item>
+    
+      <item>
+        <title>Four seasons in PDX</title>
+        <description>&lt;p&gt;People typically have a predictable opinion of Portland weather. Gray and rainy, with flashes of warm and sunny. This winter has lived up to all stereotypes.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -295,15 +286,15 @@ and/or
 and/or
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Portland's home sports teams</title>
-   <link href="https://blog.curtpoff.com/tv-market"/>
-   <updated>2016-02-11T00:00:00-08:00</updated>
-   <id>https://blog.curtpoff.com/tv-market</id>
-   <content type="html">&lt;p&gt;One of the things you have to deal with when you relocate is changes to your regional sports affiliation. Yeah, Portland has the Timbers and Blazers. But what else is in our TV market?&lt;/p&gt;
+</description>
+        <pubDate>Fri, 26 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//four-seasons</link>
+        <guid isPermaLink="true">http://localhost:4000//four-seasons</guid>
+      </item>
+    
+      <item>
+        <title>Portland's home sports teams</title>
+        <description>&lt;p&gt;One of the things you have to deal with when you relocate is changes to your regional sports affiliation. Yeah, Portland has the Timbers and Blazers. But what else is in our TV market?&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -333,15 +324,15 @@ and/or
 and/or 
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Another quality visit</title>
-   <link href="https://blog.curtpoff.com/bracy-visit"/>
-   <updated>2016-01-27T00:00:00-08:00</updated>
-   <id>https://blog.curtpoff.com/bracy-visit</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;https://twitter.com/cbracy&quot;&gt;Cathering Bracy&lt;/a&gt; paid her first visit to Oregon, and we happily played host on the Portland wing of her expedition.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//tv-market</link>
+        <guid isPermaLink="true">http://localhost:4000//tv-market</guid>
+      </item>
+    
+      <item>
+        <title>Another quality visit</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/cbracy&quot;&gt;Cathering Bracy&lt;/a&gt; paid her first visit to Oregon, and we happily played host on the Portland wing of her expedition.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -361,15 +352,15 @@ and/or
 and/or 
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Slow time of year for sports</title>
-   <link href="https://blog.curtpoff.com/sports-slow"/>
-   <updated>2016-01-17T00:00:00-08:00</updated>
-   <id>https://blog.curtpoff.com/sports-slow</id>
-   <content type="html">&lt;p&gt;The NFL playoffs are down to the final four and my Chiefs are now eliminated. Rough finish to a rough season. Thus begins the slow season for sports.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jan 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//bracy-visit</link>
+        <guid isPermaLink="true">http://localhost:4000//bracy-visit</guid>
+      </item>
+    
+      <item>
+        <title>Slow time of year for sports</title>
+        <description>&lt;p&gt;The NFL playoffs are down to the final four and my Chiefs are now eliminated. Rough finish to a rough season. Thus begins the slow season for sports.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -385,15 +376,15 @@ and/or
 and/or 
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Big trouble in eastern Oregon</title>
-   <link href="https://blog.curtpoff.com/eastern-oregon"/>
-   <updated>2016-01-04T00:00:00-08:00</updated>
-   <id>https://blog.curtpoff.com/eastern-oregon</id>
-   <content type="html">&lt;p&gt;I’d like to offer a summary on &lt;a href=&quot;http://www.oregonlive.com/pacific-northwest-news/index.ssf/2016/01/oregon_standoff.html&quot;&gt;the standoff going on out in the eastern part of Oregon&lt;/a&gt;. It’s complicated but I’ll try to use adequate sourcing.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 17 Jan 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//sports-slow</link>
+        <guid isPermaLink="true">http://localhost:4000//sports-slow</guid>
+      </item>
+    
+      <item>
+        <title>Big trouble in eastern Oregon</title>
+        <description>&lt;p&gt;I’d like to offer a summary on &lt;a href=&quot;http://www.oregonlive.com/pacific-northwest-news/index.ssf/2016/01/oregon_standoff.html&quot;&gt;the standoff going on out in the eastern part of Oregon&lt;/a&gt;. It’s complicated but I’ll try to use adequate sourcing.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -432,15 +423,15 @@ and/or
 and/or 
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Here's to a new year</title>
-   <link href="https://blog.curtpoff.com/new-year"/>
-   <updated>2016-01-01T00:00:00-08:00</updated>
-   <id>https://blog.curtpoff.com/new-year</id>
-   <content type="html">&lt;p&gt;2015 was a transitional year for me. The lovely wife and I relocated, changed careers, and left a great group of friends and colleagues in the Bay Area. It’s been a challenge, but I’m very excitied about the future.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Jan 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//eastern-oregon</link>
+        <guid isPermaLink="true">http://localhost:4000//eastern-oregon</guid>
+      </item>
+    
+      <item>
+        <title>Here's to a new year</title>
+        <description>&lt;p&gt;2015 was a transitional year for me. The lovely wife and I relocated, changed careers, and left a great group of friends and colleagues in the Bay Area. It’s been a challenge, but I’m very excitied about the future.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -462,15 +453,15 @@ and/or
 and/or 
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Christmas season in full swing</title>
-   <link href="https://blog.curtpoff.com/lazy-christmas"/>
-   <updated>2015-12-26T00:00:00-08:00</updated>
-   <id>https://blog.curtpoff.com/lazy-christmas</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;/cheesemas/&quot;&gt;Cheesemas&lt;/a&gt; went off without a hitch and everyone had a wonderful time. Now it’s time to sit back and enjoy some holiday laziness. Football, binge-watching TV shows, homemade posole. It’s all in the cards.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//new-year</link>
+        <guid isPermaLink="true">http://localhost:4000//new-year</guid>
+      </item>
+    
+      <item>
+        <title>Christmas season in full swing</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/cheesemas/&quot;&gt;Cheesemas&lt;/a&gt; went off without a hitch and everyone had a wonderful time. Now it’s time to sit back and enjoy some holiday laziness. Football, binge-watching TV shows, homemade posole. It’s all in the cards.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -488,15 +479,15 @@ and/or
 and/or 
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Cheesemas is here!</title>
-   <link href="https://blog.curtpoff.com/cheesemas"/>
-   <updated>2015-12-17T00:00:00-08:00</updated>
-   <id>https://blog.curtpoff.com/cheesemas</id>
-   <content type="html">&lt;p&gt;This Saturday we’ll host our annual holiday party, also known as Cheesemas. How that party got to this point is a long story.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 26 Dec 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//lazy-christmas</link>
+        <guid isPermaLink="true">http://localhost:4000//lazy-christmas</guid>
+      </item>
+    
+      <item>
+        <title>Cheesemas is here!</title>
+        <description>&lt;p&gt;This Saturday we’ll host our annual holiday party, also known as Cheesemas. How that party got to this point is a long story.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -524,15 +515,15 @@ and/or
 and/or 
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>I'm all about championships</title>
-   <link href="https://blog.curtpoff.com/title-town"/>
-   <updated>2015-12-07T00:00:00-08:00</updated>
-   <id>https://blog.curtpoff.com/title-town</id>
-   <content type="html">&lt;p&gt;I’m very excited to have been along for TWO championships this year. Lucky me.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Dec 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//cheesemas</link>
+        <guid isPermaLink="true">http://localhost:4000//cheesemas</guid>
+      </item>
+    
+      <item>
+        <title>I'm all about championships</title>
+        <description>&lt;p&gt;I’m very excited to have been along for TWO championships this year. Lucky me.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -559,15 +550,15 @@ and/or
 and/or 
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>New theme for the Jekyll blog</title>
-   <link href="https://blog.curtpoff.com/new-blog-theme"/>
-   <updated>2015-12-04T00:00:00-08:00</updated>
-   <id>https://blog.curtpoff.com/new-blog-theme</id>
-   <content type="html">&lt;p&gt;Yesterday I re-installed an advanced version of my Jekyll blog that included a new theme. Hope you find it suitable.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Dec 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//title-town</link>
+        <guid isPermaLink="true">http://localhost:4000//title-town</guid>
+      </item>
+    
+      <item>
+        <title>New theme for the Jekyll blog</title>
+        <description>&lt;p&gt;Yesterday I re-installed an advanced version of my Jekyll blog that included a new theme. Hope you find it suitable.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -587,15 +578,15 @@ and/or
 and/or 
 &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;
   follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>New Linux installation on old iMac</title>
-   <link href="https://blog.curtpoff.com/linux-imac"/>
-   <updated>2015-11-27T00:00:00-08:00</updated>
-   <id>https://blog.curtpoff.com/linux-imac</id>
-   <content type="html">&lt;p&gt;I installed Ubuntu Linux on an old iMac over the Thanksgiving holiday weekend. Actually, I did most of the work on Thanksgiving day and cleaned it all up today (Friday)&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Dec 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//new-blog-theme</link>
+        <guid isPermaLink="true">http://localhost:4000//new-blog-theme</guid>
+      </item>
+    
+      <item>
+        <title>New Linux installation on old iMac</title>
+        <description>&lt;p&gt;I installed Ubuntu Linux on an old iMac over the Thanksgiving holiday weekend. Actually, I did most of the work on Thanksgiving day and cleaned it all up today (Friday)&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -608,15 +599,15 @@ and/or
 &lt;p&gt;-cp&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/linux-imac&amp;amp;text=New Linux installation on old iMac&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Bootstrap homepage now operational</title>
-   <link href="https://blog.curtpoff.com/new-homepage"/>
-   <updated>2015-11-21T00:00:00-08:00</updated>
-   <id>https://blog.curtpoff.com/new-homepage</id>
-   <content type="html">&lt;p&gt;I now have a valid (and secure) website hosted at &lt;a href=&quot;https://curtpoff.com&quot;&gt;curtpoff.com&lt;/a&gt;. You may also notice that I’ve successfully installed a CNAME record pointing this blog to a subdomain of curtpoff.com.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Nov 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//linux-imac</link>
+        <guid isPermaLink="true">http://localhost:4000//linux-imac</guid>
+      </item>
+    
+      <item>
+        <title>Bootstrap homepage now operational</title>
+        <description>&lt;p&gt;I now have a valid (and secure) website hosted at &lt;a href=&quot;https://curtpoff.com&quot;&gt;curtpoff.com&lt;/a&gt;. You may also notice that I’ve successfully installed a CNAME record pointing this blog to a subdomain of curtpoff.com.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -627,8 +618,244 @@ and/or
 &lt;p&gt;-cp&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/new-homepage&amp;amp;text=Bootstrap homepage now operational&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- 
-</feed>
+</description>
+        <pubDate>Sat, 21 Nov 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//new-homepage</link>
+        <guid isPermaLink="true">http://localhost:4000//new-homepage</guid>
+      </item>
+    
+      <item>
+        <title>Here comes the ham</title>
+        <description>&lt;p&gt;Just participated in another annual tradition, this time with a Thanksgiving twist. I ordered a ham and bacon shipment from &lt;a href=&quot;http://www.smokehouse.com/&quot;&gt;Burgers Smokehouse&lt;/a&gt; in Missouri.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Ann and I aren’t really turkey fans and we don’t like the fuss of fixing one for Thanksgiving. So we got in the habit of ordering one of the fantastic country hams from Burgers. It comes &lt;a href=&quot;http://www.smokehouse.com/burgers.nsf/item/spiral-sliced-city-ham&quot;&gt;cooked and sliced&lt;/a&gt;, sealed in a vacuum pack. You just have to heat it up for about an hour and it just falls right off the bone.&lt;/p&gt;
+
+&lt;p&gt;It keeps very well too. Good for leftovers for a couple weeks. Plus you get a big, meaty ham bone when it’s all done. So I may take a crack at a crock pot of ham &amp;amp; beans this year.&lt;/p&gt;
+
+&lt;p&gt;Ann also like the bacon sampler. They have a variety of bacon varieties so we just get a sampler pack. Here’s &lt;a href=&quot;http://www.smokehouse.com/burgers.nsf/item/sliced-bacon-sampler&quot;&gt;the one&lt;/a&gt; we got this year. Some of you might prefer the &lt;a href=&quot;http://www.smokehouse.com/burgers.nsf/item/bacon-steak-sampler&quot;&gt;bacon steaks&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Looking forward to the feast next week!&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/ham-feast&amp;amp;text=Here comes the ham&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Nov 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//ham-feast</link>
+        <guid isPermaLink="true">http://localhost:4000//ham-feast</guid>
+      </item>
+    
+      <item>
+        <title>Meat on the table</title>
+        <description>&lt;p&gt;As I &lt;a href=&quot;/deer-season&quot;&gt;mentioned earlier&lt;/a&gt;, this weekend was the opening of firearm deer season in my hometown. It’s a special event for me. It’s a family affair that reinforces our hunting tradition.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;First, I’ve participated in opening day hunts in Missouri for the past 15 years (give or take). And before that I participated sporadically for 15-20 years. Now it’s a lead-pipe lock. In early summer we book our flights for the long weekend in early November. No discussion.&lt;/p&gt;
+
+&lt;p&gt;I can easily label the trip a family event because &lt;a href=&quot;http://gofitgirl.com&quot;&gt;my lovely wife&lt;/a&gt; always goes with me. She doesn’t hunt but she does enjoy lounging around my parents house in her pajamas, curling up with a book and a cup of tea. Just her thing, especially when it’s cold outside. This year was special because she also taught a yoga workshop. Nine attendees paid good money to learn from the master. Very proud of her.&lt;/p&gt;
+
+&lt;p&gt;For the past few years my brother, Craig, has joined the hunt along with his oldest son, James. His youngest, Jackson, comes along on the trip but doesn’t participate in the hunt.&lt;/p&gt;
+
+&lt;p&gt;Craig, James, and I went out both mornings very early. Left the house around 5:30 a.m. A short drive takes us to the farm where we park, load our guns, and walk to our respective deer stands. Arriving and seated in time for first light.&lt;/p&gt;
+
+&lt;p&gt;This year James used the platform stand, Craig squatted in a fence row up near a natural salt lick, and I parked my city-slicker butt in my elevated deer blind on the nose of an open field. My blind has a propane heater  and comfy chair so it’s perfect for me on cold, windy days.&lt;/p&gt;
+
+&lt;p&gt;If you’re wondering, it’s usually a passive hunt technique. We sit in a tree-stand - or some other kind of elevated position, like a blind - and wait for a deer to walk past. If a buck has substantial antlers it must have at least four points on one side (meaning it must be a relatively mature male deer). But a doe or button/spike buck don’t have any restrictions. If you have the common ‘antler-less’ tag, you can shoot almost anything. Just not an immature buck.&lt;/p&gt;
+
+&lt;p&gt;We saw a few deer this year and finally got a pair in the final hours of day two. Usually we hunt only big bucks (more than 8 points) on Saturday and Sunday morning. Then we loosen that rule for Sunday afternoon with intent to put meat on the table for another year. I saw several does on Saturday and Sunday, but only one shootable buck. That one got into the woods before I could get him scoped. The second one I saw was a spike buck (less than three-inch antler, so legal) and he met a clean/quick demise. Same thing goes for the yearling buck James harvested. Venison supply has been replenished for another year.&lt;/p&gt;
+
+&lt;p&gt;Of course while all this hunting and lounging goes on my parents are hard at work. Mom cooked all our favorite dishes (we all have several), while dad served as errand runner, dishwasher, general dad duties. He also does all advance planning on hunt logistics. They do a perfect job every time and we head back to the West Coast stuffed to the gills with hospitality.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/hunt-report&amp;amp;text=Meat on the table&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Nov 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//hunt-report</link>
+        <guid isPermaLink="true">http://localhost:4000//hunt-report</guid>
+      </item>
+    
+      <item>
+        <title>Move to Portland</title>
+        <description>&lt;p&gt;Our good friend Eric Blumenau came to town for work this week with his girlfriend, Danielle Reichner. We had a great time showing them around town.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Maybe I’d had a few too many beers (very likely), maybe they brought it out in me, maybe I was just an idiot. But whatever the reason I found myself trying to convince them to move to Portland. Pretty good jobs, great quality of living, outdoor activities out the wazoo. The whole shebang.&lt;/p&gt;
+
+&lt;p&gt;This is probably going to be the case for anyone who happens to visit. I can’t help it. I just love this place.&lt;/p&gt;
+
+&lt;p&gt;The only drawbacks I consistently point out are:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;The weather. We get four seasons. Hot summer (especially this year), cold winter, and two very rainy and inconsistent transitions through fall and spring. It is what it is. Enjoy the good times and deal with the bad.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The lack of diversity. This one is a bit tougher. Portland is overwhelmingly white. I only notice because I used to live in Oakland, one of the most multi-cultural cities on the planet. Now we live alongside a giant loaf of Wonder bread.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;All that being what it is, Portland is still a great place to relocate. Jobs for tech folks are somewhat plentiful (I’m testing that theory now), the surrounding mountains and beaches are world class, and the booming beer and food scenes are just as good.&lt;/p&gt;
+
+&lt;p&gt;I hope I convinced my friends to give PDX a serious look. And if anyone else wants to be convince, just let me know. I’m willing and able.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/portland-awaits&amp;amp;text=Move to Portland&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 13 Nov 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//portland-awaits</link>
+        <guid isPermaLink="true">http://localhost:4000//portland-awaits</guid>
+      </item>
+    
+      <item>
+        <title>Deer season</title>
+        <description>&lt;p&gt;This weekend is our annual pilgrimage to the family homestead in Missouri. The trip always coincides with the opening weekend of firearm deer season, in which I plan to participate.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Ann always joins too but her activity almost always involves lounging on the couch in a Snuggie the parents purchased special for her use. This year she’s also doing some work: A special yoga workshop. The hometown is usually devoid of yoga classes so this should be a spcial treat.&lt;/p&gt;
+
+&lt;p&gt;My brother is bringing both of his young sons for the hunt, too. So I imagine I’ll have company in my ground blind should the weather turn bad. No way they’re going to last on his elevated platform stand out in the elements. Looking forward to it.&lt;/p&gt;
+
+&lt;p&gt;I keep trying to get my friends &lt;a href=&quot;http://davidsasaki.name&quot;&gt;David&lt;/a&gt; and &lt;a href=&quot;http://cyrusfarivar.com&quot;&gt;Cyrus&lt;/a&gt; to spend some time with me in the deer stand. Hopefully one of those guys will take me up on it one of these days.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/deer-season&amp;amp;text=Deer season&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Nov 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//deer-season</link>
+        <guid isPermaLink="true">http://localhost:4000//deer-season</guid>
+      </item>
+    
+      <item>
+        <title>Royals are champions</title>
+        <description>&lt;p&gt;The Portland celebration went late into the night on Sunday as the &lt;a href=&quot;http://espn.go.com/mlb/recap?gameId=351101121&quot;&gt;KC Royals won the World Series&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;The Royals are my original team. I grew up rooting for them, my first big-league game was there, and my first title came in 1985. Then 30 years of small-market problems. Sitting there watching big-market teams (Yankees!!) spend ten times more in payroll and dominate the league.&lt;/p&gt;
+
+&lt;p&gt;Looking back on this year’s Series, it’s easy to say the Mets weren’t even the best team in the NL. They just got hot at the right time and wound up in the championship round (where they got dominated, four games to one). The Royals put on an impressive display of aggressive play and resilience.&lt;/p&gt;
+
+&lt;p&gt;KC was a fun team to watch and a great team to root for. Hats off to them. Several times this week I’ll be cracking open a fresh beer and re-watching the final game. Proud as hell.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/royals-win&amp;amp;text=Royals are champions&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Nov 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//royals-win</link>
+        <guid isPermaLink="true">http://localhost:4000//royals-win</guid>
+      </item>
+    
+      <item>
+        <title>Portland Code School goes under</title>
+        <description>&lt;p&gt;On Saturday night I got word via Slack channel that the locks at &lt;a href=&quot;http://www.portlandcodeschool.com&quot;&gt;Portland Code School&lt;/a&gt; have been changed and everyone’s on their own.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;I just completed the flagship course at PCS - the Full Stack Javascript Immersion - so I have skin in the game. The shit part is the fact that there are classes currently in session, and it appears unlikely that any refunds will be offered.&lt;/p&gt;
+
+&lt;p&gt;Once word got out some students and employees immediately formed a channel and &lt;a href=&quot;http://pdxcode.community/&quot;&gt;picked up the communication&lt;/a&gt; in an effort to get the current students set up to finish what they started. That includes generous offers of work space (from graduates and mentors) and teaching assistance from the fantastic staff. All of whom are now out of work.&lt;/p&gt;
+
+&lt;p&gt;It’s also a hit to folks like myself who have just recently entered the job market. We rely on (and were quite explicitly promised) support in our job search. I’m sure I’ll be fine, but it’s still bad news.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/pcs-closes&amp;amp;text=Portland Code School goes under&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 21 Oct 2015 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000//pcs-closes</link>
+        <guid isPermaLink="true">http://localhost:4000//pcs-closes</guid>
+      </item>
+    
+      <item>
+        <title>Big October</title>
+        <description>&lt;p&gt;October is typically a busy month in our household. Ann’s birthday, our anniversary, plus almost every other anniversary on the planet. Another big birthday this year belongs to one of my best friends: Ken Conforti. Ken and I were roommates back in the late ’90s. He turns the big 5-0 next week.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;It’s already a big birthday but this year another great friend of ours - Martin Spanninger - is coming all the way from Germany to celebrate the big day. He’ll spend 10 days in Portland, probably drinking beer and watching American sports on TV the whole time. Fine by me.&lt;/p&gt;
+
+&lt;p&gt;Martin and I both went to Portland State and we both know this town pretty well. I’m sure there will also be a trip to the coast or Hood River for a hike.&lt;/p&gt;
+
+&lt;p&gt;At least we have tickets for one Timbers game and a pre-season Blazers game. That should be enough to keep us occupied.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/big-october&amp;amp;text=Big October&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Oct 2015 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000//big-october</link>
+        <guid isPermaLink="true">http://localhost:4000//big-october</guid>
+      </item>
+    
+      <item>
+        <title>Happy birthday to my lovely wife</title>
+        <description>&lt;p&gt;My wife - Ann Chihak Poff - turns 41 on Friday. Check out &lt;a href=&quot;http://gofitgirl.com/&quot;&gt;her blog&lt;/a&gt; and I’m sure you’ll agree that she may be the most lovely 41-year-old on the planet.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Later on this month she and I will celebrate our 12th anniversary. The best 12 years of my life. I can’t imagine life without her.&lt;/p&gt;
+
+&lt;p&gt;We’ll be celebrating with friends by having drinks/dinner at Montage, her favorite place of all time. Spicy Mac for m’lady.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/anns-birthday&amp;amp;text=Happy birthday to my lovely wife&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Oct 2015 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000//anns-birthday</link>
+        <guid isPermaLink="true">http://localhost:4000//anns-birthday</guid>
+      </item>
+    
+      <item>
+        <title>Time to play with some Jekyll themes</title>
+        <description>&lt;p&gt;Now that I have the Jekyll basics down, I’m going to start tweaking some theme/template options. I want more stuff in the header, and more obvious linking between this blog and my GitHub profile. I’m not convinced the simple footer does enough.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;So don’t worry if you see things changing day-to-day. It’s all part of the plan.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/jekyll-options&amp;amp;text=Time to play with some Jekyll themes&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Oct 2015 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000//jekyll-options</link>
+        <guid isPermaLink="true">http://localhost:4000//jekyll-options</guid>
+      </item>
+    
+      <item>
+        <title>Fall is in the air</title>
+        <description>&lt;p&gt;Baseball playoffs are about to begin, meaningful football games, and fall colors about hit peak season. I love this time of year.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Kansas City Royals are in good shape for a playoff run once again. But I don’t expect they’ll do quite as good as last year. It’s still great rooting for my original pro sport team.&lt;/p&gt;
+
+&lt;p&gt;Mizzou has been up/down and are about to be consumed by a QB controversy. The upcoming trip to Athens Georgia probably won’t help matters either.&lt;/p&gt;
+
+&lt;p&gt;Portland State Vikings are still making noise and are now ranked in FCS. I’ll withhold judgement until after both Montana schools visit Portland.&lt;/p&gt;
+
+&lt;p&gt;Chiefs are maddening, as always. Flashes of great, but always followed by something colossally unfortunate.&lt;/p&gt;
+
+&lt;p&gt;Great time to be a sports fan.&lt;/p&gt;
+
+&lt;p&gt;-cp&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please &lt;a href=&quot;https://twitter.com/intent/tweet?url=https://blog.curtpoff.com/autumn-here&amp;amp;text=Fall is in the air&amp;amp;via=cpoff&quot; target=&quot;_blank&quot;&gt;share this page with your followers&lt;/a&gt; and/or &lt;a href=&quot;https://twitter.com/cpoff&quot;&gt;follow me&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Oct 2015 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000//autumn-here</link>
+        <guid isPermaLink="true">http://localhost:4000//autumn-here</guid>
+      </item>
+    
+  </channel>
+</rss>
