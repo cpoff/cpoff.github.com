@@ -10,7 +10,7 @@ comments: True
 ---
 
 Intro paragraph. 
-[LINK TEXT FOR REFERENCE](http://www.google.com)
+[LINK TEXT REFERENCE](http://www.google.com)
 
 <!--more-->
 
