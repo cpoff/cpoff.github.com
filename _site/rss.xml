@@ -4,9 +4,9 @@
         <title>Curt Poff</title>
         <description>Curt Poff is a web developer, producer living in Portland Oregon. This is his personal blog.</description>
         <link>https://blog.curtpoff.com</link>
-        <atom:link href="https://blog.curtpoff.com/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 13 Jan 2018 13:10:43 -0800</lastBuildDate>
-        <pubDate>Sat, 13 Jan 2018 13:10:43 -0800</pubDate>
+        <atom:link href="https://blog.curtpoff.com/feed.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sun, 15 Apr 2018 16:05:37 -0700</lastBuildDate>
+        <pubDate>Sun, 15 Apr 2018 16:05:37 -0700</pubDate>
         <ttl>60</ttl>
 
 

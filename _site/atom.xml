@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Curt Poff</title>
- <link href="https://blog.curtpoff.com/atom.xml" rel="self"/>
+ <link href="https://blog.curtpoff.com" rel="self"/>
  <link href="https://blog.curtpoff.com"/>
- <updated>2018-01-13T13:10:43-08:00</updated>
+ <updated>2018-04-15T16:05:37-07:00</updated>
  <id>https://blog.curtpoff.com</id>
  <author>
    <name>Curt Poff</name>
