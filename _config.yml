@@ -14,11 +14,11 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : Curt Poff
-description : "Curt Poff is a long-time tech worker who lives in Portland Oregon. Proud graduate of Portland State."
+description : "Curt Poff is a long-time tech worker who lives in Tucson Arizona."
 tagline: Web developer, producer, project manager
 author :
   name : Curt Poff
-  description : "Curt Poff is a long-time tech worker who lives in Portland Oregon. Proud graduate of Portland State."
+  description : "Curt Poff is a long-time tech worker who lives in Tucson Arizona."
   email : curt.poff@gmail.com
   github: cpoff
   twitter: cpoff
