@@ -28,7 +28,7 @@ Should all be done after four hours. You can check by sampling a hunk of pork.
 
 Serve with a big dollop of sour cream and some chopped green onion. Family tradition also dictates a side of cheese crisps (toasted tortillas with cheese).
 
-Viola!
+Enjoy!
 
 *Please
 <a href="https://twitter.com/intent/tweet?url={{ site.production_url }}{{ page.url }}&text={{ page.title }}&via=cpoff" 
