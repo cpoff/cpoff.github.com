@@ -233,7 +233,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll
+  jekyll (~> 3.6)
   jekyll-watch
 
 BUNDLED WITH
