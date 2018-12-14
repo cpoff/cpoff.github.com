@@ -13,7 +13,7 @@ comments: True
 
 <!--more-->
 
-Ingredients:  
+**Ingredients:**    
 3-ish lbs. of pork shoulder, diced to bite size  
 2 large cans of mild enchilada sauce  
 1 cup of dry beans - pinto, great northern, they all work - that you pre-soak overnight  
