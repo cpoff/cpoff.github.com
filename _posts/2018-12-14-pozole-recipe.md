@@ -19,7 +19,7 @@ Ingredients:
 1 cup of dry beans - pinto, great northern, they all work - that you pre-soak overnight  
 1 large can hominy
 
-I use a standard crock-pot. Crank it up to High. Dump both cans of enchilada sauce plus 1-2 cans of water into the pot. Add beans and pork then cover. Check and stir hourly and maybe skim some of the fat. Not all of it, just some.
+I use a standard crock-pot. Crank it up to High. Dump both cans of enchilada sauce plus 1-2 cans of water into the pot. More water = less spicy. Add beans and pork then cover. Check and stir hourly and maybe skim some of the fat. Not all of it, just some.
 
 After 3-3.5 hours add the hominy. You don't add it from the start because after a couple hours the hominy disintegrates. So just add it at the end. 
 
