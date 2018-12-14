@@ -16,7 +16,7 @@ comments: True
 Ingredients:  
 3-ish lbs. of pork shoulder, diced to bite size  
 2 large cans of mild enchilada sauce  
-1 cup of dry beans - pinto, great northern, they all work - that you pre-soak overnight
+1 cup of dry beans - pinto, great northern, they all work - that you pre-soak overnight  
 1 large can hominy
 
 I use a standard crock-pot. Crank it up to High. Dump both cans of enchilada sauce plus 1-2 cans of water into the pot. Add beans and pork then cover. Check and stir hourly and maybe skim some of the fat. Not all of it, just some.
