@@ -7,7 +7,7 @@ title : RSS Feed
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
         <title>{{ site.title | xml_escape }}</title>
-        <description>Curt Poff is a web developer, producer living in Portland Oregon. This is his personal blog.</description>
+        <description>Curt Poff is a tech geek living in Tucson, Arizona. This is his personal blog.</description>
         <link>{{ site.production_url }}</link>
         <atom:link href="{{ site.production_url }}{{ site.JB.rss_path }}" rel="self" type="application/rss+xml" />
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
