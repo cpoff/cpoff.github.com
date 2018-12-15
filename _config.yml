@@ -3,7 +3,7 @@
 # original: /:categories/:year/:month/:day/:title
 permalink:           "/:title"
 excerpt_separator: "<!--more-->"
-timezone: America/Vancouver
+timezone: America/Phoenix
 paginate: 5
 gems: [jekyll-paginate]
 
@@ -24,6 +24,7 @@ author :
   twitter: cpoff
   feedburner: cpoffblog
   linkedin: cpoff
+  instagram: cpoff
   facebook: Fatback
   stackoverflow: cpoff
 
