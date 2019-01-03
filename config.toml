@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "https://example.com/"
+baseurl = "https://blog.curtpoff.com/"
 languageCode = "en"
 
 title = "Curt Poff"
