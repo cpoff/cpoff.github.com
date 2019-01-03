@@ -1,0 +1,75 @@
+## Basic Configuration
+baseurl = "https://example.com/"
+languageCode = "en"
+
+title = "Curt Poff"
+theme = "hyde-hyde"
+
+## Hugo Built-in Features
+# disqusShortname = "cpoff"
+# googleAnalytics = "your-google-analytics-id"
+# enableRobotsTXT = true
+
+# summarylength = 30
+
+paginate = 5
+
+## Site Settings
+[params]
+    author = "Curt Poff"
+    title = "Curt Poff"
+    description = "Web guy, beer drinker, sports fan"
+    # authorimage = "/img/hugo.png"
+    dateformat = "Jan 2, 2006"
+
+    # sidebar, copyright & license
+    copyright = "Curt Poff"
+    license = "CC BY-SA 4.0"
+    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    showBuiltWith = true
+
+    # https://highlightjs.org
+    highlightjs = true
+    highlightjsstyle = "github"
+
+    # please choose either GraphComment or Disqus or Utterances
+    #GraphCommentId = "..."
+    #UtterancesRepo = "..." # https://utteranc.es/
+    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
+    #UtterancesTheme = "..." # github-light or github-dark
+
+    # Table of contents
+    #toc = none, "hugo", or "tocbot"
+
+## Social Accounts
+[params.social]
+	twitter = "cpoff"
+	keybase = "cpoff"
+  github = "cpoff"
+  linkedin = "cpoff"
+  instagram = "cpoff"
+  gravatar = "curt.poff@gmail.com"
+  telegram = "cpoff"
+  email = "curt@cpoff.com"
+
+## Main Menu
+[[menu.main]]
+    name = "Blog Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "Categories"
+    weight = 150
+    identifier = "categories"
+    url = "/categories/"
+[[menu.main]]
+    name = "Tags"
+    weight = 160
+    identifier = "tags"
+    url = "/tags/"
+[[menu.main]]
+    name = "About Me"
+    identifier = "about"
+    weight = 300
+    url = "/about/"
