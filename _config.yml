@@ -36,7 +36,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 # DON'T CHANGE THIS TITLE, AS IT IS USED IN THE ONE-LINE TWITTER BLURB
-production_url : https://blog.curtpoff.com
+production_url : https://cpoff.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -65,7 +65,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : "https://blog.curtpoff.com"
+  BASE_PATH : "https://cpoff.github.io"
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
@@ -89,10 +89,10 @@ JB :
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
-comments :
-provider : disqus
-disqus :
-short_name : cpoff
+# comments :
+# provider : disqus
+# disqus :
+# short_name : cpoff
 #    livefyre :
 #      site_id : 123
 #    intensedebate :
@@ -109,12 +109,12 @@ short_name : cpoff
   # Set 'provider' to the analytics provider you want to use.
   # Set 'provider' to false to turn analytics off globally.
   #
-analytics :
-provider : google
+# analytics :
+# provider : google
 #    gauges :
 #        site_id : 'SITE ID'
-google :
-tracking_id : 'UA-315392-8'
+# google :
+# tracking_id : 'UA-315392-8'
 #    getclicky :
 #      site_id :
 #    mixpanel :
@@ -142,6 +142,6 @@ provider : false
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
 
-url: "https://blog.curtpoff.com/" # the base hostname & protocol for your site
+url: "https://cpoff.github.io" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
