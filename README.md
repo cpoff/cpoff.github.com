@@ -1,4 +1,4 @@
-This is the repo for [my old blog](https://cpoff.github.io) on GH Pages. Fast and free. 
+This is the repo for [my old blog](https://cpoff.github.io) address on GH Pages. 
 
 # Markdown Examples
 
