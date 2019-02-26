@@ -1,2 +1,0 @@
-# curtpoff.com
-Homepage backup
