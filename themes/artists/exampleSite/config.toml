@@ -1,0 +1,118 @@
+# Site settings
+baseurl = "https://example.org/"
+languageCode = "en-us"
+title = "Hugo Artists Theme"
+theme = "hugo-artists-theme"
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+	name = "Your name"
+	description = "Your description"
+
+	# Since this template is static, the contact form uses www.formspree.io as a
+	# proxy. The form makes a POST request to their servers to send the actual
+	# email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+	email = "your@email.com"
+
+
+	# Header an navigation
+	#
+	# To change the header background the 'hero-bg-jpg' at 'static/img'.
+	# Do the same with the logo ('logo.svg').
+	# But keep the original filename!
+	[params.header]
+		title = "Artists Theme"
+		shortBio = "Thinker // Designer // YouTuber"
+
+
+	# About section
+	#
+	# Replace the 'avatar.jpg' under 'static/img' with your own image.
+	[params.about]
+		title = "About me"
+		bio = "**Travis specializes in making things** for human people. Most of the things he makes are [digital interfaces](//travisneilson.com/), but he also puts effort into crafting [next-level beats](//soundcloud.com/travis-neilson) and [YouTube videos](//youtube.com/user/devtipsfordesigners) about making codes happen."
+
+		[[params.about.skills]]
+			name = "Communication"
+			value = 9
+
+		[[params.about.skills]]
+			name = "Organization"
+			value = 7
+
+		[[params.about.skills]]
+			name = "Learning"
+			value = 10
+
+		[[params.about.skills]]
+			name = "Teaching"
+			value = 6
+
+		[[params.about.skills]]
+			name = "Planning"
+			value = 7
+
+		[[params.about.skills]]
+			name = "Visual Design"
+			value = 5
+
+		[[params.about.skills]]
+			name = "UX Design"
+			value = 8
+
+		[[params.about.skills]]
+			name = "Programming"
+			value = 6
+
+	# Contact secion
+	[params.contact]
+		title = "Contact"
+
+		# The following social network icons are available:
+		# 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin'
+		# 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+		[[params.contact.social]]
+			icon = "twitter"
+			link = "//twitter.com/devtipsshow"
+
+		[[params.contact.social]]
+			icon = "dribbble"
+			link = "//dribbble.com/travisneilson"
+
+		[[params.contact.social]]
+			icon = "behance"
+			link = "//www.behance.net/travisneilson"
+
+		[[params.contact.social]]
+			icon = "youtube"
+			link = "//www.youtube.com/DevTipsForDesigners"
+
+		[[params.contact.social]]
+			icon = "linkedin"
+			link = "//www.linkedin.com/in/travisneilson"
+
+
+	[params.form]
+		title = "Let's work together"
+		# Form fields
+		name = "Your Name"
+		email = "Your Email"
+		message = "Tell me about your project"
+		buttonText = "Send"
+
+
+	[params.footer]
+		copyright = "Published under the Unlicense License."
