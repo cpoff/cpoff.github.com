@@ -1,13 +1,12 @@
-baseURL = "https://example.com/"
+baseURL = "https://curtpoff.com/"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Curt Poff"
-description = "Curt Poff is a veteran techie now living in Tucson. Past homes include Portland and the Bay Area, where he worked for Macworld, Walmart.com, and Nike."
 theme = "hallo"
 
 [Author]
     name = "Curt Poff"
-
+    description = "Curt Poff is a veteran techie now living in Tucson. Past homes include Portland and the Bay Area, where he worked for Macworld, Walmart.com, and Nike."
 [params]
 
     [[params.links]]
@@ -25,7 +24,6 @@ theme = "hallo"
         icon = "twitter"
         title = "Twitter"
         url = "https://twitter.com/cpoff"
-
 
     [[params.links]]
         icon = "github"
@@ -48,6 +46,6 @@ theme = "hallo"
         url = "https://t.me/cpoff"
 
     [params.colors]
-        background = "#1262b7"
+        background = "#3d132a"
         foreground = "#edf7ff"
         hover = "#ffba82"

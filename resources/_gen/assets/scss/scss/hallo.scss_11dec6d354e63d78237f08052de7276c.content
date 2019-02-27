@@ -10,7 +10,7 @@ html {
   overflow-y: auto; }
 
 body {
-  background-color: #1262b7; }
+  background-color: #3d132a; }
 
 a {
   -webkit-transition: color 0.2s ease-out;
