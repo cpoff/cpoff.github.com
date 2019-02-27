@@ -1,0 +1,1 @@
+{ia_hooker name='smartyErrorPage'}

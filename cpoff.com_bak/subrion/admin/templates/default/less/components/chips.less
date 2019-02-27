@@ -1,0 +1,24 @@
+.chip {
+  display: inline-block;
+  font-size: 11px;
+  line-height: 11px;
+  padding: 3px 7px;
+  background: #f6f6f6;
+  color: fade(@text-color, 50%);
+  border-radius: 12px;
+
+  &--success {
+    background: fade(@brand-success, 20%);
+    color: @brand-success;
+  }
+
+  &--warning {
+    background: fade(@brand-warning, 20%);
+    color: @brand-warning;
+  }
+
+  &--danger {
+    background: fade(@brand-danger, 20%);
+    color: @brand-danger;
+  }
+}

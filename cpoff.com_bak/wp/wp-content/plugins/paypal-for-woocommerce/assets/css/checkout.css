@@ -1,0 +1,128 @@
+a img{
+    border: none;
+}
+
+body.woocommerce-checkout .woocommerce #checkout_paypal_message #paypal_box_button > div img {
+    display: block;
+    min-width: 150px;
+    padding: 0px;
+}
+body.woocommerce-checkout .woocommerce #checkout_paypal_message #paypal_box_button img{
+    float: left ;
+    display: inline;
+    border: none;
+    padding: 0px;
+    background: none;
+    box-shadow: none;
+}
+body.woocommerce-checkout .woocommerce #checkout_paypal_message #paypal_box_button a.paypal_checkout_button_text{
+    float: left;
+}
+/*
+#paypal_box_button {
+    margin: auto;
+    text-align: center;
+    width: 620px;
+}
+*/
+#paypal_ec_button, #paypal_ec_paypal_credit_button, .paypal_ec_textbutton {
+    position: relative;
+}
+#paypal_ec_button {
+    float: left;
+    min-width: 150px;
+}
+.paypal_ec_textbutton{
+    float: left;
+}
+#paypal_ec_paypal_credit_button {
+    float: left;
+    min-width: 150px;
+    margin-left: 10px;
+}
+.entry-content img, .comment-content img, .widget img, img.header-image, .author-avatar img, img.wp-post-image{
+    border-radius: 0px;
+    box-shadow: none;
+    border: none;
+}
+.woocommerce-select{
+    border-color: #C8BFC6 #D4CDD2 #D4CDD2;
+    box-shadow: 0 1px 0 0 rgba(255, 255, 255, 0.4);
+    border: 1px solid #CCCCCC;
+    border-radius: 3px;
+    font-family: inherit;
+    padding: 0.428571rem;
+}
+.checkoutStatus {
+    width: 90%;
+    word-wrap: break-word;
+    font-size: 1.3em;
+}
+.woocommerce_paypal_ec_checkout_message {
+    clear: both;
+}
+.woocommerce #payment .form-row select , .woocommerce-page #payment .form-row select {
+    border-color: #bbb3b9 #c7c1c6 #c7c1c6;
+    color: #888;
+    font-size: inherit;
+    outline: 0 none;
+    line-height: 1;
+    min-width: 103px;
+   
+}
+.woocommerce-select.woocommerce-cc-month.mr5 {
+    margin-right: 5px;
+}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-cardholder, 
+#add_payment_method #payment div.payment_box .wc-credit-card-form-cardholder {
+background-position: right center;
+    background-repeat: no-repeat;
+    font-size: 1.5em;
+    padding: 8px;
+}
+#add_payment_method #payment .payment_method_paypal_express img, .woocommerce-checkout #payment .payment_method_paypal_express img {
+    max-height: 52px;
+    vertical-align: middle;
+    max-width: 330px;
+}
+p.woocommerce-SavedPaymentMethods-saveNew {
+    margin-bottom: 8px;
+}
+.angelleye_ec_save_to_accoount_box {
+    clear: both;
+}
+.angelleyeOverlay {
+    display:none;z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; opacity: 0.6; cursor: default; position: absolute;
+}
+.woocommerce .payment_methods li .payment_method_paypal_pro_payflow select, .woocommerce .payment_methods li .payment_method_paypal_pro select {
+    display: inline-block !important;
+}
+.woocommerce-checkout #payment ul.payment_methods li input[type=checkbox] {
+    margin: 0 7px 0 0;
+    vertical-align: middle;
+}
+p.woocommerce-SavedPaymentMethods-saveNew label {
+    vertical-align: middle;
+}
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px) {
+      .woocommerce #payment .form-row select, .woocommerce-page #payment .form-row select {
+           width: 100% !important;
+      }
+      .woocommerce-select.woocommerce-cc-month.mr5 {
+          margin-right: 0px;
+      }
+      .woocommerce-select.woocommerce-cc-year.ml5 {
+            margin-left: 0px;
+            margin-top: 12px;
+      }
+      
+      .woocommerce form .form-row-first, .woocommerce form .form-row-last, .woocommerce-page form .form-row-first, .woocommerce-page form .form-row-last {
+          width: 100%;
+      }
+      .woocommerce form .form-row-last, .woocommerce-page form .form-row-last {
+          float: left;
+      }
+      
+  }
