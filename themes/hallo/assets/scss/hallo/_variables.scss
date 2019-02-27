@@ -1,0 +1,11 @@
+// Fonts
+$sans-serif: Montserrat, 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
+
+// Responsive breaks
+$break-large: 980px;
+
+@mixin transition($args...) {
+    -webkit-transition: $args;
+       -moz-transition: $args;
+            transition: $args;
+}

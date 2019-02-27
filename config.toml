@@ -1,0 +1,53 @@
+baseURL = "https://example.com/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Curt Poff"
+description = "Curt Poff is a veteran techie now living in Tucson. Past homes include Portland and the Bay Area, where he worked for Macworld, Walmart.com, and Nike."
+theme = "hallo"
+
+[Author]
+    name = "Curt Poff"
+
+[params]
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:curt.poff@gmail.com"
+
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/cpoff"
+
+    [[params.links]]
+        icon = "twitter"
+        title = "Twitter"
+        url = "https://twitter.com/cpoff"
+
+
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/cpoff"
+
+    [[params.links]]
+        icon = "linkedin"
+        title = "linkedin"
+        url = "https://linkedin.com/in/cpoff"
+
+    [[params.links]]
+        icon = "keybase"
+        title = "Keybase"
+        url = "https://keybase.io/cpoff"
+
+    [[params.links]]
+        icon = "telegram"
+        title = "Telegram"
+        url = "https://t.me/cpoff"
+
+    [params.colors]
+        background = "#3488e2"
+        foreground = "#edf7ff"
+        hover = "#ffba82"
