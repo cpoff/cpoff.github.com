@@ -13,7 +13,12 @@ theme = "hallo"
         iconset = "fas"
         icon = "envelope"
         title = "E-mail"
-        url = "mailto:curt.poff@gmail.com"
+        url = "https://blog.curtpoff.com/contact/"
+
+    [[params.links]]
+        icon = "telegram"
+        title = "Telegram"
+        url = "https://t.me/cpoff"
 
     [[params.links]]
         icon = "github"
@@ -25,7 +30,6 @@ theme = "hallo"
         title = "Twitter"
         url = "https://twitter.com/cpoff"
 
-
     [[params.links]]
         icon = "linkedin"
         title = "linkedin"
@@ -35,11 +39,6 @@ theme = "hallo"
         icon = "keybase"
         title = "Keybase"
         url = "https://keybase.io/cpoff"
-
-    [[params.links]]
-        icon = "telegram"
-        title = "Telegram"
-        url = "https://t.me/cpoff"
 
     [params.colors]
         background = "#2a4584"

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resume on Curt Poff</title>
+    <link>https://curtpoff.com/categories/resume/</link>
+    <description>Recent content in Resume on Curt Poff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://curtpoff.com/categories/resume/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resume</title>
+      <link>https://curtpoff.com/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://curtpoff.com/resume/</guid>
+      <description>CURT POFF
+curt dot poff at gmail dot com
+https://www.linkedin.com/in/cpoff
+https://github.com/cpoff
+EXPERIENCE
+Operations Project Manager at Nike
+Filter Digital (contractor on-site at Nike campus), May 2016 - Oct. 2017
+—Led holiday initiatives for Nike.com Global Operations team. Held regular holiday check-ins with distributed geo merchandising teams, support, and in-house capabilities. Shepherded seasonal readiness programs from inception through execution.
+Developer - Full Stack Javascript Immersion program
+Portland Code School, May 2015 - Aug.</description>
+    </item>
+    
+  </channel>
+</rss>
