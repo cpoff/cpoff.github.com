@@ -46,6 +46,6 @@ theme = "hallo"
         url = "https://t.me/cpoff"
 
     [params.colors]
-        background = "#3d132a"
+        background = "#2a4584"
         foreground = "#edf7ff"
         hover = "#ffba82"
