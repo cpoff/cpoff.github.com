@@ -25,10 +25,6 @@ theme = "hallo"
         title = "Twitter"
         url = "https://twitter.com/cpoff"
 
-    [[params.links]]
-        icon = "github"
-        title = "Github"
-        url = "https://github.com/cpoff"
 
     [[params.links]]
         icon = "linkedin"
