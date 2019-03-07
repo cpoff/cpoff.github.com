@@ -4,6 +4,7 @@ permalink: "/about/"
 title: About Me
 description: Curt Poff is a veteran techie now living in Tucson. Past homes include
   Portland and the Bay Area, where he worked for Macworld, Walmart.com, and Nike.
+date:   2019-03-06
 categories:
 - about
 tags:

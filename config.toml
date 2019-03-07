@@ -3,12 +3,13 @@ languageCode = "en"
 defaultContentLanguage = "en"
 title = "Curt Poff"
 theme = "hallo"
+googleAnalytics = "UA-315392-9"
 
 [Author]
     name = "Curt Poff"
     description = "Curt Poff is a veteran techie now living in Tucson. Past homes include Portland and the Bay Area, where he worked for Macworld, Walmart.com, and Nike."
-[params]
 
+[params]
     [[params.links]]
         iconset = "fas"
         icon = "envelope"
