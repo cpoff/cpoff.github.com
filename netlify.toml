@@ -1,0 +1,35 @@
+[build]
+publish = "public"
+command = "hugo --gc"
+
+[context.production.environment]
+HUGO_VERSION = "0.49"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
+[context.split1]
+command = "hugo  --gc --minify --enableGitInfo"
+
+[context.split1.environment]
+HUGO_VERSION = "0.49"
+HUGO_ENV = "production"
+
+[context.deploy-preview]
+command = "hugo  --gc --buildFuture -b $DEPLOY_PRIME_URL"
+
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.49"
+
+[context.branch-deploy]
+command = "hugo  --gc -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.49"
+
+[context.next.environment]
+HUGO_ENABLEGITINFO = "true"
+
+# A basic redirect rule
+[[redirects]]
+  from = "/resume.html "
+  to = "https://blog.curtpoff.com/resume/"

@@ -4,6 +4,7 @@ defaultContentLanguage = "en"
 title = "Curt Poff"
 theme = "hallo"
 googleAnalytics = "UA-315392-9"
+disableSitemap = true
 
 [Author]
     name = "Curt Poff"
