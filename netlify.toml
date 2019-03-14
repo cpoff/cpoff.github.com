@@ -31,5 +31,6 @@ HUGO_ENABLEGITINFO = "true"
 
 # A basic redirect rule
 [[redirects]]
-  from = "/resume.html "
+  from = "/resume.html"
   to = "https://blog.curtpoff.com/resume/"
+  force = true
