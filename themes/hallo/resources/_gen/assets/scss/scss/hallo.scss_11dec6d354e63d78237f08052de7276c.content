@@ -5,7 +5,7 @@ body {
   padding: 0; }
 
 html {
-  font-family: 'Arimo', sans-serif;
+  font-family: Montserrat, "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
   font-size: 16px;
   overflow-y: auto; }
 
