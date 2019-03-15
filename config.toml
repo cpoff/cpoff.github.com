@@ -51,3 +51,8 @@ disableSitemap = true
         background = "#2a4584"
         foreground = "#edf7ff"
         hover = "#ffba82"
+
+    [params.fonts]
+        googlefonts = ["Droid Sans", "Fira Mono"]
+        fontbody = 'Droid Sans'
+        fontcode = 'Fira Mono'
