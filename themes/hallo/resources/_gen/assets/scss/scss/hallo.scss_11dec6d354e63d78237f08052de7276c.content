@@ -5,8 +5,8 @@ body {
   padding: 0; }
 
 html {
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 25px;
+  font-family: 'Arimo', sans-serif;
+  font-size: 16px;
   overflow-y: auto; }
 
 body {
