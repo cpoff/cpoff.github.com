@@ -6,7 +6,7 @@ I hereby claim:
 
   * I am an admin of https://curtpoff.com
   * I am cpoff (https://keybase.io/cpoff) on keybase.
-  * I have a public key with fingerprint 7D23 4D8A 284A 3C10 EB24  911E FBBE CD64 EE0C F37A
+  * I have a public key ASBnqdtCpqU82NZdzNHZzK08OWd6fu1Pk4Fqr7gSxZ0QJwo
 
 To do so, I am signing this object:
 
@@ -14,70 +14,39 @@ To do so, I am signing this object:
   "body": {
     "key": {
       "eldest_kid": "0101c268950d96d8481857409efc34064248f5585585feeda732d319563a840d76760a",
-      "fingerprint": "7d234d8a284a3c10eb24911efbbecd64ee0cf37a",
       "host": "keybase.io",
-      "key_id": "fbbecd64ee0cf37a",
-      "kid": "0101c268950d96d8481857409efc34064248f5585585feeda732d319563a840d76760a",
+      "kid": "012067a9db42a6a53cd8d65dccd1d9ccad3c39677a7eed4f93816aafb812c59d10270a",
       "uid": "a2344637b4ee7f3228cee0dd6f596719",
       "username": "cpoff"
     },
     "merkle_root": {
-      "ctime": 1551291241,
-      "hash_meta": "bd5f2d532598bd03b2dca196cd1b6f0ab0dc2056eb36431674c933f8eec95c60",
-      "seqno": 4842010
-    },
-    "revoke": {
-      "sig_ids": [
-        "a372ea9e4827eea1e54dd613ec3cfa19b1e51620317af0fcf24670159c91a9fd0f"
-      ]
+      "ctime": 1587087498,
+      "hash": "21106e1aa130294d7ca2cbc7842b5f753510948d69124a975c9a424ec21eb2ae885db0bf35364c12e53e3308c719e61f850668720829d2f7bd3a495503459d70",
+      "hash_meta": "51cc65bb7c3ecf8d6b4a5caece3bfe3a9f54a210992c6d4413ed717f6a8c33a8",
+      "seqno": 15949861
     },
     "service": {
+      "entropy": "80oIV23cV70/x6B5Hae5crfS",
       "hostname": "curtpoff.com",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
-  "ctime": 1551291277,
-  "expire_in": 157680000,
-  "prev": "0d28603b1ff4cd3ec3a4412bdf05849a2625688931d7903d469819f84d1c7eef",
-  "seqno": 55,
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.0"
+  },
+  "ctime": 1587087520,
+  "expire_in": 504576000,
+  "prev": "70966066585d589d12f966d759a948a895a006b5fd71d7a3e5a882366f8adc5d",
+  "seqno": 70,
   "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.1.0
-Comment: https://keybase.io/crypto
-
-yMPTAnicrVN9TFZVHEY0KhYTJWlD8OMKloZ4z73nnnvv62zUZKgLLb9J6vXe8wG3
-V977et/LKwiYToeKMjM/cCu3lkVSTBPTnAv8gCmhzMRcmqlTcohizQ8osbJzWa6t
-9Wd3Z7s75zy/53l+zzmnOW5gVOyAh41t5Odn7i0bcPJYuCgqL3K2qlQwbVIi+EqF
-AO3/0cWEhl1/wCKCTxCBCLCENF0RiY6IBjWgKSoUdcqwDEUEJagxRdG8wSglhipL
-RAa6gmRDgyJRkYpEQ0gXmBXMp07IsYIup1WJJEOiGZIGDRkDkZoS1AGgzDQpJghS
-KmImq15hgR32Krg50wjTDMvma3zi77f3H/j/2XdRP53B7UIkqyZXUpksSRrmkoQg
-puhIBboHDFMnaBRSjsYhmzGhPF0opE5gMfU7tu16yWLX8vaBogBJBxIEvDsjXOAv
-pK7By0yiMIkosqTomklE2ZQINoCOMAEmYqJhigRLooKoKSMoA6RCrMsy0yjFuoKR
-yE2E6ZKgLfigBiWeAHfg0IgdoJ542MrnmYUF30LBkFWJGjqFmqRSagCqQN4KkCmW
-MeOKJl8BSBJloBpMZJhJEKkiUHSsA0NnRGTCm+WemBOxcD+5d0iPmy9yXK//DGwX
-ckchx3ZtbC/mOwWuGwr7vFzckpAHXUpN/98kftMKEn5FeEWEOmHLDvKcOPJfkalq
-ukCLQ5ZD/ZaHUFSkifzzdGjEO3ciaYhHBxiDmHgdGRACySRMVDSoGxKSFKRpugyI
-qosygUjXgM40SADmWbB/MlQU7tPI55w8uaDhFjlUKD92NG9Q1IDYqJgnor23ExX7
-dPzjF/WTOvjRjJihL1yfEar6Ui1KYJnbev/IXlEz+/adjIJ7k7MbO2dnZcHkioZ3
-4x8sOX5ryJ2jAztiSxund+6vl2eta95aOe/Dq/tTE9Ja3D1q7djq5PO5v4//8bOc
-jX3zpywoay/tndaRWNttteZudgL3X6rJPZL/Nmle/aRveMPIzWkDqyoeHm5Bo0rn
-HG0qTj8Xqnn9gwPErm99cUGVEJeasm/W8Td2Vp7YnxYbyZPLDjcc2rLrtdWTkjou
-OPp6cePVT3Mmjrj/bU+Tcir3u3MHBw3peLbs0tkleEVcxrJRX2WuCv55YX5dwK4a
-Fr1nWubMzM52d9IsK/lE29xNrc+PnjBv75qMVw5Org3sLLoR7Fn/ze4jXYMPVud9
-f6ZrYfmD1srWX4o775lNj6J3972XkrIoVcy6ED/3TNKZi5fjja66lS29qaEfnmpv
-GHOorLukOWGTfkz9AsO05K0rtdOrsv0txSfG34oMZgmLknpa7i7q7p44k/XVbBv1
-QB97peettOrll3Br3PuBjtHjbq/9pL5yx46vr6+tnJdYsTwhtUtr2DtMOH9zx42G
-mM6zZQs25F3Ov21HXymvPrB0AppY8vn2lMKF7+T4c64mPfyoS768cldJcMzNW1NX
-J9evfc5mG3unlOe93L4l4dd926f+1pJ96nTMqyfvZn+cKPRdi49aN+6ab0TblTlr
-hp4b3tY2cvqpuviLc9K1ir8AxgQGPg==
-=nG3X
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZ6nbQqalPNjWXczR2cytPDlnen7tT5OBaq+4EsWdECcKp3BheWxvYWTESpcCRsQgcJZgZlhdWJ0S+WbXWalIqJWgBrX9cdej5aiCNm+K3F3EIFBOulPRmsYGJsJJsDzBjYblKWwadbtw0n7umvJT1/tiAgHCo3NpZ8RAN8nyBrXr/fGq7cF/UKjybAh6Oj89R2F+LH0erKjMGDjGK6glYkAaI0w3enrrp94q0W51wXRvPrS6SegNicAVDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFMSnfOpMyUoq0G7t6mhPMIt962/qURHek+qeNNwe2NEo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -85,3 +54,19 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/cpoff
 
 ==================================================================
+
+Check Web now? [Y/n]
+s the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZ6nbQqalPNjWXczR2cytPDlnen7tT5OBaq+4EsWdECcKp3BheWxvYWTESpcCRsQgcJZgZlhdWJ0S+WbXWalIqJWgBrX9cdej5aiCNm+K3F3EIFBOulPRmsYGJsJJsDzBjYblKWwadbtw0n7umvJT1/tiAgHCo3NpZ8RAN8nyBrXr/fGq7cF/UKjybAh6Oj89R2F+LH0erKjMGDjGK6glYkAaI0w3enrrp94q0W51wXRvPrS6SegNicAVDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFMSnfOpMyUoq0G7t6mhPMIt962/qURHek+qeNNwe2NEo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cpoffCouldn't find posted proof.
+Check Web again now? [Y/n] s the signature:hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZ6nbQqalPNjWXczR2cytPDlnen7tT
+5OBaq+4EsWdECcKp3BheWxvYWTESpcCRsQgcJZgZlhdWJ0S+WbXWalIqJWgBrX9cdej5aiCNm+K3F3EIFBOulPRmsYGJsJJsDzBjYblKWwadbtw0n7umvJT1
+/tiAgHCo3NpZ8RAN8nyBrXr/fGq7cF/UKjybAh6Oj89R2F+LH0erKjMGDjGK6glYkAaI0w3enrrp94q0W51wXRvPrS6SegNicAVDKhzaWdfdHlwZSCkaGFza
+IKkdHlwZQildmFsdWXEIFMSnfOpMyUoq0G7t6mhPMIt962/qURHek+qeNNwe2NEo3RhZ80CAqd2ZXJzaW9uAQ==And finally, I am proving ownersh
+ip of this host by posting orappending to this document.View my publicly-auditable identity here: https://keybase.io/cpo
+ff
